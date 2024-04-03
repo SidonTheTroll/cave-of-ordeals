@@ -6,4 +6,4 @@
 1. Chemistry 
     1. Amines 
     2. Biomolecules 
-    3. Haloalkane and Haloadene 
+    3. Haloalkane and Haloarenes
