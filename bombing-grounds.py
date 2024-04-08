@@ -1,3 +1,4 @@
 import pandas as pd
-a = pd.Series([10, 20, 30, 40]) 
+import numpy as np
+a = pd.Series(np.linspace(10,100,20))
 print(a)
