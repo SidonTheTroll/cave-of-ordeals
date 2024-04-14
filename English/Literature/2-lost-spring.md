@@ -39,3 +39,19 @@ Saheb wears worn-out tennis shoes, one of which has a hole. For someone accustom
 ### 9. How has Saheb's life changed when he starts working at the tea stall? 
 
 Now, Saheb earns a steady income of 800 rupees along with all his meals, ensuring that food is no longer a concern. However, his countenance no longer bears the carefree expression it once did. The steel canister in his hand now feels like a burden, symbolizing his loss of freedom. He is no longer his own master and may be required to work longer hours. The sense of helplessness in being unable to act according to his own will fills him with sadness.
+
+## "I want to drive a car"
+
+### 1. What makes the city of Firozabad famous? 
+
+Firozabad is renowned for its production of bangles. It stands as the heart of India's glass-blowing industry. Within this city, a significant portion of families is engaged in the craft of bangle-making.
+
+### 2. Mention the hazards of working in the glass bangles industry. 
+
+The glass bangle industry poses significant hazards to its workers. Prolonged exposure to the work can result in blindness. The furnaces operate at exceedingly high temperatures and often lack adequate ventilation. Due to the impoverished status of most workers, they often labor without protective eye gear, leading to blindness as a tragic consequence.
+
+### 3. How is Mukesh's attitude to his situation different from that of his family? 
+
+Mukesh's grandmother firmly believes that their lineage, bestowed by the divine, as bangle-makers must continue unbroken. Throughout their family history, bangle-making has been the sole occupation they've known.
+
+Mukesh's father has imparted to them solely the skills he possesses—the craftsmanship of bangle-making. However, Mukesh harbors aspirations of becoming a motor mechanic. Despite the distance from his home, he intends to pursue his ambition by apprenticing at a garage. In this regard, Mukesh's perspective on his circumstances diverges from that of his family.
