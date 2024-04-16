@@ -92,3 +92,89 @@ These activities are performed by officials after the tournament.
 3. Committee on Entries and Programs
 4. Announcement Committee
 5. Finance Committee
+
+# Procedure to Draw Fixtures: Knock-out and League
+- Knock-out
+    - Bye 
+    - Seeding 
+- League 
+    - Cyclic 
+    - Staircase 
+    - Tabular 
+
+## Essential Points for a Knock-out Tournament 
+1. The total number of teams participating in the tournament. 
+2. The total number of byes.
+3. The number of teams in each half of the quarter. 
+4. The number of byes to be given in each half or quarter. 
+5. The total number of rounds. 
+6. The total number of matches. 
+
+# Method of Preparing Fixture in a Knock-out Tournament
+
+> [!IMPORTANT]
+> **Bye** refers to a team which is qualified to play in the next round due to its positioning or due to qualification in previous tournaments.
+
+## Calculating Byes based on the number of Teams 
+Take for example the **number of teams is *19***.
+
+Now check for the next highest power of 2. 
+
+$\implies 2, 4, 8, 16, 32, 64....$
+
+$\therefore$ Next power of 2 to 15 = 32
+
+Difference = $32 - 19 = 13$
+
+$\therefore \text{13 byes will be given.}$
+
+## Method of Calculating Teams in Each Half 
+**The method below is only applicable if the number of teams is odd.**
+
+$\text{Upper half}=\frac{\text{Total number of teams}+1}{2}$
+
+$\text{Lower half}=\frac{\text{Total number of teams}-1}{2}$
+
+Now, to calculate the number of byes in each half, **divide the number of teams by 2 and add or subtract by 1 to the lower and upper halves respectively**.
+
+$\therefore\text{Byes in upper half}=\frac{\text{Number of byes}-1}{2}=\frac{13-1}{2}=6$
+
+$\text{Similarly, Byes in lower half}=\frac{\text{Number of byes}+1}{2}=\frac{13+1}{2}=7$
+
+## Method of Fixing Byes 
+1. The first bye is given to the last team of the lower half. 
+2. The second bye is given to the first team of the upper half. 
+3. The third bye is given to the first team of the lower half. 
+4. The fourth bye is given to the last team of the upper half. 
+5. The next byes or byes are given in the same order as described above. 
+
+![bye distribution](./img/ch1/bye-distrib.png)
+
+## Number of Matches in a Knock-out Tournament 
+To decide the number of matches in a knock-out tournament, the below formula should be applied, 
+
+$\text{Number of matches}=\text{Number of teams}-1$
+
+## Number of Rounds in a Knock-out Tournament 
+If the number of teams is in the power of 2, the number of rounds will be decided by calculating the number of factors (only number 2), other numbers will not apply. 
+
+Commonly, it's not the case so to find the number of matches, find the number of factors of the next highest power of 2. Take 19, the next power of 2 is 32, so $2\times2\times2\times2\times2=32$. So the number of matches if the number of teams is 19 is 32. 
+
+# Procedure of Fixture in a League or Round-Robin Tournament
+- For a League Tournament, there are 3 types of fixtures- 
+    - Cyclic method 
+    - Staircase Method 
+    - Tabular Method 
+
+## Cyclic Method 
+1. If the number of teams is even, then fix the place of the first team and write the team numbers in clockwise order. Else odd, take the first place as **BYE** and write the rest of the teams in the same order. 
+2. Rotate the places of the teams by one place for every round. 
+3. The alignment of the teams denotes which will be competing in that round. 
+
+![even-cyclic](./img/ch1/even-cyclic.png)
+![odd-cyclic](./img/ch1/odd-cyclic.png) 
+
+## Staircase Method 
+In this method, the fixtures are made like a staircase and here, no bye is given to the teams and there is no problem with odd or even numbers of teams. But the catch is that it is **not good to decide which teams will play in which round**. 
+
+![staircase-distrib](./img/ch1/staircase-distrib.png) 
