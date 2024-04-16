@@ -80,6 +80,12 @@ Mandell started his genetics experiment on pea plants due to their various chara
 
 ![monohybrid-cross](../diagram/ch6/mono-cross.png) 
 
+> [!NOTE]
+> T = Dominant allele  
+> t = Recessive allele  
+> Tall = Dominant trait  
+> Dwarf = Recessive trait  
+
 > [!NOTE]Ratios
 > Phenotypic ratio: 3:1  
 > Genotypic ratio: 1:2:1
