@@ -55,3 +55,35 @@ The glass bangle industry poses significant hazards to its workers. Prolonged ex
 Mukesh's grandmother firmly believes that their lineage, bestowed by the divine, as bangle-makers must continue unbroken. Throughout their family history, bangle-making has been the sole occupation they've known.
 
 Mukesh's father has imparted to them solely the skills he possesses—the craftsmanship of bangle-making. However, Mukesh harbors aspirations of becoming a motor mechanic. Despite the distance from his home, he intends to pursue his ambition by apprenticing at a garage. In this regard, Mukesh's perspective on his circumstances diverges from that of his family.
+
+### 4. What forces conspire to keep the workers in the bangle industry of Firozabad in poverty? 
+
+Many different groups work together to keep the workers in the bangle industry of Firozabad poor. These groups include people who lend money, middlemen who buy and sell goods, police officers, people who enforce rules, government workers, and politicians. They all put a lot of pressure on the workers to ensure they stay poor.
+
+### 5. How, in your opinion, can Mukesh realize his dream? 
+
+Mukesh dreams of breaking free from his family's tradition of making bangles. He knows it'll take a ton of effort and determination. But looking at others, it seems like a long shot. The caste system and the officials seem determined to keep people like him trapped, doing the toughest jobs.
+
+### 6. Mention the hazards of working in the glass bangles industry. 
+
+Working in the glass bangles industry is extremely risky. If workers spend too many years on the job, they could go blind. The furnaces are super hot and there's not enough fresh air in the cramped, dark rooms where they work. Since most workers are poor, they can't afford eye protection, which means they end up losing their sight.
+
+### 7. Who is Mukesh? What is his dream? 
+
+Mukesh comes from a humble family in Firozabad, where everyone seems to make bangles. His dad, who's also a bangle-maker, struggles to fix up their home or send Mukesh and his brother to school. But Mukesh has his sights set on something different. He dreams of becoming a motor mechanic and making his own way in the world.
+
+### 8. Where is Mukesh's house located? What is he proud of? 
+
+Mukesh comes from a humble family in Firozabad, where everyone seems to make bangles. His dad, who's also a bangle-maker, struggles to fix up their home or send Mukesh and his brother to school. But Mukesh has his sights set on something different. He dreams of becoming a motor mechanic and making his own way in the world.
+
+### 9. 'Savita is a symbol of innocence and efficiency.' Comment.
+
+Savita is a young, innocent girl forced into the bangle-making industry because of her family's poverty. She's really good at making bangles, but even her talent isn't enough to ensure she has enough to eat every day or to create new opportunities for herself.
+
+### 10. Why do the bangle makers not organized themselves into a cooperative? 
+
+The bangle makers couldn't come together to form a cooperative because they were stuck in a harmful cycle involving moneylenders, middlemen, police, government officials, and politicians. If they attempted to organize, the police would beat them up and throw them in jail.
+
+### 11. Which two distinct worlds does the author notice among the bangle making industry? 
+
+The author observed two different worlds. One was the world of a family trapped in poverty and weighed down by the discrimination of the caste they were born into. The other was a cycle involving moneylenders, middlemen, police, law enforcers, government officials, and politicians. Together, these worlds would burden a child so heavily that they wouldn't be able to divert from a low-pay profession and become a bangle maker as easily as their father has.
