@@ -99,4 +99,32 @@ Mandell started his genetics experiment on pea plants due to their various chara
 > [!IMPORTANT]
 > The character which is represented in heterozygous condition is called **dominant trait** and the other **recessive trait**
 
-Almost every experiment Mandell did gave him almost same result. 
+Almost every experiment Mandell did gave him almost the same result. 
+
+# Dihybrid Cross
+
+<img align=right width=300 src="../diagram/ch6/di-cross.png">
+
+- Tall, Yellow: 9
+- Dwarf, Yellow: 3 
+- Tall, Green: 3 
+- Dwarf, Green: 1
+
+> [!IMPORTANT]
+> - **Phenotypic ratio**: 9:3:3:1
+> - **Genotypic ratio**: 1:2:2:4:1:2:1:2:1
+
+# Laws 
+
+## Law of Dominance 
+When a pair is present, only one allele will express itself. 
+
+## Law of Segregation
+The pair of genes will get separated.
+
+## Law of Independent Assortment
+A characteristic can move independently regardless of other characteristics. 
+
+> [!IMPORTANT]
+> 1. First two laws are derived from **Monohybrid cross** and third is from **dihybrid cross**. 
+> 2. Out of 3 laws, only one is universally accepted, i.e., **Law of Segregation**
