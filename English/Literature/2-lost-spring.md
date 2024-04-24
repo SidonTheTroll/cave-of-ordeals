@@ -44,7 +44,7 @@ Now, Saheb earns a steady income of 800 rupees along with all his meals, ensurin
 
 ### 1. What makes the city of Firozabad famous? 
 
-Firozabad is renowned for its production of bangles. It stands as the heart of India's glass-blowing industry. Within this city, a significant portion of families is engaged in the craft of bangle-making.
+Firozabad is renowned for its production of bangles. It stands as the heart of India's glass-blowing industry. Within this city, a significant portion of families are engaged in the craft of bangle-making.
 
 ### 2. Mention the hazards of working in the glass bangles industry. 
 
@@ -58,7 +58,7 @@ Mukesh's father has imparted to them solely the skills he possesses—the crafts
 
 ### 4. What forces conspire to keep the workers in the bangle industry of Firozabad in poverty? 
 
-Many different groups work together to keep the workers in the bangle industry of Firozabad poor. These groups include people who lend money, middlemen who buy and sell goods, police officers, people who enforce rules, government workers, and politicians. They all put a lot of pressure on the workers to ensure they stay poor.
+Many different groups work together to keep the workers in the bangle industry of Firozabad poor. These groups include people who lend money, middlemen who buy and sell goods, police officers, people who enforce rules, government workers and politicians. They all put a lot of pressure on the workers to ensure they stay poor.
 
 ### 5. How, in your opinion, can Mukesh realize his dream? 
 
@@ -74,16 +74,16 @@ Mukesh comes from a humble family in Firozabad, where everyone seems to make ban
 
 ### 8. Where is Mukesh's house located? What is he proud of? 
 
-Mukesh comes from a humble family in Firozabad, where everyone seems to make bangles. His dad, who's also a bangle-maker, struggles to fix up their home or send Mukesh and his brother to school. But Mukesh has his sights set on something different. He dreams of becoming a motor mechanic and making his own way in the world.
+Mukesh's house is located in a slum area, where the streets are filled with the smell of garbage. The homes there are small and rundown, with walls falling apart, doors that wobble and no windows. They're packed with families, along with their pets and livestock. Many of these houses are little more than shacks or huts. Despite the conditions, Mukesh is proud that his house is being reconstructed. His eyes light up as he eagerly offers to show the author his home.
 
 ### 9. 'Savita is a symbol of innocence and efficiency.' Comment.
 
-Savita is a young, innocent girl forced into the bangle-making industry because of her family's poverty. She's really good at making bangles, but even her talent isn't enough to ensure she has enough to eat every day or to create new opportunities for herself.
+Savita is a young, innocent girl forced into the bangle-making industry because of her family's poverty. She's very good at making bangles, but even her talent isn't enough to ensure she has enough to eat every day or to create new opportunities for herself.
 
-### 10. Why do the bangle makers not organized themselves into a cooperative? 
+### 10. Why do the bangle makers not organize themselves into a cooperative? 
 
-The bangle makers couldn't come together to form a cooperative because they were stuck in a harmful cycle involving moneylenders, middlemen, police, government officials, and politicians. If they attempted to organize, the police would beat them up and throw them in jail.
+The bangle makers couldn't come together to form a cooperative because they were stuck in a harmful cycle involving moneylenders, middlemen, police, government officials and politicians. If they attempted to organize, the police would beat them up and throw them in jail.
 
-### 11. Which two distinct worlds does the author notice among the bangle making industry? 
+### 11. Which two distinct worlds does the author notice among the bangle-making industry? 
 
-The author observed two different worlds. One was the world of a family trapped in poverty and weighed down by the discrimination of the caste they were born into. The other was a cycle involving moneylenders, middlemen, police, law enforcers, government officials, and politicians. Together, these worlds would burden a child so heavily that they wouldn't be able to divert from a low-pay profession and become a bangle maker as easily as their father has.
+The author observed two different worlds. One was the world of a family trapped in poverty and weighed down by the discrimination of the caste they were born into. The other was a cycle involving moneylenders, middlemen, police, law enforcers, government officials and politicians. Together, these worlds would burden a child so heavily that they wouldn't be able to divert from a low-pay profession and become a bangle maker as easily as their father has.
