@@ -112,7 +112,7 @@ Almost every experiment Mandell did gave him almost the same result.
 
 > [!IMPORTANT]
 > - **Phenotypic ratio**: 9:3:3:1
-> - **Genotypic ratio**: 1:2:2:4:1:2:1:2:1
+> - **Genotypic ratio**: 1:2:1:2:4:2:1:2:1
 
 # Laws 
 
@@ -128,3 +128,22 @@ A characteristic can move independently regardless of other characteristics.
 > [!IMPORTANT]
 > 1. First two laws are derived from **Monohybrid cross** and third is from **dihybrid cross**. 
 > 2. Out of 3 laws, only one is universally accepted, i.e., **Law of Segregation**
+
+# Incomplete Dominance
+
+A good example of incomplete dominance can be seen in the plant **Snapdragon**.
+
+In this experiment, two pure breed flowers are taken, i.e., red and white and then they are crossed to give a pink offspring. When that pink offspring is self-pollinated, it gives 4 types of flowers, namely, red, pink and white. It is found that the phenotypic and genotypic ratios are same, i.e., **1:2:1**. This shows that both alleles are not completely dominant which led to the appearance of P generation feature in $F_2$ generation. 
+
+# Co-Dominance
+
+<img align=right width=450 src="../diagram/ch6/blood-group.png">
+
+A very good example of Co-Dominance can be explained by the **blood group** of human beings which is **controlled by gene I**.
+
+- Gene **I** has 3 alleles:
+    - $I^A$
+    - $I^B$
+    - i 
+
+Here, $I^A$ and $I^B$ are both equally dominant which gives a combination blood group **AB**.

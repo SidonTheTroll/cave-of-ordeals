@@ -178,3 +178,17 @@ Commonly, it's not the case so to find the number of matches, find the number of
 In this method, the fixtures are made like a staircase and here, no bye is given to the teams and there is no problem with odd or even numbers of teams. But the catch is that it is **not good to decide which teams will play in which round**. 
 
 ![staircase-distrib](./img/ch1/staircase-distrib.png) 
+
+## Tabular Method 
+
+This is also called the **graph method**.
+
+### Number of Rounds 
+- If even `N-1` where 'N' is the number of matches gives the number of rounds. 
+- Whereas if the number of teams is odd, the number of teams itself is the number of rounds held.
+
+### Number of Boxes 
+The number of boxes gives how wide the boxes should be made to set the numbers for the match-fixing. 
+
+- If even, `N+1` gives the number of boxes where 'N' is the number of terms. 
+- And `N+2` gives the number of boxes if number of teams is odd. 
