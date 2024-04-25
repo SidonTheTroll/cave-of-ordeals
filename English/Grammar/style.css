@@ -1,6 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
 .box {
     border: 2px solid black; /* Border style */
     padding: 10px; /* Padding inside the box */
     width: 75%; /* Width of the box using percentage */
     box-sizing: border-box; /* Include padding and border in box width */
     }
+
