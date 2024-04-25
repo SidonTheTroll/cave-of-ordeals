@@ -147,3 +147,45 @@ A very good example of Co-Dominance can be explained by the **blood group** of h
     - i 
 
 Here, $I^A$ and $I^B$ are both equally dominant which gives a combination blood group **AB**.
+
+# Chromosomal Theory of Inheritance 
+
+In 1900, three scientists, de Vries, Correns and von Tschermak rediscovered Mendel's results in the inheritance of characteristics. 
+
+- Mendel's Experiment wasn't well known when he was alive due to:
+    1. No widespread journals 
+    2. Statistics in biology were considered irrelevant
+    3. Miscommunication between Mendel and other scientist
+
+The pea plant's chromosomes weren't the same for the characters he chose to distinguish. 
+
+> [!IMPORTANT]
+> Morgann experimented with fruit fly (*Drosophila melanogaster*)
+
+- Reasons for experimenting with specific organisms: 
+    1. Short lifespan 
+    2. Controlled reproduction
+    3. Distinctive traits
+    4. Large number of offspring 
+    5. Culture in laboratory or synthetic medium.
+
+- Fruit flies had distinctive features
+    - **Male**: red eye, brown body 
+    - **Female**: white eye, yellow body. 
+
+# Linkage and Recombination 
+## Linkage 
+Two different traits are present in different chromosomes.  
+
+- If a locus combination enters the next generation without any alternation is called linkage. 
+- If all genes in a parent moves to the next generation is called **complete linkage** which is extremely rare. 
+
+<div style="page-break-after: always;"></div>
+
+- **Crossing over**: gene exchange
+- **Incomplete linkage** some of the genes aren't changed. 
+
+If the distance between genes is greater, the chances of recombination are increased. 
+
+> [!IMPORTANT]
+> **Centimorgan unit** is used in gene mapping. 
