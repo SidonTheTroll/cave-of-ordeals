@@ -178,7 +178,7 @@ The pea plant's chromosomes weren't the same for the characters he chose to dist
 Two different traits are present in different chromosomes.  
 
 - If a locus combination enters the next generation without any alternation is called linkage. 
-- If all genes in a parent moves to the next generation is called **complete linkage** which is extremely rare. 
+- If all genes in a parent move to the next generation is called **complete linkage** which is extremely rare. 
 
 <div style="page-break-after: always;"></div>
 
@@ -189,3 +189,31 @@ If the distance between genes is greater, the chances of recombination are incre
 
 > [!IMPORTANT]
 > **Centimorgan unit** is used in gene mapping. 
+
+# Pollen Grain
+
+- Pollen grains of many series cause allergies and bronchial afflictions in some people leading to respiratory disorders like asthma, bronchitis, etc. 
+- Carrot grass (*Parthenium hysterophorus*) is an invasive grass species from the **American tropics** that came to India via. food transport trains during the Indian Famine 
+
+> [!NOTE]
+> Pollen grains are rich in nutrients and are popularly taken as food supplements by athletes and race horses alike. 
+
+Once pollen grains are released, they have to be fertilized quickly before they lose viability.  
+Food grains such as **rice and wheat** only have **viability for about 30 minutes** whereas members of **Rosaceae, Leguminoseae and Solanaceaee** have **viability up to a few months**.
+
+For storage of pollen grains as well as human sperms, they are cryogenically frozen (in liquid nitrogen) to last many months. 
+
+# The Pistil, Megasporangium (ovule) and Embryo 
+
+> [!NOTE]
+> 1. **Single pistil**: monocarpellary 
+> 2. **Many pistil**: multicarpellary 
+> 3. **Fused pistil**: syncarpous
+> 4. **Free pistil**: apocarpous
+
+- Parts of pistil 
+    - **Stigma**: landing place for pollen grains.
+    - **Style**: allows pollen to reach the ovary. 
+    - **Ovary**: prepares ovules for fertilization. 
+
+Megasporangia arise from the placenta and are commonly called ovules and can occur in many numbers.
