@@ -78,3 +78,17 @@ s = pd.DataFrame(a,columns=['Shop 1', 'Shop 2', 'Shop 3', 'Shop 4'], index=['1st
 
 print(s)
 ```
+
+- `print(var.loc[<rowheader>:<rowheader>,<columnheader>:<columnheader>])`
+  - From a dataframe, show the specific case-sensitive data. 
+- `print(var.loc[<columnheader>])`
+  - Print all rows with column data
+- `print(var.loc[<rowheader>])`
+  - Print all column data of a row. 
+- `print(var.iloc[1:3,0:2])`
+  - Prints data using address lines for row number and column respectively. 
+
+<div style="page-break-after: always;"></div>
+
+- `df["Hospital"] = (<values>)`
+- `df.at[("<Indexname>")] = (<values>)`
