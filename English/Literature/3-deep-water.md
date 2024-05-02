@@ -48,28 +48,15 @@ Douglas lamented the loss of opportunities to enjoy water activities such as can
 The instructor meticulously and patiently molded Douglas into a swimmer. For three months, he didn't even require Douglas to submerge his face in the water. Instead, he trained him using a rope attached to Douglas's belt, which went over a pulley on an overhead cable.
 
 ### 16. Which other exercise did the instructor prescribe Douglas to make him shed the panic caused by water? 
-### 17. What exercise helped Douglas to loosen his stiff legs and make them work as he desired. 
+He showed Douglas how to breathe out underwater, then lift his nose to breathe in. Douglas practiced this many times, slowly shedding the panic caused by water.
 
+### 17. What exercise helped Douglas to loosen his stiff legs and make them work as he desired?
+The instructor stood by the pool's edge, guiding Douglas. He got Douglas to kick his legs, which he did repeatedly for weeks. Initially, his legs were stubborn and didn't cooperate, but over time, they loosened up. Eventually, he gained control over them.
 
+----------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> [!NOTE]
+> The qna below was prepared in early and not given to write as per the teacher. 
 
 ### 3. How did this experience affect him? 
 
