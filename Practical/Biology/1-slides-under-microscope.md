@@ -119,7 +119,100 @@ Through contaminated food and water having embryonated eggs.
 - Abdominal discomforts- colic pain. 
 - Retarded body growth and impairment in mental efficiency. 
 
+# Blastocyst 
+## Observations 
+<img align=right src="./img/ex-1/blastula.png">
+
+- It is a spherical mass of cells. 
+- It carries a fluid-filled cavity called blastocoel. 
+-  It is surrounded by an outer envelope of cells called trophoblast or trophoectoderm.
+-  It also carries a group of inner mass cells (embryoblast) in the blastocoel cavity. 
+-  The embryoblast (inner mass cells) later form the embryo and the trophoblast gets attached to the endometrium layer of the uterus for implantation.
+
+# Plasmodium 
+<img align=right src="./img/ex-1/plasmodium.png " width=400>
+
+**Kingdom**: Protista  
+**Phylum**: Apicomplexa  
+**Class**: Aconoidasida  
+**Order**: Haemosporida  
+**Family**: Plasmodiidae  
+**Genus**: *Plasmodium*  
+**Species**: *vivax*
+
+- **Disease caused:** Malaria 
+
+## Identifying Features
+- Plasmodium enters humans as sporozoites via female Anopheles mosquito bites.
+- Infected by biting humans, female Anopheles mosquitoes store and multiply Plasmodium parasites in their salivary glands, transmitting sporozoites to humans when they bite again.
+- Sporozoites, single-nucleated, spindle-shaped organisms, display wriggling motion. 
+- Plasmodium needs both humans and mosquitoes to complete its life cycle, with the female Anopheles mosquito as the vector. 
+- Plasmodium multiplies in liver cells, then rupture RBCs, releasing the toxin *haemozoin*.
+
+## Symptoms 
+1. Headache and nausea 
+2. Chill, shiver, then fever recurs every 3 to 4 days.
+3. Fever is subsidized by profuse sweating. 
+
+# Entamoeba 
+<img width=800 src="./img/ex-1/entamoeba.png">
+
+**Kingdom:** Eukaryota  
+**Phylum:** Amoebozoa  
+**Class:** Archamoebae  
+**Order:** Amoebida  
+**Family:** Entamoebidae  
+**Genus:** *Entamoeba*  
+**Species:** *histolytica*
+
+- **Disease caused:** amoebiasis or amoebic dysentery
+
+## Identifying features
+- It's a human intestinal/rectal endoparasite.
+- Exists as trophozoite and cyst.
+- Trophozoite is pathogenic and exhibits irregular shape and possesses a single pseudopodium.
+- Protoplasm divides into ectoplasm and endoplasm. The nucleus, ingested RBCs, and food vacuole reside in the endoplasm. 
+- The cystic form, spherical and infective, harbors four nuclei while residing in the intestinal lumen. 
+- Protected by a thick wall, the cystic form stores glycogen and nuclei.
+
+## Mode of Infection 
+Infection spreads through food or water containing Entamoeba cysts. When unpeeled fruits or uncooked vegetables are consumed, cystic Entamoeba enters the intestinal lumen via the fecal-oral route.
+
+## Symptoms of Disease
+Ulceration and bleeding through rectum, abdominal pain, cramps, vomiting, very acute diarrhoea and anaemia. 
+
+# Ascaris
+<img align=right width=400 src="./img/ex-1/ascaris.png">
+
+**Kingdom:** Animalia  
+**Phylum:** Nematoda  
+**Class:** Secernentea  
+**Order:** Ascaridida  
+**Family:** Ascarididae  
+**Genus:** *Ascaris*  
+**Species:** *lumbricoides*
+
+- **Disease caused:** Ascariasis 
+
+## Identifying Features 
+
+- Body is elongated, cylindrical, unsegmented, pointed at both ends. 
+- Body is surrounded by thick cuticle. 
+- Sexual dimorphism is present with males smaller than females.
+- Male bear mouth, excretory pore, and cloacal aperture. Posterior end is strongly curved with penial setae pair.
+- Females are larger with mouth, excretory pore, female genital aperture, and anus. Posterior end is straight.
+- One dorsal, one ventral, and two lateral lines run the entire body length.
+
+## Mode of Infection
+Through contaminated food and water having embryonated eggs. 
+
+## Symptoms of Disease 
+- Loss of appetite, diarrhoea and vomiting. 
+- Abdominal discomforts- colic pain. 
+- Retarded body growth and impairment in mental efficiency. 
+
 # Cuscuta 
+<img align=right width=300 src="./img/ex-1/cuscuta.png">
 <img align=right width=300 src="./img/ex-1/cuscuta.png">
 
 **Kingdom**: Plantae  
@@ -136,6 +229,11 @@ Through contaminated food and water having embryonated eggs.
 - Cuscuta bears small, bell-shaped flowers, usually white or pinkish, clustered on its stems.
 - After flowering, Cuscuta forms seed capsules with many small seeds, which differ in shape and size among species.
 - Different Cuscuta species exhibit specific host plant preferences, ranging from a wide variety of hosts to more restricted selections.
+- Cuscuta's thread-like stem twines around hosts, absorbing nutrients via haustoria.
+- Leafless or with minimal leaves, Cuscuta species depend entirely on their hosts for nutrition, having non-functional leaves for photosynthesis.
+- Cuscuta bears small, bell-shaped flowers, usually white or pinkish, clustered on its stems.
+- After flowering, Cuscuta forms seed capsules with many small seeds, which differ in shape and size among species.
+- Different Cuscuta species exhibit specific host plant preferences, ranging from a wide variety of hosts to more restricted selections.
 
 ## Mode of Parasitism
 Cuscuta infects trees by twining its stems around them and forming haustoria, which penetrates the host's tissues, drawing water and nutrients.
@@ -143,7 +241,11 @@ Cuscuta infects trees by twining its stems around them and forming haustoria, wh
 ## Symptoms of Parasitism
 - Persistent stunted growth
 - Pronounced weakness and wilt
+- Persistent stunted growth
+- Pronounced weakness and wilt
 - Noticeable Yellowing or Discoloration
+- Marked reduction in flowering and fruit production
+- Imminent death of host plant
 - Marked reduction in flowering and fruit production
 - Imminent death of host plant
 
