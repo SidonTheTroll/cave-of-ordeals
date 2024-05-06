@@ -217,3 +217,45 @@ For storage of pollen grains as well as human sperms, they are cryogenically fro
     - **Ovary**: prepares ovules for fertilization. 
 
 Megasporangia arise from the placenta and are commonly called ovules and can occur in many numbers.
+
+---
+
+- Autosomal: genes that aren't present in sex chromosome. 
+
+**Phenylketonuria** is a recessive mendelian pleiotropic disease.
+
+# Mutation 
+- It is a sudden change in genetic material (chromosome, gene, DNA)
+
+# Chromosomal Aberration/Abnormalities 
+1. **Deletion**: genes are removed.
+2. **Duplication**: genes are copied. 
+3. **Inversion**: sequence of genes is inverted.
+4. **Insertion**: a new gene(s) is introduced. 
+
+# Mutagen 
+
+These are agents that cause mutation. 
+
+- Agents:
+    - **Physical Mutagen**: high ionizing radiation (x-ray, UV ray, gamma ray) alters genetic material. 
+    - **Chemical Mutagen**: Mustard gas 
+    - **Biological Mutagen**: virus
+
+# Sex Determination 
+
+- **Autosome**: determine features other than sex. 
+- **Sex chromosome**: determines sex 
+
+## Human 
+<img align=right width=400 src="../diagram/ch6/human-sex-determination.png">
+
+> [!IMPORTANT]
+> Autosomes may not be mentioned. 
+
+## Drosophila (Fruit Fly)
+
+- Mechanism is same as humans. DO NOT MENTION CHROMOSOME NUMBER 
+
+## Birds 
+<img align=right width=400 src="../diagram/ch6/bird-sex-determination.png">
