@@ -259,3 +259,39 @@ These are agents that cause mutation.
 
 ## Birds 
 <img align=right width=400 src="../diagram/ch6/bird-sex-determination.png">
+
+# Chromosomal Disorders  
+
+## Klinefelter's Syndrome 
+
+<img align=right width=400 src="../diagram/ch6/klinefelter-turner.jpg">
+
+This trisomy genetic disorder is caused by the presence of an additional copy of chromosome resulting in a karyotype of 47,XXY. Such individuals are male and sterile (not able to reproduce) with female characteristics like gynecomastia (growth of breasts). 
+
+## Turner's Syndrome
+<img align=right width=400 src="../diagram/ch6/klinefelter.jpg">
+
+This monosomy genetic disorder is seen in females due to the above cross if **anaphase** fails to divide the chromosomes equally. This causes the offspring to be a sterile female with underdeveloped characteristics. The ovaries are rudimentary (basic with no actual work). 
+
+## Superfemale 
+Karyotype AA+XXX. Sterile female with abnormalities. 
+
+## Supermale 
+Karyotype AA+XYY. Sterile male with abnormalities.
+
+## Down's Syndrome
+**Trisomy of chromosome 21** leads to a small round head, furrowed tongue and partially open mouth. Palm is broad with characteristic palm crease. Physical, psychomotor nad mental development is retarded. 
+
+--- 
+
+**Karyotyping**: arranging homologous chromosomes and finding abnormalities. 
+
+# Mendelian Disorder 
+
+Some disorder are sex linked and are recessive trait. 
+
+- Sex linked, recessive trait. 
+    - Genes in sex chromosome.
+- Autosomal trait 
+    - Found in autosomes 
+    - Never take sex chromosomes in consideration. 
