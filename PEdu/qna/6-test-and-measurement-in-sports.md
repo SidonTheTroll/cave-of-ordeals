@@ -13,4 +13,4 @@ This test battery is revised version of Johnson's Educability test which was des
 3. Jumping half turn for boys and girls. 
 4. Jumping full turn for only boys. 
 
-The stunt will be performed in a test area, i.e., 15 ft long and 2 ft wide is marked as shown that the 15 ft length is divided into 10 sections of 18 inches. THe width of the transverse line is 3/4 inch nad 3 alternatively. The center of the lines remain 18 inches apart. In the center of the mat area, another 3/4 inch wide line is drawn length wise. 
+The stunt will be performed in a test area, i.e., 15 ft long and 2 ft wide is marked as shown that the 15 ft length is divided into 10 sections of 18 inches. The width of the transverse line is 3/4 inch and 3 alternatively. The center of the lines remains 18 inches apart. In the center of the mat area, another 3/4 inch wide line is drawn lengthwise. 
