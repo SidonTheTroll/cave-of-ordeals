@@ -8,7 +8,7 @@
 
 </div>
 
-Probably has notes for all the subjects. 
+Probably has notes for all the subjects. (Screw you physics and chem)
 
 Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 
