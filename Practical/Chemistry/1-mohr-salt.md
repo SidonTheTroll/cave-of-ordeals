@@ -13,7 +13,7 @@ $FeSO_4 \cdot 7H_2O + (NH_4)_2SO_4 \rightarrow FeSO_4\cdot(NH_4)_2SO_4\cdot SO_4
 
 # Procedure 
 
-<img align=right width=500 src="./img/image.png">
+<img align=right width=450 src="./img/mohr-salt.png">
 
 1. Take a 250 ml beaker and wash it with distilled water. Transfer 10g ferrous sulfate and 5 g ammonium sulfate crystals to it. 
 2. Add 3-4 ml of dilute sulfuric acid to prevent hydrolysis of ferrous sulfate. 
