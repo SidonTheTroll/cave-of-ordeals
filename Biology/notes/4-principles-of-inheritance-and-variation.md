@@ -288,10 +288,131 @@ Karyotype AA+XYY. Sterile male with abnormalities.
 
 # Mendelian Disorder 
 
-Some disorder are sex linked and are recessive trait. 
+Some disorders are sex-linked and are recessive traits. 
 
-- Sex linked, recessive trait. 
+- Sex-linked, recessive trait. 
     - Genes in sex chromosome.
 - Autosomal trait 
     - Found in autosomes 
-    - Never take sex chromosomes in consideration. 
+    - Never consider sex chromosomes 
+
+## Colorblindness 
+
+Always expressed in homozygous condition. 
+
+$X^C$: recessive trait for colorblindness   
+| Female  | Male |
+| :---- | :---- |
+| $X^CX^C$: Colorblind | $X^CY$: Colorblind | 
+| $X^CX$: Carrier but normal | $X^CY$: Colorblind |
+| $XX$: Normal | | 
+
+#### Q/ A colorblind male marries a female which is normal which is normal for that trait. Then what will be the possibility that their girl child will suffer from colorblindness? 
+
+
+Therefore the daughter will not be colorblind but will be a carrier of that chromosome. 
+
+Probability of colorblindness in the daughter: 0% 
+
+> [!IMPORTANT]
+> Male contributes defective gene to daughter.  
+> Female contributes defective genet to son. 
+
+#### Q/ If a colorblind woman marries a man who is normal for that trait. Then find the probability of their male and female child suffer from colorblindness. 
+
+Son will be colorblind and daughter will be a carrier. 
+
+Probability: son has 100% chance of colorblindness. Daughter has 0% chance of being colorblind but 100% of being a carrier. 
+
+## Haemophilia 
+It is also a sex-linked, recessive trait.  
+In this disease, a small cut leads to excessive bleeding. 
+
+| Female  | Male   |
+| :---- | :---- |
+| $X^hX^h$: haemophilic | $X^hY$: haemophilic |
+| $X^hX$: carrier | $XY$: normal | 
+| $XX$: normal | | 
+
+#### Q/ A haemophilic man marries a woman which is a carrier of the trait but is not suffering from the disease. Find the probability of the male and female child suffering from haemophilia. 
+
+The offsprings will have the following chromosomes: $X^hX^h, X^hX, X^HY, XY$
+
+Probability:  
+| Female  | Male   | 
+| :---- | :---- | 
+| Haemophilic female: 50% | Haemophilic male: 50% | 
+| Carrier female: 50% | Normal male: 50% |
+| Normal female: 0% |  | 
+
+## Sickle-cell Anaemia 
+
+<img align=right width=400 src="../diagram/ch6/sickle-cell-cross.png">
+
+- This is an autosome-linked recessive trait transmitted from parents to offspring when both the parents are carriers of the gene (heterozygous). 
+
+- There are 4 globins in haemoglobin
+    - $\alpha_1$
+    - $\alpha_2$
+    - $\beta_1$
+    - $\beta_2$
+
+The **6th amino acid of** $\beta_2$ **globin** is called GAG (Glutamic Acid). Due to **mutagen****, the GAG becomes GUG (valine). This leads to abnormal hemoglobin formation.
+
+GAG to GUG is a point mutation and is called **transversion**.
+
+When in need of oxygen by the body, the defected hemoglobin isn't able to carry it and over time, polymerizes and shrinks. Therefore, there's a chronic lack of oxygen in the body. 
+
+The sickle-shaped hemoglobin, due to its shape, can block the blood vessels and lead to death in most cases and if not, lead to early death. 
+
+To avoid this, the patient needs frequent normal blood transfusions.
+
+> [!NOTE]
+> 1. It i autosomal recessive disease therefore, it can be transmitted from parents to the offspring when both male and female individuals are carrier (heterozygous) of the gene.
+> 2. The disease is controlled by a single pair of allele, $Hb^A$ and $Hb^S$
+
+> [!IMPORTANT]
+> - $Hb^AHb^A$ (Normal, homozygous)
+> - $Hb^AHb^S$ (Normal, carrier)  
+> - $Hb^SHb^S$ (Diseased, die before attaining maturity)
+
+> [!IMPORTANT]
+> - Heterozygous $(Hb^AHb^S)$ individuals appear apparently unaffected but they are carrier of the disease.  
+> - Disease/defect is caused by mutation (transversion) of the gene-controlling $\beta$-chain of hemoglobin. 
+
+## Phenylketonuria 
+This is an **autosomal recessive trait**. 
+
+The affected individual lacks the enzyme that converts the amino acid **phenylalanine** into thyroxine. 
+
+**Phenylalnine** (amino acid) converts into **tyrosine** in the presence of an enzyme **phenylalanine hydroxylase**. Tyrosine is a precursor for many processes like production of melanin, adrenaline, dopamine, thyroxine, etc.
+
+- Phenylalanine hydroxylase enzyme is made in the liver.
+
+Phenylalanine hydroxylase defect is cause by mutagen which leads to the formation of **phenylpyruvic acid** and get deposited into various body parts and leads to accumulation. This causes **mental retardation, depigmentation, basal metabolic rate imparation, cataract, jaundice, enlarged liver and kidney damage.** 
+
+## Thalassemia 
+It is an **autosomal recessive trait.**
+
+It **impairs** the **quantity of hemoglobin** formed.
+
+- Thalassemia
+    - $\alpha$-thalassemia: 11th chromosome must have **thalassemic gene** and leads to lack in the production of $\alpha$-globin
+    - $\beta$-thalassemia: 11th chromosome must have **thalassemic gene** and leads to lack in the production of $\beta$-globin.
+- This leads to collective deficiency in hemoglobin *mainly seen in africans*.
+
+> [!NOTE]
+> 1. In this situation, free globin chains, which are insoluble, accumulate inside red blood cells and form precipates which demage the cell, causing **cell lysis** and resulting in **anaemia**. 
+> 2. There are two main types of thalassemias in thi synthesis of $\alpha$ and $\beta$ globins are defective. 
+
+### Beta Thalassemia 
+- There is decrease synthesis of $\beta$-globin. 
+- The defect is due to alleles $HBB$ gene present on chromosome 11. 
+- Person with one defective allele suffer from **thalassemia minor** with larger number of microcytic erythrocytes and lesser amount of hemoglobin. 
+- Persons with both the defective alleles suffer from **Cooley's anaemia** or **thalassemia major**.
+- There is severe **hemolytic anaemia, hepatosplenomegaly, cardiac enlargement and skeletal deformities.**
+
+### Delta Thalassemia 
+- It occurs due to **defective allele of $HBD$ gene present on chromosome 11** that forms delta chain of hemoglobin. 
+- Adults hav eabout 3% hemoglobin cansisting of $\alpha$ and $\beta$ chains. Therefore, the effect of this **thalassemia is minor**.
+- It is an abnormal 
