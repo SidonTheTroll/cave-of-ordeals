@@ -24,4 +24,3 @@ Typically, angiosperm anther is bilobed with each lobe having **two theca** (dit
 > [!IMPORTANT]
 > The anther is four sided structure consisting of four microsporangia located at the corners, two in each lobe.
 
-## Structure of Microsporangium 
