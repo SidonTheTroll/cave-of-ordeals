@@ -20,8 +20,8 @@ While robots may not fully replace teachers, they can complement their efforts. 
 </div>
 <div align=center style="margin-left: 360px"> - by Nikhil</div>
 
-As I walked down the bustling street, my heart sank at the sight that unfolded before my eyes: a group of boys mercilessly beating a stray dog. Shock and anger surged within me as I witnessed the senseless violence inflicted upon this innocent creature. Unable to stand idly by, I confronted the perpetrators, their callousness mirroring a disturbing indifference towards the suffering of animals.
+As I walked down the bustling street, my heart sank at the sight that unfolded before my eyes: a group of boys mercilessly beating a stray dog. Shock and anger surged within me as I witnessed the senseless violence inflicted upon this innocent creature. Unable to stand idly by, I confronted the felons, their coldness mirroring a disturbing indifference towards the suffering of animals.
 
-Cruelty to animals is not only a moral abomination but also a reflection of society's decay. Our treatment of animals speaks volumes about our humanity, or lack thereof. Every living being, regardless of species, deserves dignity and compassion. Yet, incidents of abuse and neglect persist, perpetuating a cycle of violence and desensitization.
+Cruelty to animals is not only a moral abomination but also a reflection of society's decay. Our treatment of animals reflects our humanity, or its absence. Every living being, regardless of species, deserves dignity and compassion. Yet, incidents of abuse and neglect persist, perpetuating a cycle of violence and desensitization.
 
-It is imperative that we, as a society, take a stand against cruelty to animals. Education, legislation, and advocacy are essential tools in fostering empathy and enforcing accountability. Let us unite in our commitment to protect and defend our voiceless companions, for in their welfare lies the true measure of our humanity.
+It is essential that we, as a society, take a stand against cruelty to animals. Education, legislation, and advocacy are necessary tools for fostering empathy and enforcing accountability. Let us unite in our commitment to protect and defend our voiceless companions, for in their welfare lies the true measure of our humanity.
