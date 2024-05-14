@@ -87,7 +87,7 @@ Date: 10 May, 2024
 Signature: Nipun Dubey
 ```
 
-#### Q/ You are Rohan Khanna of 149, Circular Road, Panipat. Write an application to the manager, DAB Senior Secondary School, Panipat in response to an advertisement for the post of a Music teacher in that school. 
+#### Q/ You are Rohan Khanna of 149, Circular Road, Panipat. Write an application to the manager, DAV Senior Secondary School, Panipat in response to an advertisement for the post of a Music teacher in that school. 
 
     149 
     Circular Road
@@ -106,7 +106,7 @@ Signature: Nipun Dubey
 
     I have done my BA in Music for 5 years in a reputed school. I also have experience in performing in state and national music events.
 
-    If selected, I shall discharge my duties to your utmost satisfaction. Herewith I have attached my Bio-data for your kind perusal.
+    If selected, I shall discharge my duties to your utmost satisfaction. Herewith I have attached my Bio-data for your kind consideration.
 
     Yours sincerely 
     Rohan Khanna 
