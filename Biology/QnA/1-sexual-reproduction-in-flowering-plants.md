@@ -33,3 +33,12 @@ The megasporangium or ovule is a small structure attached to the placenta via. a
 #### Q6/ Explain contrivances (devices) to ensure self-pollination in flowers. 
 #### Q7 Explain contrivances (devices) to ensure cross-pollination in flowers.
 #### Q8/ What do you understand by pollen-pistil interaction? Mention its applications. 
+
+
+# 16/05/24
+
+#### 1. Endosperm development proceeds embryo development. Why? 
+#### 2. Explain the development of free nuclear endosperm or Explain the development of endosperm in coconut. 
+#### 3. What do you understand by albuminous and non-albuminous or ex-albuminous seed? Give examples. 
+#### 4. With the help of labeled diagram, explain the development of dicot embryo. 
+#### 5. With the help of a labeled diagram, discuss the structure of monocot and dicot embryos. 
