@@ -416,3 +416,8 @@ It **impairs** the **quantity of hemoglobin** formed.
 - It occurs due to **defective allele of $HBD$ gene present on chromosome 11** that forms delta chain of hemoglobin. 
 - Adults hav eabout 3% hemoglobin cansisting of $\alpha$ and $\beta$ chains. Therefore, the effect of this **thalassemia is minor**.
 - It is an abnormal 
+
+# Pedigree Analysis 
+
+<img align=right src="../diagram/ch6/pedigree.jpg">
+

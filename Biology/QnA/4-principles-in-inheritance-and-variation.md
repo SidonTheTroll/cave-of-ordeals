@@ -13,3 +13,13 @@
 #### 13. What are recessive alleles? 
 #### 14. Why did Morgan choose Drosophila for his experiment? 
 #### 15. Compare the behavior of chromosomes and genes.
+
+
+# 15/05/24 
+
+#### Q/ A sickle cell anemic man marries a woman who is a carrier of the disease but has normal traits, then what will be the probability of their child suffering from sickle cell anemia? 
+
+<img width=600 src="../diagram/ch6/sickle-cell-cross-2.png">
+
+Therefore, the probability of the child suffering from sickle cell of anemia is 50%. 
+
