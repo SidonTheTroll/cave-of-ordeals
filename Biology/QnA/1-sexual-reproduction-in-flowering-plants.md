@@ -42,3 +42,14 @@ The megasporangium or ovule is a small structure attached to the placenta via. a
 #### 3. What do you understand by albuminous and non-albuminous or ex-albuminous seed? Give examples. 
 #### 4. With the help of labeled diagram, explain the development of dicot embryo. 
 #### 5. With the help of a labeled diagram, discuss the structure of monocot and dicot embryos. 
+
+# 17/05/24
+
+#### 1. Write the differences between epicotyl and hypocotyl. 
+#### 2. Write the differences between coleorhiza and coleoptyl.
+#### 3. What is scutellum? 
+#### 4. Define perisperm and pericarp. 
+#### 5. Distinguish between true fruits and false fruits. 
+#### 6. What is parthenocarpic fruit? Give one example. It is possible to develop artificial parthenocarpic fruit? 
+#### 7. Mention the advantages of seeds. 
+#### 8. What do you understand by seed dormancy?
