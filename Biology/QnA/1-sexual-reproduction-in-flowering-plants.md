@@ -53,3 +53,28 @@ The megasporangium or ovule is a small structure attached to the placenta via. a
 #### 6. What is parthenocarpic fruit? Give one example. It is possible to develop artificial parthenocarpic fruit? 
 #### 7. Mention the advantages of seeds. 
 #### 8. What do you understand by seed dormancy?
+
+# 18/05/24 
+#### 1. What is apomixis and what is its importance?
+#### 2. What is polyembryony? How is it developed? 
+
+
+# Exercise
+#### 1. Name the parts of an angiosperm flower in which developent of male and female gametophyte take place.
+#### 2. Differentiate between microsporogenesis and megasporogenesis. Which type of cell division occurs during these events? Name the structure formed at the end of these two events. 
+#### 3. Arrange the following terms in the correct developmental sequence: Pollen grain, sporogenous tissue, microspore tetrad, pollen mother cell, male gametes. 
+#### 4. With a neat, labeled diagram, describe the parts of a typical angiosperm. 
+#### 5. What is meant by the monosporic development of female gametophyte? 
+#### 6. With a neat diagram explain the 7-celled, 8-nucleate nautre of the female gametophyte. 
+#### 7. What are chasmogamous flowers? Can cross-pollination occur in cleistogamous flowers? Give reasons for your answer. 
+#### 8. Mention two strategies evolved to prevent self-pollination. 
+#### 9. What is self-incompatibility? Why does self-pollination not lead to seed formation in self-incompatible species?
+#### 10. What is bagging technique? How is it useful in a plant breeding programme?
+#### 11. What is triple fusion? Where and how does it take place? Name the nuclei involved in triple fusion
+#### 12. Why do you think the zygote is dormant for sometime in a fertilized ovule?
+#### 13. Differentiate between: (a) hypocotyl and epicotyl; (b) coleoptile and coleorrhiza; (c) integument and testa; (d) perisperm and pericarp.
+#### 14. Why is apple called a false fruit? Which part(s) of the flower forms the fruit?
+#### 15. What is meant by emasculation? When and why does a plant breeder employ this technique?
+#### 16. If one can induce parthenocarpy through the application of growth substances, which fruits would you select to induce parthenocarpy and why?
+#### 17. Explain the role of tapetum in the formation of pollen-grain wall.
+#### 18. What is apomixis and what is its importance?
