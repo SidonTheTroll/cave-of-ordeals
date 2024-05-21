@@ -123,7 +123,7 @@ Morgan chose Drosophila (fruit flies) for his experiments because they have seve
 
 ## Q/ A sickle cell anemic man marries a woman who is a carrier of the disease but has normal traits, then what will be the probability of their child suffering from sickle cell anemia?
 
-<img width=600 src="../diagram/ch6/sickle-cell-cross-2.png">
+<img width=600 src="../diagram/ch4/sickle-cell-cross-2.png">
 
 Therefore, the probability of the child suffering from sickle cell of anemia is 50%.
 
@@ -131,7 +131,7 @@ Therefore, the probability of the child suffering from sickle cell of anemia is 
 
 ## Identify if the trait is dominant or recessive and sex-linked or autosomal.
 
-<img width=500 src="./img/ch6/1.jpg">
+<img width=500 src="./img/ch4/1.jpg">
 
 From the picture, it can be seen that in the first generation, the father was the one with sickness, then after mating, the 4 children are fine which means it is a recessive trait. Since the father's genes go to the daughter, we have to consider the mating daughter in the 2nd generation will have the gene of the disease. Then in 3rd generation, the male is affected since the female's genes go to the male. 
 

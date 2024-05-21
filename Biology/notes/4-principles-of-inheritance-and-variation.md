@@ -78,7 +78,7 @@ Mandell started his genetics experiment on pea plants due to their various chara
 
 # Monohybrid Cross
 
-![monohybrid-cross](../diagram/ch6/mono-cross.png) 
+![monohybrid-cross](../diagram/ch4/mono-cross.png) 
 
 > [!NOTE]
 > T = Dominant allele  
@@ -103,7 +103,7 @@ Almost every experiment Mandell did gave him almost the same result.
 
 # Dihybrid Cross
 
-<img align=right width=300 src="../diagram/ch6/di-cross.png">
+<img align=right width=300 src="../diagram/ch4/di-cross.png">
 
 - Tall, Yellow: 9
 - Dwarf, Yellow: 3 
@@ -137,7 +137,7 @@ In this experiment, two pure breed flowers are taken, i.e., red and white and th
 
 # Co-Dominance
 
-<img align=right width=450 src="../diagram/ch6/blood-group.png">
+<img align=right width=450 src="../diagram/ch4/blood-group.png">
 
 A very good example of Co-Dominance can be explained by the **blood group** of human beings which is **controlled by gene I**.
 
@@ -248,7 +248,7 @@ These are agents that cause mutation.
 - **Sex chromosome**: determines sex 
 
 ## Human 
-<img align=right width=400 src="../diagram/ch6/human-sex-determination.png">
+<img align=right width=400 src="../diagram/ch4/human-sex-determination.png">
 
 > [!IMPORTANT]
 > Autosomes may not be mentioned. 
@@ -258,18 +258,18 @@ These are agents that cause mutation.
 - Mechanism is same as humans. DO NOT MENTION CHROMOSOME NUMBER 
 
 ## Birds 
-<img align=right width=400 src="../diagram/ch6/bird-sex-determination.png">
+<img align=right width=400 src="../diagram/ch4/bird-sex-determination.png">
 
 # Chromosomal Disorders  
 
 ## Klinefelter's Syndrome 
 
-<img align=right width=400 src="../diagram/ch6/klinefelter-turner.jpg">
+<img align=right width=400 src="../diagram/ch4/klinefelter-turner.jpg">
 
 This trisomy genetic disorder is caused by the presence of an additional copy of chromosome resulting in a karyotype of 47,XXY. Such individuals are male and sterile (not able to reproduce) with female characteristics like gynecomastia (growth of breasts). 
 
 ## Turner's Syndrome
-<img align=right width=400 src="../diagram/ch6/klinefelter.jpg">
+<img align=right width=400 src="../diagram/ch4/klinefelter.jpg">
 
 This monosomy genetic disorder is seen in females due to the above cross if **anaphase** fails to divide the chromosomes equally. This causes the offspring to be a sterile female with underdeveloped characteristics. The ovaries are rudimentary (basic with no actual work). 
 
@@ -347,7 +347,7 @@ Probability:
 
 ## Sickle-cell Anaemia 
 
-<img align=right width=400 src="../diagram/ch6/sickle-cell-cross.png">
+<img align=right width=400 src="../diagram/ch4/sickle-cell-cross.png">
 
 - This is an autosome-linked recessive trait transmitted from parents to offspring when both the parents are carriers of the gene (heterozygous). 
 
@@ -419,5 +419,5 @@ It **impairs** the **quantity of hemoglobin** formed.
 
 # Pedigree Analysis 
 
-<img align=right src="../diagram/ch6/pedigree.jpg">
+<img align=right src="../diagram/ch4/pedigree.jpg">
 
