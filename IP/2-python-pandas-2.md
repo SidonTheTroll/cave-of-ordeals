@@ -52,3 +52,8 @@ A: 70
 B: 90 
 Name: Math, dtype: int64
 ```
+
+# 22/05/24
+- `print(<dataframe_variable>.T)`
+    - **T**: Transpose 
+    - Swaps the places of Index and Column labels. 
