@@ -288,6 +288,11 @@ Polyembryony can develop through various mechanisms:
 
 # Exercise
 ## 1. Name the parts of an angiosperm flower in which developent of male and female gametophyte take place.
+1. **Male Gametophyte Development**: 
+   - The male gametophyte, which consists of pollen grains containing sperm cells, develops within the anthers of the flower. Each pollen grain is a haploid structure containing two sperm cells.
+2. **Female Gametophyte Development**: 
+   - The female gametophyte, also known as the embryo sac, develops within the ovule, which is located within the ovary of the flower. The ovary is part of the pistil, the female reproductive organ of the flower. The embryo sac contains the egg cell and other supporting cells necessary for fertilization and embryo development.
+
 ## 2. Differentiate between microsporogenesis and megasporogenesis. Which type of cell division occurs during these events? Name the structure formed at the end of these two events. 
 ## 3. Arrange the following terms in the correct developmental sequence: Pollen grain, sporogenous tissue, microspore tetrad, pollen mother cell, male gametes. 
 ## 4. With a neat, labeled diagram, describe the parts of a typical angiosperm. 

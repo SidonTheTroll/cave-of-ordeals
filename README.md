@@ -20,5 +20,6 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
         - [ ] Bye calculation, Fixtures on knock-out basis 
         - [ ] Seeding; general, special (wildcards)
     - [ ] League matches 
+- [ ] Add bio text qna for chapter 1 
 
 ![Alt](https://repobeats.axiom.co/api/embed/1b422b156464b5933d1d95ef0a73581cef09d113.svg "Repobeats analytics image")
