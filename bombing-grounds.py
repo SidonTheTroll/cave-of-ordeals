@@ -1,10 +1,7 @@
-import pandas as pd 
-import numpy as np
+import pandas as pd
 
-stu = {'A':39,'B':41,'C':42,'D':43,'E':44,'F':45}
+a = [67,56,50,52]
 
-s = pd.Series(stu)
+df = pd.DataFrame(a, index=['A','B','C','D'])
 
-s.index.name = "OK"
-
-print(s)
+print(df)
