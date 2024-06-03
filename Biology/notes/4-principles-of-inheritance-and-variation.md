@@ -258,7 +258,10 @@ These are agents that cause mutation.
 - Mechanism is same as humans. DO NOT MENTION CHROMOSOME NUMBER 
 
 ## Birds 
-<img align=right width=400 src="../diagram/ch4/bird-sex-determination.png">
+<img align=left width=400 src="../diagram/ch4/bird-sex-determination.png">
+
+## Honeybee 
+![honeybee](../diagram/ch4/honeybee-sex-determination.jpg)
 
 # Chromosomal Disorders  
 
