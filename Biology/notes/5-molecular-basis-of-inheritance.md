@@ -73,12 +73,13 @@ Therefore, Purine to Pyrimidines ratio: 1:1.
 >     - Phosphate group 
 >     - Nitrogenous base (A,U,C,G) 
 
-> [!NOTE] Type of RNA 
-> 1. **mRNA**: carries the genetic code from DNA to the ribosome for protein synthesis.
-> 2. **tRNA**: brings amino acid from amino acide pool to ribosome.
-> 3. **rRNA**: forms ribosome along with protein. 
+> [!NOTE] 
+> - Type of RNA 
+>   1. **mRNA**: carries the genetic code from DNA to the ribosome for protein synthesis.
+>   2. **tRNA**: brings amino acid from amino acide pool to ribosome.
+>   3. **rRNA**: forms ribosome along with protein. 
 
-> [!TIP] Terms 
+> [!TIP]
 > - mRNA
 >   - 3 nucleotides make one **codon**
 >   - **One codon** represents **one amino acid**.  
@@ -95,8 +96,9 @@ Therefore, Purine to Pyrimidines ratio: 1:1.
 > [!NOTE]
 > RNA is the first evolved genetic material but DNA is more stable. 
 
-> [!IMPORTANT] Criteria for Genetic Material
-> 1. Should be able to replicate
-> 2. Should be chemically and structurally stable. 
-> 3. Should provide scope for slow mutations for evolution. 
-> 4. Should be able to express itself in the form of 'Mendelian Characters'.  
+> [!IMPORTANT] 
+> - Criteria for Genetic Material
+>   1. Should be able to replicate
+>   2. Should be chemically and structurally stable. 
+>   3. Should provide scope for slow mutations for volution. 
+>   4. Should be able to express itself in the form of 'Mendelian Characters'.  
