@@ -7,13 +7,13 @@
 
 3. Read the extract given below and answer the questions that follow: 
     
-    Driving from my parent's home to Cochin last Friday
-    morning, I saw my mother, beside me, 
-    doze, open mouthed, her face ashen like that
-    of a corpse and realized with pain 
-    that she was as old as she looked bu soon
-    put that thought away, and looked out at Yound
-    Trees sprinting, the merry children spilling 
+    Driving from my parent's home to Cochin last Friday  
+    morning, I saw my mother, beside me,   
+    doze, open mouthed, her face ashen like that  
+    of a corpse and realized with pain  
+    that she was as old as she looked bu soon  
+    put that thought away, and looked out at Young  
+    Trees sprinting, the merry children spilling  
     out of their homes. 
 
     1. The phrase 'open mouthed' means that the poet's mother
