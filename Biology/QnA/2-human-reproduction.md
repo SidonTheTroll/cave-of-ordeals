@@ -60,11 +60,11 @@ In the male reproductive system, the accessory ducts include the epididymis, vas
 
 1. **Epididymis**: The epididymis is a coiled tube located on the surface of each testis where sperm from the testes mature and are stored. Its main functions include the maturation of sperm, storage of sperm, and transportation of sperm from the testes to the vas deferens.
 
-2. **Vas Deferens (Ductus Deferens)**: The vas deferens is a muscular tube that extends from the epididymis to the ejaculatory duct. Its primary function is to transport mature sperm from the epididymis to the ejaculatory duct during ejaculation.
+2. **Vas Deferens**: The vas deferens is a muscular tube that extends from the epididymis to the ejaculatory duct. Its primary function is to transport mature sperm from the epididymis to the ejaculatory duct during ejaculation.
 
-3. **Ejaculatory Ducts**: The ejaculatory ducts are short ducts formed by the union of the vas deferens and the ducts of the seminal vesicles. They pass through the prostate gland and empty into the urethra. The ejaculatory ducts function to transport sperm and seminal fluid into the urethra prior to ejaculation.
+3. **Vasa Efferentia**: vasa efferentia are small ducts connecting the rete testis to the epididymis. Their primary function is to transport sperm from the rete testis to the epididymis, where they undergo further maturation and storage. Additionally, they are involved in reabsorption of fluid and secretory products from the testicular fluid, contributing to the concentration and composition of sperm.
 
-4. **Urethra**: The urethra is a tube that carries urine and semen out of the body. In the context of the male reproductive system, it serves as a conduit for both urine and semen, allowing for the expulsion of semen during ejaculation.
+4. **Rete testis**: rete testis serves as a network of tubules within the testicle, acting as a conduit for sperm to travel from the seminiferous tubules to the epididymis for maturation and storage. It also helps in maintaining a conducive environment for sperm development by facilitating the exchange of nutrients and waste products.
 
 ## 7. What are the accessory glands in the male reproductive system? State the functions. 
 The accessory glands in the male reproductive system include the seminal vesicles, prostate gland, and bulbourethral glands (Cowper's glands). Here are their functions:
