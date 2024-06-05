@@ -64,6 +64,8 @@
     `s['e']=6`  
     `print(s)`
 
+# Section C 
+
 14. Create the following Data Frame: df  
 
 | | **Name** | **DOB** | **GENDER** | **MOBILE** | **Height** | **Weight** | 
