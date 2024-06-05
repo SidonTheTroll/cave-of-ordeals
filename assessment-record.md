@@ -5,4 +5,4 @@
 3. Biology: 
 4. IP: 22
 5. Physical Education: 14.5 
-6. English: 
+6. English: 19
