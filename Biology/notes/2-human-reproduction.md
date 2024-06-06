@@ -53,3 +53,9 @@
 
 - Some behave like spermatozoa but others do not and provide nutrients. <img align=right width=350 src="../diagram/ch2/spermatogenesis and oogenesis.png">
 - Oogenesis starts in the fetal phase and stops temporarily and again starts in puberty. 
+
+### Explain the hormonic control of spermatogenesis. 
+
+<img src="../diagram/ch2/hormonic-control.jpg" width=450>
+
+Once the positives are excess in the blood, it signals the brain to spot producing more of the hormone.
