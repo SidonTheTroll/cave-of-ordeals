@@ -59,3 +59,31 @@
 <img src="../diagram/ch2/hormonic-control.jpg" width=450>
 
 Once the positives are excess in the blood, it signals the brain to spot producing more of the hormone.
+
+# Human Sperm 
+The formation of sperm, **spermatogenesis** starts at the age of puberty due to the release of **Gonadotropin Releasing Hormone (GnRH)** 
+
+- GnRH acts at the pituitary gland and **secretes 2 gonadotropins**
+    1. Lutenisign hormone 
+    2. Follicle Stimulating Hormone 
+
+> [!NOTE]
+> LH acts at Leydig cells and stimulates secretion of androgens which stimulates the process of spermatogenesis.  
+>
+> FSH acts on Sertoli cells and stimulates secretion of factors which help in the process of spermatogenesis. 
+
+<img align=right src="../diagram/ch2/human-sperm.png" width=350>
+
+> [!IMPORTANT]
+> 1. The sperm of made of a tail, middle piece and a head. 
+> 2. The anterior portion of the head is covered by acrosome filled with enzymes that help in the fertilization of the ovum. 
+> 3. Middle piece contains mitochondria that produce energy for the movement of the tail. 
+
+- A human male ejaculates around 200 to 300 million sperm in one ejaculation.
+- For normal fertility, at least 60% of the sperm show normal shape and size with vigorous motility. 
+
+The sperms released from seminiferous ducts are transported to accessory ducts. Sections of epididymis, vas deferens, seminal vesicle and prostate are essential for maturation and motility of the sperms. 
+
+> [!NOTE]
+> The seminal plasma along with sperms constiture the semen.  
+> The functions of male sex accessorg ducts and glands are maintained by the androgens. 
