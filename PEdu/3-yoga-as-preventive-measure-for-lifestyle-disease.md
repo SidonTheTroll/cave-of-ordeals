@@ -25,7 +25,29 @@ Yoga word is derived from the Sanskrit word 'Yuj' which means to unite or to joi
 > Obesity is the condition with excessive amount of fat or body weight. 
 
 # Yoga for Obesity
-- **Obesity**: 
+Obesity is the condition when excessive amount of fat is deposited or body weight gets excessive in comparison to the person. 
+
+- **Symptoms**
+    1. Excess body fat 
+    2. Breathlessness 
+    3. Joint and back pain 
+    4. Sweating 
+    5. Difficulty in physical activity
+
+- **Asanas**
+    1. Tadasana
+    2. Katichakrasana
+    3. Pawanmuktasana
+    4. Matsyasana
+    5. Halasana 
+    6. Paschimottanasana
+    7. Ardhmatseyendrasana
+    8. Dhanurasana
+    9. Ustrasana
+    10. Surya Bedana Pranayama 
+
+> [!TIP]
+> Refer to page `3.3` to `3.10` for details. 
 
 # Yoga for Diabetes 
 Diabetes is a condition when the blood has more or less sugar content than the required amount. Its main cause is the lack of insulin. 
@@ -59,7 +81,7 @@ Diabetes is a condition when the blood has more or less sugar content than the r
 > [!TIP]
 > Refer to **pages** `3.11` to `3.20` for full description of asanas.
 
-# Asthma
+# Yoja for Asthma
 Asthma is characterized by painful breathing, the feeling of persistent cough, etc. are generated. In asthma, the tubes of and lungs are narrowed and covered by excess mucus that hinders breathing due to extreme sensitivity.  
 In the case of asthma, the breathing roads and contracted tubes are unable to tug in the air and the breathing process becomes impossible. 
 
@@ -75,4 +97,6 @@ In the case of asthma, the breathing roads and contracted tubes are unable to tu
     9. Gomukhasana
     10. Matsyasana 
     11. Anulom-Vilom 
-    12. 
+
+> [!TIP]
+> Refer to **page** `3.21` to `3.30` for details of each asana. 
