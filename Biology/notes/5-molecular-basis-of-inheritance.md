@@ -65,6 +65,8 @@ Therefore, Purine to Pyrimidines ratio: 1:1.
 # The RNA 
 <img align=right width=300 src="../diagram/ch5/mRNA.jpg">
 
+- It is the first genetic material.
+
 > [!IMPORTANT]
 > - Full from: **Ribonucleic acid**  
 > It is a **single strand of polynucleotide**.
@@ -103,3 +105,54 @@ Therefore, Purine to Pyrimidines ratio: 1:1.
 >   3. Should provide scope for slow mutations for volution. 
 >   4. Should be able to express itself in the form of 'Mendelian Characters'.  
 
+> [!NOTE]
+> - RNA is the first genetic material because: 
+>   1. It is used as both genetic material and catalyst.
+>   2. Some chemicals can only be processed by RNA and not by other enzyme. 
+>   3. Essential life processes (metabolism, translation, splicing, etc.) evolved around RNA. 
+
+- RNA directly maintains metabolism due to protein. 
+
+DNA is associated with histone protein because **histone octamer** helps to **wrap DNA compactly**. Since DNA has $-ve$ charge due to phosphate group, histone is positively charged. 
+
+- Nucleosome: contains **Arginine** and **Lysine** amino acids. 
+
+> [!NOTE]
+> A nucleosome contains aaround 200 base pair. 
+
+- **Beads-on-string**: a structure seen under Electron Microscope contains beads which are the histone octamers with DNA wrapped around it. Each bead is one nucleosome. 
+
+After staining, darker beads are called **Heterochromatin** and the lighter are **Euchromatin**. 
+
+- **Heterochromatin**: Transcriptionally inactive 
+- **Euchromatin**: Transcriptionally active 
+
+In our DNA, 98% of it is non-functional.  
+Therefore, heterochromatin is the 98% part.
+
+| Feature             | Heterochromatin                          | Euchromatin                           |
+|---------------------|------------------------------------------|---------------------------------------|
+| **Structure**       | Tightly packed                           | Loosely packed                        |
+| **Staining**        | Darkly stained (with Giemsa stain)       | Lightly stained (with Giemsa stain)   |
+| **Gene Activity**   | Generally inactive (gene-poor regions)   | Generally active (gene-rich regions)  |
+| **Location**        | Often found at the periphery of the nucleus | Dispersed throughout the nucleus      |
+| **DNA Sequence**    | Contains repetitive DNA sequences        | Contains unique DNA sequences         |
+| **Function**        | Structural role, maintaining chromosome stability and regulating gene expression | Active role in transcription and gene regulation |
+| **Replication Timing** | Late S phase                           | Early S phase                         |
+| **Examples**        | Centromeres, telomeres, Barr bodies      | Actively transcribed genes            |
+
+# Replication of DNA 
+- Replication of DNA takes place in the **S-Phase** of interphase. 
+
+- Components required to make DNA
+    1. Nucleotide 
+        1. Phosphate group 
+        2. Pentose sugar 
+        3. Nitrogenous bases (A, T, C, G)
+    2. Energy (From ATP)
+    3. Enzymes 
+        1. DNA Polymerase (DNA Dependent DNA Polymerase)
+        2. Topoisomerase 
+        3. Helicase 
+        4. Primase 
+    4. Primer (Short strand of RNA)
