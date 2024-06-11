@@ -125,4 +125,42 @@ Experience: 5 years in VKV Academy as Music Teacher with performance in few Nati
 
 Date: 14 May 2024 
 Signature: Rohan Khanna
-```     
+```
+
+### Ravi Sharma of 59, Andheri West, Mumbai has decided to apply for the post of Sales executive after going through an advertisement of a reputed publishing house, New World Publication, Worly, Mumbai. Draft a formal letter for the same with a detailed biodata of the canditate. 
+
+    59
+    Andheri West
+    Mumbai 
+
+    07th June, 2024 
+
+    The Personnel Manager 
+    New World Publications 
+    Worly 
+    Mumbai 
+
+    Subject: Application for the post of Sales Executive 
+
+    Sir/Ma'am 
+    With reference to your advertisement in the Mumbai Times dated 04th of June, 2024, I would like to apply for the said post. 
+
+    I have a M.Com. degree in statistics and a major in Data Representation from Mumbai Public University. I also have proficiency in Spreadsheet applications which help me to represent data more eye-catchingly. Along with that, I am fluent in Marathi, English, Hindi and Gujarati. 
+
+    If selected, I shall discharge my duties to your utmost satisfaction. Herewith I have attached my resume for your kind perusal. 
+
+    Yours sincerely 
+    Ravi Sharma 
+
+```
+                    Resume 
+
+Name: Ravi Sharma 
+Age: 32 years 
+Father's name: Arjun Sharma 
+Religion: Hinduism 
+Nationality: Indian 
+Qualifications: M.Com. in Statistics & major in Data Representation 
+Work Experience: 3 years as part-timer in RazorPay. 
+Others: Highly experienced in using different computer Operating Systems and data analytics. 
+```
