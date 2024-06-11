@@ -102,3 +102,4 @@ Therefore, Purine to Pyrimidines ratio: 1:1.
 >   2. Should be chemically and structurally stable. 
 >   3. Should provide scope for slow mutations for volution. 
 >   4. Should be able to express itself in the form of 'Mendelian Characters'.  
+
