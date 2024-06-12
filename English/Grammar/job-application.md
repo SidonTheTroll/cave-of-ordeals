@@ -127,7 +127,7 @@ Date: 14 May 2024
 Signature: Rohan Khanna
 ```
 
-### Ravi Sharma of 59, Andheri West, Mumbai has decided to apply for the post of Sales executive after going through an advertisement of a reputed publishing house, New World Publication, Worly, Mumbai. Draft a formal letter for the same with a detailed biodata of the canditate. 
+### Ravi Sharma of 59, Andheri West, Mumbai has decided to apply for the post of Sales executive after going through an advertisement of a reputed publishing house, New World Publication, Worly, Mumbai. Draft a formal letter for the same with a detailed biodata of the candidate. 
 
     59
     Andheri West
