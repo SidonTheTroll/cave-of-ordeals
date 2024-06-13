@@ -151,8 +151,30 @@ Therefore, heterochromatin is the 98% part.
         3. Nitrogenous bases (A, T, C, G)
     2. Energy (From ATP)
     3. Enzymes 
-        1. DNA Polymerase (DNA Dependent DNA Polymerase)
-        2. Topoisomerase 
-        3. Helicase 
-        4. Primase 
+        1. **DNA Dependent DNA Polymerase**: synthesizes a new DNA strand using an existing DNA strand as a template during DNA replication. It ensures the accurate duplication of the genetic material, enabling cell division and the transmission of genetic information to daughter cells.
+        2. **Topoisomerase**: relieve tension in DNA during replication and transcription by cutting and rejoining the DNA strands, preventing the DNA from becoming too twisted or tangled.
+        3. **Helicase**: unwinds the DNA double helix into single strands, making it possible for replication and transcription to occur.
+        4. **Primase**: creates a short RNA primer on a DNA strand, providing a starting point for DNA polymerase to begin DNA synthesis during replication.
     4. Primer (Short strand of RNA)
+
+- 2 enzymes are required to dissolve DNA and break the helix. 
+
+<img align=right src="../diagram/ch5/dna-replication.png" width=700>
+
+> [!IMPORTANT]
+> DNA replication starts in the place called **Ori** (Origin of Replication) that develops into a Y-shaped structure called **Fork of Replication**.
+
+To remove all H-bonds, huge energy is required and not sufficiently present in the cell. Therefore, a Replication fork opens where the synthesis of DNA occurs. 
+
+During replication, the nitrogenous bases combine with ATP to form the following Triosephosphates that provide energy. 
+
+- $\text{dAMP} + ATP\ \rightarrow ATP \text{ (Adenine triphosphate)}$
+- $\text{dTMP} + ATP\ \rightarrow TTP \text{ (Thymine triphosphate)}$
+- $\text{dCMP} + ATP\ \rightarrow CTP \text{ (Cytosine triphosphate)}$
+- $\text{dGMP} + ATP\ \rightarrow GTP \text{ (Guanine triphosphate)}$
+
+Now, DNA polymerase brings the complimentary nucleotide and places it with the complementary base pair. 
+
+- Deoxyribonucleoside triphosphate
+    - Acts as substrate 
+    - Provide energy for polymerization
