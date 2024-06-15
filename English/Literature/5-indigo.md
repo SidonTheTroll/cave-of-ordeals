@@ -1,34 +1,34 @@
 # Indigo 
 
 ## 1. Why is Rajkumar Shukla described as being 'resolute'? 
-He had come from the Champaran district in the foothills of the Himalayas to Lucknow to speak to Gandhi. Shukla accompanies Gandhi everywhere. Shukla followed him to the ashram near Ahmedabad. For weeks he never left Gandhi's side till Gandhi asked him to meet at Calcutta.
+Shukla came from Champaran to Lucknow to speak with Gandhi. He accompanied Gandhi everywhere, even following him to the Ahmedabad ashram. For weeks, he stayed by Gandhi's side until Gandhi asked him to meet in Calcutta.
 
 ## 2. Why do you think the Servants thought Gandhi to be another peasant.
-Shukla led Gandhi to Rajendra Prasad's house. The servants knew Shukla as a poor yeoman. Gandhi was also clad in a simple dhoti. He was the companion of a peasant. Hence, the servants thought Gandhi to be another peasant. 
+Shukla took Gandhi to Rajendra Prasad's house. The servants, recognizing Shukla as a poor farmer and seeing Gandhi in a simple dhoti, mistook Gandhi for another peasant.
 
 ## 3. List the places that Gandhi visited between his first meeting with Shukla and his arrival at Champaran. 
-Gandhi's first meeting with Shukla was at Lucknow. Then he went to compare and other parts of India. He returned to his ashram near Ahmedabad. Later he went to Calcutta, Patna and Muzaffarpur before arriving at Champaran. 
+Gandhi first met Shukla in Lucknow. He then traveled across India, returning to his ashram near Ahmedabad. Later, he went to Calcutta, Patna, and Muzaffarpur before arriving in Champaran.
 
 ## 4. What did the peasants pay the British landlords as rent? What did the British now want instead and why? What would be the impact of synthetic indigo on the prices of natural indigo? 
-The peasants paid the British landlords indigo as rent. Now, Germany has developed synthetic indigo. So, the British landlords wanted money as compensation for being released from the 15% arrangement. The prices of natural indigo would go down due to synthetic indigo. 
+The peasants paid rent to British landlords with indigo. With Germany developing synthetic indigo, landlords demanded money instead to be released from the 15% arrangement, as the price of natural indigo was expected to drop.
 
 ## 5. The events in this part of the text illustrate Gandhi's method of working. Can you identify some instances of this method and link them to the ideas of Satyagraha and non-violence? 
-Gandhi's politics was intermingled with the day-to-day problems of the millions of Indians. He opposed unjust laws. He was ready to court arrest for breaking such laws and going to jail. The famous Dandi March to break the 'Salt Law' is another instance. The resistance and disobedience were peaceful and fought for truth and justice. This was linked directly to his ideas of Satyagraha and non-violence. 
+Gandhi's politics addressed everyday problems of millions of Indians. He opposed unjust laws and was willing to be jailed for breaking them. The Dandi March against the 'Salt Law' exemplifies his peaceful resistance. His approach was rooted in Satyagraha and non-violence, aiming for truth and justice.
 
 ## 6. Why did Gandhi agree to a settlement of a 25% refund to the farmers? 
-For Gandhi, the amount of the refund was less important than the fact that the landlords had been forced to return part of the money and with it, part of their prestige too. So, he agreed to a settlement of a 25% refund to the farmers. 
+For Gandhi, the refund amount was less important than the landlords being compelled to return part of the money and their prestige. Therefore, he agreed to a settlement of a 25% refund to the farmers.
 
 ## 7. How did the episode change the plight of the peasants? 
-The peasants were saved from spending time and money on court cases. After some years the British planters gave up control of their estates. These now reverted to the peasants. Indigo sharecropping disappeared. 
+The peasants were spared the expense and time of court cases. Eventually, the British planters relinquished control of their estates, which reverted to the peasants, ending indigo sharecropping.
 
 ## 8. Why do you think Gandhi considered the Champaran episode to be a turning point in his life? 
-The Champaran episode began as an attempt to ease the suffering of a large number of poor peasants. He got the spontaneous support of thousands of people. Gandhi admits that what he had done was a very ordinary thing. He declared that the British could not order him about in his own country. Hence, he considered the Champaran episode as a turning point in his life. 
+The Champaran episode began as an effort to alleviate the suffering of many poor peasants and gained the spontaneous support of thousands. Gandhi called his actions ordinary but declared that the British could not command him in his own country, marking Champaran as a turning point in his life.
 
 ## 9. How was Gandhi able to influence lawyers? Give instances. 
-Gandhi asked the lawyers what they would do if he was sentenced to prison. They said that they had come to advise him. If he went to jail, they would go home. Then Gandhi asked them about the injustice to the sharecroppers. They concluded that it would be shameful desertion if they went home. So, they told Gandhi that they were ready to follow him into jail. 
+Gandhi asked the lawyers what they would do if he were imprisoned. Initially, they said they'd return home. When Gandhi questioned the injustice to the sharecroppers, they realized it would be shameful to leave and told Gandhi they would follow him to jail.
 
 ## 10. What was the attitude of the average Indian in smaller localities towards advocates of 'home rule'? 
-The average Indians in smaller localities were afraid to show sympathy for the advocates of home rule. Gandhi stayed at Muzaffarpur for two days at the home of ProfessorMalkani, a teacher in a government school. It was an extraordinary thing in those days for a government professor to give shelter to one who opposed the government. 
+Average Indians in smaller areas feared supporting home rule advocates. Gandhi stayed for two days with Professor Malkani in Muzaffarpur, which was unusual because Malkani, a government school teacher, sheltered someone opposing the government.
 
 ## 11. How do we know that ordinary people too contributed to the freedom movement? 
-Professor J.B. Kriplani received Gandhi at Muzaffarpur railway station at midnight. He had a large body of students with him. Sharecroppers from Champaran came on foot and by conveyance to see Gandhi. Muzaffarpur lawyers too called on him. A vast multitude greeted Gandhi when he reached Motihari railway station. Thousands of people demonstrated around the courtroom. This shows that ordinary people too contributed to the freedom movement of India. 
+Professor J.B. Kriplani welcomed Gandhi at Muzaffarpur railway station at midnight, accompanied by a large group of students. Sharecroppers from Champaran and local lawyers also visited him. Upon Gandhi's arrival at Motihari railway station, a vast multitude greeted him, with thousands demonstrating around the courtroom, highlighting the significant grassroots support for India's freedom movement.
