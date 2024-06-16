@@ -1,12 +1,10 @@
 import pandas as pd
 
-# Creating a sample DataFrame
-data = {'A': [10, 20, 30], 'B': [5, 10, 15]}
-i = ['A','B','C']
-df = pd.DataFrame(data, index=i)
+A = [[10,20,30,40,50,60,70,80,90,100]]
 
-print(df)
+data = pd.DataFrame(A, index=['A'], columns=['A','B','C','D','E','F','G','H','I','J'])
 
+print(data)
 print()
 
-print(df['A'].unique())
+print(data.median(axis=1))
