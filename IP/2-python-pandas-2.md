@@ -73,3 +73,20 @@ Name: Math, dtype: int64
     - $\text{df}1 / \text{df}2$
 - `print(df1.rdiv(df2))`
     - $\text{df}2 / \text{df}1$
+- `print(df.min())`
+    - Prints the minimum value of each column. Axis applicable
+- `print(df.max())`
+    - Prints the maximum value of each column. Axis applicable
+- `print(df.mode(axis=0))`
+    - Prints the value that appears the most in a column 
+- `print(df.mean())`
+    - Finds the mean (average) of a column in a data frame.
+- `print(df.median)`
+    - Returns (prints) the middle number in a set of numbers.
+- `print(round(df.sum(axis=1))/3)`
+    - First adds the row data in a data frame and divides it by 3 and them rounds them off to the ones place. 
+- `print(df.quantile([0.25,0.50,0.75,1.0], axis=1))`
+    - From a set of numbers in a data frame, calculate the distribution of numbers and find the specific values that fit the ratio in the set. 
+- `print(df.describe())`
+    - Describes all the attributes in a data frame in the following sections: count, mean, std, min, 25%, 50%, 75% and max. 
+    - For a string-type data frame, it will give the following sections: count, unique, top and freq
