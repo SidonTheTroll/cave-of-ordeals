@@ -177,4 +177,18 @@ Now, DNA polymerase brings the complimentary nucleotide and places it with the c
 
 - Deoxyribonucleoside triphosphate
     - Acts as substrate 
-    - Provide energy for polymerization
+    - Provide energy for polymerization 
+
+> [!NOTE]
+> Direction of synthesis: $5' \rightarrow 3'$ 
+
+<img src="../diagram/ch5/dna-replication-1.png">
+
+- The above shows the **semi-conservative method of DNA replication**, i.e., one part is old and the other is new. It consists of **2 DNA and 4 strands**. 
+
+After the synthesis is over, RNA primers are removed from DNA and Okazaki fragments are joined then Ligase establishes bonds between them. 
+
+- **Proof-reading**: mismatches are removed from DNA and correct bases are placed. 
+
+> [!NOTE]
+> **Rate of polymerization**: 2000 base pair per second
