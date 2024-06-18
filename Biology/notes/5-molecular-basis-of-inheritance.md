@@ -173,7 +173,7 @@ During replication, the nitrogenous bases combine with ATP to form the following
 - $\text{dCMP} + ATP\ \rightarrow CTP \text{ (Cytosine triphosphate)}$
 - $\text{dGMP} + ATP\ \rightarrow GTP \text{ (Guanine triphosphate)}$
 
-Now, DNA polymerase brings the complimentary nucleotide and places it with the complementary base pair. 
+Now, DNA polymerase brings the complementary nucleotide and places it with the complementary base pair. 
 
 - Deoxyribonucleoside triphosphate
     - Acts as substrate 
@@ -192,3 +192,32 @@ After the synthesis is over, RNA primers are removed from DNA and Okazaki fragme
 
 > [!NOTE]
 > **Rate of polymerization**: 2000 base pair per second
+
+# Transcription 
+It is the process of forming DNA-dependent RNA
+
+> [!IMPORTANT]
+> - Requirements for making RNA 
+>   1. RNA nucleotide (Pentose sugar, nitrogenous bases, phosphate group)
+>   2. DNA 
+>   3. RNA polymerase 
+
+> [!NOTE]
+> The entire DNA doesn't form RNA. 
+
+<img align=right width=500 src="../diagram/ch5/transcription-unit.png">
+
+> [!NOTE]
+> - $3'-5'$: template strand has structure gene and copies over to the DNA
+> - $5'-3'$: coding strand that doesn't has any info about amino acid. 
+
+### Why don't both the DNA strands transcribe? 
+1. Both strands are complementary 
+    - If both strands are used in RNA making, it makes them complementary. This has a huge chance of making **double-stranded RNA** which doesn't function as regular mRNA in protein synthesis. 
+2. Two different proteins will form. 
+    - Creates chaos in the cellular environment because there'll be two instructions for one protein and this causes the formation of proteins that aren't expected to be in that place at that specific time.
+
+> [!NOTE]
+> - Types of Transcription
+>   1. **Eukaryotic transcription**: takes place in nucleus.
+>   2. **Prokaryotic transcription**: takes place in nucleoid (region in prokaryotic cell where genetic material is located, not enclosed by a membrane).
