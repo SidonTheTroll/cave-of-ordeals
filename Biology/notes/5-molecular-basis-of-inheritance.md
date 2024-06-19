@@ -254,3 +254,24 @@ It is the process of forming DNA-dependent RNA
 3. **Termination**
     1. **Cleavage and Polyadenylation:** RNA polymerase II transcribes the polyadenylation signal sequence (AAUAAA), and the RNA transcript is cleaved downstream of this site.
     2. **Release of RNA Transcript:** After cleavage, a poly-A tail is added to the 3' end of the RNA. RNA polymerase II continues transcribing for a short distance before dissociating from the DNA, effectively terminating transcription.
+
+## Differences between Transcription in Prokaryotes and Eukaryotes
+| **Aspect**                  | **Prokaryotic Transcription**                                          | **Eukaryotic Transcription**                                               |
+|-----------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **RNA Polymerase**          | Single RNA polymerase (holoenzyme with sigma factor)                    | Three RNA polymerases (I, II, III) with RNA polymerase II for mRNA        |
+| **Promoter Recognition**    | Sigma factor recognizes -10 (Pribnow box) and -35 regions               | General transcription factors (TFs) and TATA box at -25                   |
+| **Initiation Complex**      | Simple; RNA polymerase holoenzyme binds directly to DNA                 | Complex; pre-initiation complex with multiple TFs and mediator proteins   |
+| **DNA Unwinding**           | RNA polymerase unwinds DNA to form transcription bubble                 | TFs and RNA polymerase II unwind DNA to form transcription bubble         |
+| **Elongation**              | RNA polymerase synthesizes RNA while proofreading                       | RNA polymerase II synthesizes RNA with concurrent capping, splicing, and polyadenylation |
+| **RNA Processing**          | No processing; transcription and translation are coupled                | Extensive processing; 5' capping, splicing, and 3' polyadenylation        |
+| **Termination**             | Rho-dependent or rho-independent mechanisms                             | Cleavage and polyadenylation signals; RNA polymerase II dissociates after transcribing downstream |
+| **Transcription Site**      | Cytoplasm                                                               | Nucleus                                                                   |
+| **Transcript Stability**    | mRNA generally has a short half-life                                     | mRNA is more stable due to processing and poly-A tail                     |
+| **Regulation Complexity**   | Less complex; primarily involves sigma factors and simple repressors    | Highly complex; involves enhancers, silencers, insulators, and various TFs|
+
+> [!NOTE]
+> - **Cistron**: segment of DNA coded for polypeptide (has info about protein)
+> - **Exon**: functional part of mRNA 
+> - **Intron**: non-functional part of mRNA
+> - **Monocistorn**: it is an mRNA in both prokaryotes and eukaryotes carries the coding sequence for a single protein, allowing for focused and regulated expression of individual genes.
+> - **Polyciston**: - it is an mRNA in prokaryotes is a single transcript containing the coding sequences for multiple proteins, transcribed from a single operon and translated into distinct polypeptides by ribosomes.
