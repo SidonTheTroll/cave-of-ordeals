@@ -221,3 +221,36 @@ It is the process of forming DNA-dependent RNA
 > - Types of Transcription
 >   1. **Eukaryotic transcription**: takes place in nucleus.
 >   2. **Prokaryotic transcription**: takes place in nucleoid (region in prokaryotic cell where genetic material is located, not enclosed by a membrane).
+
+## Transcription in Prokaryotes
+<img align=right width=450 src="../diagram/ch5/transcription-in-bacteria.PNG">
+
+1. **Initiation**
+    1. **Promoter recognition**: the RNA-polymerase holoenzyme (core enzyme + sigma factor) binds to the promoter sequence in the DNA. 
+    2. **Formation of Transcription Bubble**: RNA polymerase unwinds the DNA, creating a transcription bubble that exposes the template strand. 
+    3. **Synthesis of initial nucleotides**: RNA polymerase begins synthesizing the first few RNA nucleotides. After about 10 nucleotides, the sigma factor is released, allowing the core enzyme to proceed with elongation.
+2. **Elongation**
+    1. **RNA Chain Extension**: The core RNA polymerase moves along the DNA template strand, adding complementary ribonucleotides (rNTPs) in the 5' to 3' direction. The transcription bubble moves with the polymerase as it progresses.
+    2. **Proofreading**: RNA polymerase pauses and backtracks to remove incorrectly incorporated nucleotides, ensuring accuracy in RNA synthesis.
+3. **Termination**
+    1. **Rho-Dependent Termination**: The rho protein binds to the rut site on the nascent RNA and moves towards the RNA polymerase. Upon reaching the transcription complex, rho unwinds the RNA-DNA hybrid, releasing the RNA transcript and disassembling the transcription machinery.
+    2. **Rho-Independent Termination**: Specific sequences in the RNA form a stable hairpin structure followed by uracil residues. This causes RNA polymerase to pause, and the weak A-U base pairing leads to the release of the RNA transcript and termination of transcription.
+
+> [!NOTE]
+> - Direction of RNA synthesis: $5'-3'$
+> 
+> Note that this is the same as the synthesis of DNA. 
+
+## Eukaryotic Transcription
+<img align=right width=400 src='../diagram/ch5/transcription-in-eukaryotes.jpg'>
+
+1. **Initiation**
+    1. **Promoter Recognition and Pre-Initiation Complex Formation:** Transcription factors (TFs) bind to the promoter regions (TATA box at -25) and recruit RNA polymerase II. Additional TFs and mediator proteins assemble to form the pre-initiation complex, positioning RNA polymerase II at the transcription start site.
+    2. **DNA Unwinding and Transcription Bubble Formation:** RNA polymerase II, along with TFs, unwinds a small portion of the DNA, creating a transcription bubble that exposes the template strand.
+    3. **Synthesis of Initial RNA Nucleotides:** RNA polymerase II begins synthesizing RNA. After the synthesis of around 25 nucleotides, it transitions to elongation mode and the TFs are released.
+2. **Elongation**
+    1. **RNA Chain Extension:** RNA polymerase II moves along the DNA template strand, adding ribonucleotides (rNTPs) complementary to the DNA template in a 5' to 3' direction. The transcription bubble moves with the polymerase.
+    2. **RNA Processing:** As RNA polymerase II synthesizes the RNA, it simultaneously undergoes capping (addition of a 5' cap), splicing (removal of introns), and polyadenylation (addition of a poly-A tail) with the help of various processing factors.
+3. **Termination**
+    1. **Cleavage and Polyadenylation:** RNA polymerase II transcribes the polyadenylation signal sequence (AAUAAA), and the RNA transcript is cleaved downstream of this site.
+    2. **Release of RNA Transcript:** After cleavage, a poly-A tail is added to the 3' end of the RNA. RNA polymerase II continues transcribing for a short distance before dissociating from the DNA, effectively terminating transcription.
