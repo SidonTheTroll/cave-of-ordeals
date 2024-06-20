@@ -1,10 +1,8 @@
-import pandas as pd
+import matplotlib.pyplot as pp 
 
-A = [[10,20,30,40,50,60,70,80,90,100]]
+w = [1,2,3,4]
+p = [25,35,20,30]
 
-data = pd.DataFrame(A, index=['A'], columns=['A','B','C','D','E','F','G','H','I','J'])
+pp.plot(w,p,'r',ls=':')
 
-print(data)
-print()
-
-print(data.median(axis=1))
+pp.show()
