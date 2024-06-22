@@ -88,3 +88,38 @@ Intellectual property must be protected as it:
 ## Digital property rights 
 
 ## Plagiarism
+
+# QnA 
+## 1. What is digital footprint and digital activity? 
+Digital footprint is a trail of data that is left passively and actively while using the Internet.  
+And digital activity is the collection of actions and engagements that users actively perform online.
+
+## 2. Why is it so important to carefully think of digital footprint?
+Carefully thinking about digital footprint is crucial because it can impact privacy, reputation, and security.
+
+## 3. What is intellectual property? What do you understand by intellectual property rights? 
+**Intellectual property** refers to creations of the mind, such as inventions, literary and artistic works, designs, symbols, names, and images used in commerce.
+
+**Intellectual property rights** are the legal protections granted to the creators of IP, giving them exclusive rights to use, produce, and commercialize their creations, and to prevent others from doing so without permission.
+
+## 4. What is plagiarism? 
+Plagiarism is the act of using someone else's work, ideas, or expressions without proper acknowledgment and presenting them as one's own. This includes copying text, images, or data without citation, paraphrasing without credit, or failing to credit collaborative contributions.
+
+## 5. How can you avoid plagiarism while referring to someone else's creation? 
+To avoid plagiarism while referring to someone else's creation, you can:
+
+1. Cite sources properly.
+2. Use quotation marks for direct quotes.
+3. Paraphrase correctly and still attribute.
+4. Include a bibliography.
+5. Use plagiarism detection tools.
+6. Follow the required citation style.
+
+## 6. What is digital property? 
+Digital property refers to assets or content that exist in digital form, such as websites, domain names, digital files, software, online accounts, and digital media. These assets are owned and can be controlled, transferred, or sold, similar to physical property.
+
+## 7. What are the threats to digital properties? 
+Threats to digital properties include cyberattacks (like hacking and malware), data breaches, intellectual property theft, identity theft, piracy, loss of access, hardware failure, software vulnerabilities, human error (such as accidental deletion), and social engineering.
+
+## 8. How can you protect your digital properties? 
+Digital properties can be protected by using strong passwords and two-factor authentication, keeping software updated, using antivirus software, encrypting sensitive data, regularly backing up files, being cautious of phishing, limiting access to authorized users, staying informed about cybersecurity, using secure networks and implementing access controls and monitoring.
