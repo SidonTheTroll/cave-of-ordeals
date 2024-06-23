@@ -11,6 +11,12 @@
 6. Result and Conclusion
 7. Bibliography 
 
+---
+
+- Economic Aspects 
+- Public Awareness and Education 
+
+
 # Report Paper 
 1. Policy and Regulation
 2. Legal Framework
