@@ -130,4 +130,35 @@ It is a haploid cell formed when the primary oocyte divides by meiosis-1. The se
     4. **Fimbriae**: these are finger-like projections at the end of the infundibulum that sweep the ovulated oocyte into the oviduct.
      
 > [!NOTE]
-> If fertilized, embryo relases hormones that prevent the **breakdown of endometrium**. 
+> If fertilized, embryo relases hormones that prevent the **breakdown of endometrium**.  
+> It also provides nourishment to the developing embryo and holds it. 
+>
+> Note that the blood isn't shared between the mother and the foetus but nutrients and wastes are transferred through a semi-permeable layer. 
+
+- **Human Papilloma Virus:** an STD that develops warts and tumors that lead to infertility due to the infection of the cervix and the tumors lead to cancer. 
+
+# Mammary Gland
+Most of the parts are muscle and fat. 
+
+![alt text](image-2.webp)
+
+> [!NOTE]
+> - **Mammary lobe**: contains 15-20 alveoli and acts as pouch to contain the alveoli. 
+> - Mammary alveoli are connected via **lactiferous ducts** that secrete milk. 
+
+# External Genitalia (Vulva)
+1. **Mons Pubis**: The fatty area covered with pubic hair that lies over the pubic bone.
+2. **Labia Majora**: The outer lips, which are fatty folds of skin that enclose and protect the other external genital organs.
+3. **Labia Minora**: The inner lips, which are thin folds of skin situated within the labia majora, surrounding the vaginal and urethral openings.
+4. **Clitoris**: A small, sensitive, and erectile part of the female genitalia, located at the front of the vulva.
+5. **Clitoral Hood (Prepuce)**: The fold of skin that surrounds and protects the clitoris.
+6. **Vaginal Opening (Introitus)**: The entrance to the vagina.
+7. **Urethral Opening**: The opening through which urine exits the body.
+8. **Vestibule**: The area between the labia minora that contains the openings to the urethra and vagina.
+9. **Bartholin's Glands**: Glands located on either side of the vaginal opening that secrete fluid to lubricate the vagina.
+10. **Perineum**: The area between the vaginal opening and the anus.
+
+> [!NOTE]
+> The vulva is often mistakenly referred to as the vagina, but they are not the same. The vulva includes all the external genital organs, while the vagina is the internal canal that connects the external genitalia to the cervix and uterus. Proper terminology is important for understanding female anatomy and for medical communication.
+
+<img src="../diagram/ch2/female-hormone-cycle.jpeg">
