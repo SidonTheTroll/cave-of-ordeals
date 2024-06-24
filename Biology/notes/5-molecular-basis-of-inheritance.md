@@ -275,3 +275,27 @@ It is the process of forming DNA-dependent RNA
 > - **Intron**: non-functional part of mRNA
 > - **Monocistorn**: it is an mRNA in both prokaryotes and eukaryotes carries the coding sequence for a single protein, allowing for focused and regulated expression of individual genes.
 > - **Polyciston**: - it is an mRNA in prokaryotes is a single transcript containing the coding sequences for multiple proteins, transcribed from a single operon and translated into distinct polypeptides by ribosomes.
+
+# Translation 
+It is the conversion of **mRNA** to **protein**.  <img align=right src="../diagram/ch5/Genetic-Code.webp" width=400>
+
+Protein is a **biomacromolecule** and a **polymer**. 
+
+- There are **64 codons** present **3** of which are known as **nonsense, termination or stop codon**
+
+> [!NOTE]
+> It means 61 are coded for amino acids and the rest 3 are coded for termination of the code, namely, **UAA, UAG, UGA**.
+> And the sequence of the code is started by **AUG** that also forms **methionine**. 
+>
+> Therefore **AUG** has dual role, to **start the sequence of protein synthesis** and also to **form methionine**
+
+## Salient Features of Genetic Code  
+1. The codon is triplet. 61 codons code for amino acids and 3 codons do not code for any amino acids, hence they function as stop codons.
+2. Some amino acids are coded by more than one codon, hence the code is degenerate.
+3. The codon is read in mRNA in a contiguous fashion. There are no punctuations.
+4. The code is nearly universal: for example, from bacteria to human UUU would code for Phenylalanine (phe). Some exceptions to this rule have been found in mitochondrial codons, and in some protozoans.
+5. AUG has dual functions. It codes for Methionine (met), and it also acts as the initiator codon.
+6. UAA, UAG, UGA are stop terminator codons.
+
+> [!IMPORTANT]
+> George Gamow, a physicist, made a significant and bold proposition in the field of genetics by suggesting that the genetic code should be composed of combinations of bases to account for the 20 amino acids. He theorized that a code made up of three nucleotides would be necessary, as the permutation combination of four bases taken three at a time (4³) would generate 64 codons, which is more than enough to encode all the amino acids. His interdisciplinary approach and innovative thinking played a crucial role in advancing the understanding of the genetic code, highlighting the collaborative effort needed from various scientific disciplines to decipher the complexities of genetic information.
