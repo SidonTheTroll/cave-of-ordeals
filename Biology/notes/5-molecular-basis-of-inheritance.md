@@ -298,4 +298,12 @@ Protein is a **biomacromolecule** and a **polymer**.
 6. UAA, UAG, UGA are stop terminator codons.
 
 > [!IMPORTANT]
-> George Gamow, a physicist, made a significant and bold proposition in the field of genetics by suggesting that the genetic code should be composed of combinations of bases to account for the 20 amino acids. He theorized that a code made up of three nucleotides would be necessary, as the permutation combination of four bases taken three at a time (4³) would generate 64 codons, which is more than enough to encode all the amino acids. His interdisciplinary approach and innovative thinking played a crucial role in advancing the understanding of the genetic code, highlighting the collaborative effort needed from various scientific disciplines to decipher the complexities of genetic information.
+> **George Gamow**, a physicist, made a significant and bold proposition in the field of genetics by suggesting that the genetic code should be composed of combinations of bases to account for the 20 amino acids. He theorized that a code made up of three nucleotides would be necessary, as the permutation combination of four bases taken three at a time (4³) would generate 64 codons, which is more than enough to encode all the amino acids. His interdisciplinary approach and innovative thinking played a crucial role in advancing the understanding of the genetic code, highlighting the collaborative effort needed from various scientific disciplines to decipher the complexities of genetic information.
+
+# Mutations and Genetic Code 
+- **Frame-Shift Mutation**: this a type of mutation where the addition or deletion of one code leads to the distortion of the whole mRNA. 
+
+> [!NOTE]
+> - **Original**: SAM HAS RED CAP 
+> - **Addition**: SAM PHA SRE DCA P 
+> - **Deletion**: SAM ASR EDC AP
