@@ -1,15 +1,19 @@
 # Content 
-1. Cover 
-2. Certificate 
-3. Acknowledgment 
-4. Table of Contents 
-5. Topics 
-    1. ...
-    2. ...
-    3. ...
-    4. ...
-6. Result and Conclusion
-7. Bibliography 
+i. Certificate
+ii. Acknowledgment 
+iii. Content
+1. Abstract 
+2. Need Statement 
+3. Methodology 
+    1. Requirements 
+    2. Procedure 
+    3. Waste Classification
+    4. Biodegradability & Hazards 
+    5. Documentation 
+4. Observation 
+5. Conclusion 
+6. Bibliography 
+7. Photo Gallery 
 
 ---
 
