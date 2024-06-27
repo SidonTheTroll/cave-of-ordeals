@@ -92,3 +92,5 @@ The accessory glands in the male reproductive system include the seminal vesicle
 |                     | - Spermatids differentiate into spermatozoa (sperm cells) | - Secondary oocyte begins meiosis II but arrests at metaphase II until fertilization |
 |                     | - Continuous process                                 | - Meiosis II completes only if fertilization occurs, forming an ovum and another polar body |
 |                     | - Produces millions of sperm daily                   | - Typically produces one ovum per menstrual cycle   |
+
+<img src="../diagram/ch2/spermatogenesis and oogenesis.png">
