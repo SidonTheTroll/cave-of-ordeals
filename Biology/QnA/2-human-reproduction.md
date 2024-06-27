@@ -74,3 +74,21 @@ The accessory glands in the male reproductive system include the seminal vesicle
 2. **Prostate Gland**: The prostate gland is a walnut-sized gland located below the bladder and surrounding the urethra. Its primary function is to produce prostatic fluid, which is a milky alkaline secretion that contributes to semen volume. Prostatic fluid contains enzymes, citric acid, and zinc, which help activate sperm and prolong their viability by neutralizing acidic conditions in the female reproductive tract.
 
 3. **Bulbourethral Glands (Cowper's Glands)**: The bulbourethral glands are two pea-sized glands located beneath the prostate gland. Their function is to secrete a clear, viscous fluid known as pre-ejaculate or Cowper's fluid. This fluid lubricates the urethra, neutralizes any remaining acidity in the urethra from urine, and serves as a pre-ejaculatory flush to clear residual urine and lubricate the urethra in preparation for ejaculation.
+
+---
+# 27/6/24 
+
+## Write the differences between spermatogenesis and oogenesis. 
+
+| **Aspect**          | **Spermatogenesis**                                  | **Oogenesis**                                       |
+|---------------------|------------------------------------------------------|----------------------------------------------------|
+| **Multiplication**  | - Begins at puberty and continues throughout life    | - Begins during fetal development and ceases at old age            |
+|                     | - Spermatogonia (diploid) divide by mitosis          | - Oogonia (diploid) divide by mitosis               |
+|                     | - Forms primary spermatocytes (diploid)              | - Forms primary oocytes (diploid)                   |
+| **Growth**          | - Primary spermatocytes grow minimally               | - Primary oocytes grow significantly                |
+|                     | - Little increase in size                            | - Accumulate yolk and other materials               |
+| **Maturation**      | - Primary spermatocytes undergo meiosis I to form two secondary spermatocytes (haploid) | - Primary oocytes begin meiosis I but arrest at prophase I until puberty |
+|                     | - Secondary spermatocytes undergo meiosis II to form spermatids (haploid) | - At puberty, primary oocytes complete meiosis I to form a secondary oocyte (haploid) and a polar body |
+|                     | - Spermatids differentiate into spermatozoa (sperm cells) | - Secondary oocyte begins meiosis II but arrests at metaphase II until fertilization |
+|                     | - Continuous process                                 | - Meiosis II completes only if fertilization occurs, forming an ovum and another polar body |
+|                     | - Produces millions of sperm daily                   | - Typically produces one ovum per menstrual cycle   |

@@ -161,4 +161,24 @@ Most of the parts are muscle and fat.
 > [!NOTE]
 > The vulva is often mistakenly referred to as the vagina, but they are not the same. The vulva includes all the external genital organs, while the vagina is the internal canal that connects the external genitalia to the cervix and uterus. Proper terminology is important for understanding female anatomy and for medical communication.
 
-<img src="../diagram/ch2/female-hormone-cycle.jpeg">
+# The Menstrual Cycle
+<img width=400 align=right src="../diagram/ch2/female-hormone-cycle.jpeg">
+
+If menarche starts early, it may create abnormalities in hormones in later life. 
+
+Primary oocyte forms estrogen covered by granulosa cell after multiple layers, it forms primary follicle and starts forming estrogen. 
+
+- Corpus luteum forms progesterone from inside the ovary. 
+
+On 14th day of ovulation, the egg is released and for 48 hours, it remains intact. If it is not fertilized, the body doesn't need the endometrium anymore so it degenerates the layers that cause menstrual bleeding. 
+
+In pregnancy test kit, it checks for hormone present in the urine and finds if the zygote is present or not. 
+
+Menopause begins at around 50 years of age.  
+When this starts, it also affects other body parts including the brain.  
+And due to this, it causes mental issues. 
+
+Also, body homeostasis disruptions. 
+
+Behavior also changes. 
+
