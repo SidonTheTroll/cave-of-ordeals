@@ -301,9 +301,31 @@ Protein is a **biomacromolecule** and a **polymer**.
 > **George Gamow**, a physicist, made a significant and bold proposition in the field of genetics by suggesting that the genetic code should be composed of combinations of bases to account for the 20 amino acids. He theorized that a code made up of three nucleotides would be necessary, as the permutation combination of four bases taken three at a time (4³) would generate 64 codons, which is more than enough to encode all the amino acids. His interdisciplinary approach and innovative thinking played a crucial role in advancing the understanding of the genetic code, highlighting the collaborative effort needed from various scientific disciplines to decipher the complexities of genetic information.
 
 # Mutations and Genetic Code 
-- **Frame-Shift Mutation**: this a type of mutation where the addition or deletion of one code leads to the distortion of the whole mRNA. 
+- **Frame-Shift Mutation**: this is a type of mutation where the addition or deletion of one code leads to the distortion of the whole mRNA. 
 
 > [!NOTE]
 > - **Original**: SAM HAS RED CAP 
 > - **Addition**: SAM PHA SRE DCA P 
 > - **Deletion**: SAM ASR EDC AP
+
+# Lac Operon 
+- The explanation of lac-operon was a result of close association between geneticist, **Francois Jacod** and biochemist, **Jacque Monod**. 
+
+- Points <img align=right src="../diagram/ch5/lac-operon.jpg">
+    - **p**: Promoter
+    - **i**: Repressor
+    - **o**: Operator
+    - **z, y, a**: Structural gene 
+        1. **z**: $\beta$-galactosidase
+            - Convert lactose into galactose and glucose.
+        2. **y**: Permease 
+            - Helps the enzyme to permeate into the blood cells which help to speed up the process in other parts too. 
+        3. **a**: Transacetylase
+            - Its function is not perfectly discovered yet. 
+
+The regulation of lac-operon by repressor is referred to as **negative regulation** because the repressor gene keeps producing which stops the structural gene containing z, y & a from transcribing. This is done so to prevent the production of unnecessary enzymes and save energy.
+
+When lactose is absent, the repressor transcripts into **repressor mRNA** which forms a **Repressor protein** that binds with operator that doesn't allow RNA-polymerase to bind and transcribe the rest of the structural DNA. Here, the **Operator is turned off**
+
+But when lactose is present, it binds with the formed repressor protein that stops it from joining with the operator. This leads to the RNA-polymerase doing its work in producing mRNA from the structural gene that forms **lac-mRNA**. Here, the **Operator is turned on**.  
+Lac-mRNA forms **3 enzymes**, $\beta$-galactosidase, permease and transacetylase. 
