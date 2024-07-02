@@ -329,3 +329,53 @@ When lactose is absent, the repressor transcripts into **repressor mRNA** which 
 
 But when lactose is present, it binds with the formed repressor protein that stops it from joining with the operator. This leads to the RNA-polymerase doing its work in producing mRNA from the structural gene that forms **lac-mRNA**. Here, the **Operator is turned on**.  
 Lac-mRNA forms **3 enzymes**, $\beta$-galactosidase, permease and transacetylase. 
+
+# Human Genome Project 
+
+> [!NOTE]
+> - **Silent Mutation**: a mutation is occured in the DNA but the phenotype remains regular.  
+> If a mutation is on a non-coding string, minor changes are unnoticable but major changes may be seen. 
+
+The **Human Genome Project** (HGP) was an international research initiative aimed at mapping and understanding all the genes of the human species. The project **officially started in 1990 and was completed in 2003** (13 years). It was one of the largest collaborative scientific endeavors in history, involving scientists from around the world.
+
+The human genome has approximately $3\times 10^9$ base pairs and the cost of sequencing each bp is about $9 and the total cost estimated for the project was $9 billion. 
+
+If it were to be written on a book with 1000 pages with 1000 letters each, it'd take 3300 such books to document the project. 
+
+> [!IMPORTANT]
+> With the success of HGP, it led to the development of a new branch called **Bioinformatics**. 
+
+## Goals of HGP 
+1. Identify all the approximately 20,000-25,000 genes in the human DNA. 
+2. Determine the sequences of the 3 million chemical base pairs that make up human DNA. 
+3. Store this information in databases. 
+4. Improve tools for data analysis. 
+5. Transfer related technologies to other sectors, such as industries. 
+6. Address the ethical, legal, and social issues that may arise from the project. 
+
+The project was coordinated by the **US Department of Energy and the National Institute of Health**. Countries like **Japan, France, Germany, China** and others were involved in it. 
+
+Many non-human genome projects were completed before it like on **yeast, *Caenorhabditis elegans*, *Drosophila*, rice and *Arabidopsis***.
+
+## Methodologies 
+There were two major approaches:
+1. **Expressed Sequence Tags:** Identifying all the genes that are expressed as RNA 
+2. **Sequence Annotation:** SEquence the whole set of genomes that contained all the coding and non-coding sequences and later assign different regions in the sequence with functions.
+
+For the project, every piece of the DNA was cut with **molecular scissors** and stored in vectors with modified DNA and preserved in different mediums in spore form for long viability as in the case of **Gene banks**.  
+The commonly used hosts were **BAC (Bacterial Artificial Chromosomes)** and **YAC (Yeast Artificial Chromosomes)**
+
+The fragments were sequences using automated DN Asequencers that worked on the principle of a method developed by **Frederick Sanger** who is also credited. 
+
+## Salient Features of Human Genome 
+1. The human genome contains 3164.7 million bp. 
+2. The average gene consists of 3000 bases, but sizes vary greatly with the largest known human gene being **dystrophin** at 2.4 million bases. 
+3. The total number of genes is estimated at 30,000 much lower than previous estimates of 80,000-140,000 genes. 99.9% of the nucleotide bases are exactly the same in all people. 
+4. The **functions are unknown** for over **50% of the discovered genes**. 
+5. Less than **2%** of the genome **code for protein**. 
+6. Repeated sequences make up a very large portion of the human genome. 
+7. **Repetitive sequences** are stretches of DNA sequences that are repeated many times, sometimes a hundred to thousand times. They are thought to have **no direct coding function**, but they shed light on **chromosome structure, dynamics and evolution**. 
+8. **Chromosome 1** has the most genes (2968), and **Y** has the least (231). 
+9. Scientists have identified about 1.4 million locations where single-base DNA differences (**SNPs - single nucleotide Polymorphism (Variation)**) occur in humans. This information promises to revolutionize the process of finding chromosomal locations for disease-associated sequences and tracing human history. 
+
+# DNA Fingerprinting
