@@ -379,3 +379,55 @@ The fragments were sequences using automated DN Asequencers that worked on the p
 9. Scientists have identified about 1.4 million locations where single-base DNA differences (**SNPs - single nucleotide Polymorphism (Variation)**) occur in humans. This information promises to revolutionize the process of finding chromosomal locations for disease-associated sequences and tracing human history. 
 
 # DNA Fingerprinting
+The human genome consists of 3 billion base pairs, with 99.9% of these being identical among humans. The differences in the remaining **0.1% are what make each individual unique**. Sequencing the entire genome to find these differences is impractical and costly. Instead, DNA fingerprinting offers a quick comparison of DNA sequences. This method focuses on **repetitive DNA**, which is **separated into satellite DNA during density gradient centrifugation**. Satellite DNA, classified into categories like **micro-satellites and mini-satellites**, is **highly polymorphic and non-coding**, making it suitable for **forensic** and **paternity testing**. DNA polymorphisms, which result from mutations, form the basis of genetic mapping and DNA fingerprinting. Alec Jeffreys developed the technique using **Variable Number of Tandem Repeats (VNTR)**. The process involves several steps, including **isolation, digestion, electrophoresis, blotting, hybridization, and detection of DNA**. Advances like PCR have made the technique more sensitive, requiring minimal DNA and expanding its applications.
+
+### Bullet Points
+- **Human Genome**: 3 billion base pairs; 99.9% identical among humans.
+- **DNA Differences**: 0.1% of the genome; makes individuals unique.
+- **DNA Fingerprinting**:
+  - Quick comparison of DNA sequences.
+  - Focuses on repetitive DNA, separated into satellite DNA.
+  - Satellite DNA categories: Micro-satellites, Mini-satellites.
+  - Highly polymorphic, non-coding sequences.
+- **Forensic and Paternity Testing**:
+  - DNA from various tissues shows consistent polymorphism.
+  - Polymorphisms are inheritable.
+- **DNA Polymorphisms**:
+  - Result from mutations in somatic or germ cells.
+  - Spread through sexual reproduction if not impairing reproduction.
+  - Variations described as polymorphisms if allele frequency > 0.01.
+  - Higher probability in non-coding DNA.
+  - Basis for variability and evolution.
+- **Alec Jeffreys and VNTR**:
+  - Developed DNA fingerprinting using VNTR (mini-satellites).
+  - Process steps: Isolation, digestion, electrophoresis, blotting, hybridization, detection.
+  - Bands on autoradiogram provide unique patterns.
+- **Advancements**:
+  - Use of PCR increases sensitivity.
+  - Applications in forensic science, population genetics, and diversity studies.
+
+### Key Terms
+- **Human Genome**: The complete set of genetic material in a human being, comprising 3 billion base pairs.
+- **Repetitive DNA**: DNA sequences repeated many times within the genome.
+- **Satellite DNA**: Non-coding repetitive DNA sequences separated during density gradient centrifugation.
+- **Micro-satellites**: Short repetitive DNA sequences.
+- **Mini-satellites**: Longer repetitive DNA sequences.
+- **Polymorphism**: Genetic variation within a population.
+- **Mutation**: A change in the DNA sequence, occurring in somatic or germ cells.
+- **Variable Number of Tandem Repeats (VNTR)**: A type of satellite DNA used in DNA fingerprinting, showing high polymorphism.
+- **Southern Blot Hybridization**: A method used in DNA fingerprinting involving the transfer of DNA fragments to a membrane and hybridization with a probe.
+- **Autoradiography**: A technique to detect radiolabeled molecules, used in DNA fingerprinting to visualize hybridized DNA.
+- **Polymerase Chain Reaction (PCR)**: A method to amplify small amounts of DNA, enhancing the sensitivity of DNA fingerprinting.
+- **Forensic Science**: The application of scientific methods to solve crimes, including DNA fingerprinting for identification.
+- **Paternity Testing**: A genetic test to determine if a man is the biological father of a child.
+
+## Steps in DNA Fingerprinting 
+1. **Isolation of DNA** from the rest of the cell and cell components and chemicals.
+2. Digestion (separation of required DNA) by **restriction endonucleases** (restriction enzymes aka. molecular scissors)
+3. Separation of DNA fragments by **gel electrophoresis**. 
+4. Transferring of separated DNA fragments to **synthetic membranes**, such as **nitrocellulose or nylon**. 
+5. Hybridization using **labelled VNTR probe** (radioactive DNA)
+6. Detection of hybridized DNA fragments by **autoradiography**.
+
+### What is VNTR? 
+VNTR belongs to a class of satellite DNA referred to as mini-satellites. A small DNA sequence is arranged tandemly in many copy numbers. The copy number varies from chromosome to chromosome in an individual. The number of repeats shows a very high degree of polymorphism. As a result, the size of VNTR varies from size from 100-20000 bases. 
