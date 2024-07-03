@@ -100,61 +100,77 @@ Name: Math, dtype: int64
 ## 2. Name the function to iterate over a DataFrame vertically. 
 `<dataframe_object>.iteritems()`
 
-## 3. Is the result of sub() and rsub() the same? Why/why not?
-The results are different because subtraction gives 2 different answers based on the position of numbers while calculation. 
+## 3. Write the equivalent expressions 
+1. A.add(B) = A + B 
+2. B.add(A) = B + A 
+3. A.sub(B) = A - B 
+4. B.sub(A) = B - A 
+5. A.rsub(B) = B - A 
+6. B.mul(A) = B * A 
+7. A.rdiv(B) = B / A 
+8. B.div(A) = B / A 
+9. B.rdiv(A) = A / B 
+10. A.div(B) = A / B 
 
-## 4. Write appropriate functions to perform the following on a DataFrame ?
-1. Calculate the sum: `df1.sum(df2)`
-2. Count the values: `df['values'].value_counts()`
-3. Calculate the average: `df.mean()`
-4. Calculate the most repeated value: `df.mode()`
-5. Calculate the median: `df.median(axis=0)`
-6. Calculate the standard deviation: 
-7. Calculate the variance:
-8. Calculate the maximum value:
-9. Calculate the standard deviation:
-10. Calculate the variance:
+## 4. Is the results sub() and rsub() the same? Why/why not? 
+No, the results aren't the same because the subtract the operands in different numbers. 
 
-## 6. What does info() and describe() do?
+## 5. Write appropriate function to perform Dataframe. 
+1. Calculate the sum = `sum()` 
+2. Count the values = `count()`
+3. Calculate the average = `mean()` 
+4. Calculate the median = `median()` 
+5. Calculate the mode = `mode()`
+6. Calculate the standard deviation = `std()`
+7. Calculate the variance = `var()`
+8. Calculate the maximum value = `max()`
 
-## 7. Are sum() and add() functions the same?
-No, they are not the same. `sum()` functions calculate the sum of elements in an iterable while `add()` deals with dataframe and ndarray objects.
+## 6. What does info() and describe() do? 
+info() allows us to learn the shape of object types of our data. The describe() method gives us summary statistics for numerical column in our dataframe. 
 
-## 8. Name some functions that perform descriptive statistics on a DataFrame.
+## 7. Name some function that performs descriptive statistics in a dataframe. 
+```py 
+count()
+median()
+min()
+max()
+sum()
+var()
+quantile()
+mean()
+std()
+```
 
-## 9. To consider only the numeric values for calculation, what argument do you pass to statistics functions of Pandas?
+## 8. Do sum() and add() functions the same? 
+No, the sum() and add() function are not the same in pandas. The sum() functions calculates the sum of values along a specified axis while the add() function in pandas is used to add the object element wise. 
 
-## 10. Is there one function that calculates much of descriptive statistics values? Name it.
+## 9. To consider only the numeric value for calculation, what argument do you pass the statistics function of pandas? 
+`numeric_only=True` 
 
-## 11. What happens if mode() returns multiple values for a column but other columns have a single mode?
+## 10. Is there one function that calculates much of descriptive statictics values? Name it. 
+`describe()` 
 
-## 12. What is quantile and quartile?
+## 11. What happens if mode() returns multiple values for a column but other columns have a single mode. 
+If mode() returns multiple values for a column but other column have single mode then pandas will display 2 likes to show two modes and for the rest columns if fill NaN. 
 
-## 13. Name the function that lets you calculate different types of quantiles.
+## 12. What is quantile and quartile? 
+Quantile are a set of three values that divide ordered datasets into four equal parts.  
+While quartile are units of equal adjacent quantities in a distribution. 
 
-## 14. Name the functions that give you maximum and minimum values in a DataFrame.
-For maximum, use `max()` and use `min`()` to find the minimum value. 
+## 13. Name the function you can use for filling missing data. 
+`fillna()`
 
-## 15. Name the functions that give you the index of maximum and minimum values in a DataFrame.
-- Maximum: `idxmax()`
-- Minimum: `idxmin()`
+## 14. Name the function that you can calculate different types of quantities. 
+`quantile()`
 
-## 16. What is pivoting? Name the two functions that you can use for pivoting.
+## 15. Name the function that gives you maximum and minimum values for a dataframe. 
+`max()` and `min()`
 
-## 17. What is the basic difference between pivot() and pivot_table()?
+## 16. Some questions but index of maximum and minimum values. 
+`idxmax()` and `idxmin()`
 
-## 18. What is missing data?
-Missing data are special markers in python which deals with common data analysis and processing and reserves spaces for numbers to be inputted in the future
+## 17. What is missing data? 
+These are placeholders that help us to input data after dataframe is created or finished. 
 
-## 19. Why is missing data filled in DataFrame with some value?
-Is is done so that the dataset is complete before entering the data in the future. 
-
-## 20. Name the functions you can use for filing missing data. 
-
-## 21. Name the function to create a histogram from a DataFrame. 
-
-## 22. Name some functions used to handle missing data in DataFrames. 
-
-## 23. Name some functions used to join or combine DataFrames. 
-
-## 24. Name two functions that can produce result similar to SQL joins. 
+## 18. Why is missing data filled in dataframe with same values? 
+Because empty value cannot be displayed by Nan. There may be more than one mode for a dataframe. 
