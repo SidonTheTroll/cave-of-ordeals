@@ -24,9 +24,9 @@ Table constraints apply to the entire table and can involve multiple columns, su
 Column constraints apply to individual columns, specially rules like NOT NULL, UNIQUE or DEFAULT values.  
 Table constraints affect multiple columns or relationships between tables, while column constraints affect only single columns. 
 
-## 11. Insert all those records of table Accounts into table _Pending_* where amt_outstanding is more than 10000. 
+## 11. Insert all those records of table Accounts into table _Pending_ where amt_outstanding is more than 10000. 
 ```
-INSERT INTO _Pending_*
+INSERT INTO Pending
 SELECT *
 FROM Accounts
 WHERE amt_outstanding > 10000;
@@ -55,7 +55,7 @@ DROP TABLE Empl;
 2. DROP TABLE, DROP clause of ALTER TABLE. 
     - DROP TABLE deletes a table while DROP clause of ALTER TABLE deletes a specific column, constraint, or index from an existing table without deleting the entire table or its other data.
 
-## 16. Mr. Mittal is using a table with following columns: `Name, Class, Stream:Id, Stream_name`. He needs to display names of students who have not assigned any stream or have been assigned stream_name that ends with "computers". He wrote the following command, which did not give the desired result. `SELECT Name, Class FROM Students WHERE Stream_name = NULL or Stream_name="%computers";`. Help Mr. MIttal to run the query by removing the error and write the correct query. 
+## 16. Mr. Mittal is using a table with following columns: `Name, Class, Stream:Id, Stream_name`. He needs to display names of students who have not assigned any stream or have been assigned stream_name that ends with "computers". He wrote the following command, which did not give the desired result. `SELECT Name, Class FROM Students WHERE Stream_name = NULL or Stream_name="%computers";`. Help Mr. Mittal to run the query by removing the error and write the correct query. 
 ```
 SELECT Name, Class
 FROM Students
