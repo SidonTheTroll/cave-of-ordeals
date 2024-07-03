@@ -19,3 +19,6 @@ Max. pages: 6
 - Conclusion: 1-2 page 
 - Photo gallery: 6 photos 
 - E-References 
+
+> [!IMPORTANT]
+> **DUE:** 8th August
