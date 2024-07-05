@@ -431,3 +431,31 @@ The human genome consists of 3 billion base pairs, with 99.9% of these being ide
 
 ### What is VNTR? 
 VNTR belongs to a class of satellite DNA referred to as mini-satellites. A small DNA sequence is arranged tandemly in many copy numbers. The copy number varies from chromosome to chromosome in an individual. The number of repeats shows a very high degree of polymorphism. As a result, the size of VNTR varies from size from 100-20000 bases. 
+
+# The Search for Genetic Material 
+
+## Griffith's Transforming Principle 
+- The experiment was done by Frederick Griffith in 1928 with ***Streptococcus pneumoniae*** on mice. 
+
+During the culture of this bacteria, he got two colonies, a **non-virulent rough colony denoted R-strain** and a **virulent smooth colony denoted S-strain** that had a **mucosal layer made of polysaccharide**. He injected them into mice and got the results: 
+
+$\text{S-strain}\overset{\text{inject into mice}}{\rightarrow}\text{Mice die}$  
+$\text{R-strain}\overset{\text{inject into mice}}{\rightarrow}\text{Mice live}$
+
+So he now knew S-**strain was responsible for being more lethal** and he modified his experiment. 
+
+$\underset{\text{(Heat-Killed)}}{S-strain}\overset{\text{inject into mice}}{\rightarrow}\text{Mice live}$  
+$\underset{\text{(Heat-killed)}}{S-strain}+\underset{\text{live}}{R-strain}\overset{\text{inject into mice}}{\rightarrow}\text{Mice die}$
+
+So Griffith concluded that there's something in the S-strain that would transform the R-strain to be more **lethal**. This **transforming ability** was transferred from the **heat-killed S-strain** to the **R-strain** which allowed it to **synthesize a smooth polysaccharide coat** and become **more virulent**. It must have been due to the **transfer of genetic material**. However, the **biochemical nature** of this genetic material **wasn't defined by his experiments**.
+
+## Biochemical Characterization of Griffith's Transforming Principle 
+- This experiment was carried out by Oswald Avery, Colin MacLeod and Maclyn McCarty in 1933-44. 
+
+Before their experiment, it was thought that protein was the genetic material. 
+
+They did the same experiment as Griffith but this time, used enzymes to dissolve Protein, RNA and DNA namely protease, RNase and DNase respectively. 
+
+When they treated S-strain bacteria with protease and RNase, it still killed the rats but when treated with DNase, the S-strain bacteria wasn't able to kill the rat. 
+
+Since the DNA was digested by the enzyme, it couldn't transform the R-strain bacteria to S-strain and it proved that DNA was the genetic material. But still after this, many people weren't convinced about it. 
