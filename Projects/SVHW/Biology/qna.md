@@ -103,35 +103,29 @@ In one complete turn of double-stranded DNA (dsDNA):
 - There are approximately 10.5 base pairs per turn.
 
 ## 22. Explain two factors responsible for conferring stability of the double helix structure of DNA. 
-Two factors contribute significantly to the stability of the double helix structure of DNA:
+Two factors significantly contribute to the stability of the DNA double helix:
 
-1. **Hydrogen Bonds between Base Pairs**: Each base pair in DNA is held together by hydrogen bonds. Adenine (A) pairs with thymine (T) via two hydrogen bonds, and guanine (G) pairs with cytosine (C) via three hydrogen bonds. These hydrogen bonds provide stability to the DNA molecule by keeping the two strands tightly bound together.
+1. **Hydrogen Bonds**: A pairs with T via two hydrogen bonds, and G pairs with C via three hydrogen bonds, tightly binding the two strands together.
 
-2. **Base Pair Stacking Interactions**: The aromatic rings of adjacent base pairs in the same DNA strand engage in pi-stacking interactions. These interactions are non-covalent and involve overlapping electron clouds of the aromatic rings, which contribute additional stability to the double helix structure. The stacking interactions help minimize exposure of the hydrophobic bases to the aqueous environment, thereby stabilizing the overall structure of DNA.
+2. **Base Pair Stacking**: Aromatic rings of adjacent base pairs engage in pi-stacking interactions, which stabilize the structure by minimizing hydrophobic exposure.
 
 ## 23. State the role of DNA-dependent DNA polymerase and DNA ligase in the replication of DNA.
-- **DNA-dependent DNA polymerase**: This enzyme is responsible for synthesizing new DNA strands during replication. It uses the existing DNA strands as templates and catalyzes the addition of complementary nucleotides to the growing DNA strand. DNA polymerase ensures accurate copying of the genetic information by proofreading and correcting errors during replication.
+- **DNA-dependent DNA polymerase**: This enzyme synthesizes new DNA strands using existing strands as templates. It adds complementary nucleotides and proofreads to ensure accurate replication.
 
-- **DNA ligase**: DNA ligase plays a crucial role in the final stages of DNA replication. It joins or ligates the Okazaki fragments on the lagging strand by catalyzing the formation of phosphodiester bonds between adjacent nucleotides. This process is essential for completing the synthesis of the lagging strand and forming a continuous, intact double-stranded DNA molecule after replication.
+- **DNA ligase**: DNA ligase joins Okazaki fragments on the lagging strand by forming phosphodiester bonds, completing the synthesis of a continuous double-stranded DNA molecule.
 
 ## 24. A segment of DNA has a total of 2000 nucleotides, out of which 520 are adenine-containing nucleotides. How many purine bases does this DNA segment possess? 
-To determine how many purine bases (adenine and guanine) are present in the DNA segment, we first need to find out the total number of guanine-containing nucleotides.
+Given,   
+Nucleotides = 2000  
+Adenine = 520 
 
-Given:
-- Total nucleotides in the DNA segment = 2000
-- Adenine-containing nucleotides = 520
+$\therefore \text{Thymine} = 520$
 
-Since adenine is a purine base, we already know there are 520 purine bases from adenine.
+$G \text{ and } C \text{ bases} = 2000 - (520 \times 2) = 960$
 
-To find the number of guanine-containing nucleotides:
-$\text{Total guanine-containing nucleotides} = \text{Total nucleotides} - \text{Adenine-containing nucleotides}$  
-$\text{Total guanine-containing nucleotides} = 2000 - 520 = 1480$
+$\text{Guanine bases} = 960/2=480$
 
-Now, we calculate the total number of purine bases:
-$\text{Total purine bases} = \text{Adenine-containing nucleotides} + \text{Guanine-containing nucleotides}$  
-$\text{Total purine bases} = 520 + 1480 = 2000$
-
-Therefore, the DNA segment possesses a total of 2000 purine bases.
+$\therefore \text{Total purine bases} = 520+480=1000\text{ bases}$
 
 ## 25. 5' TACGTAAACCGAAAG 3'. Find out the mRNA and anticodons from the above information. 
 To find the mRNA sequence and the corresponding anticodons from the given DNA sequence (5' TACGTAAACCGAAAG 3'), we follow these steps:
@@ -150,16 +144,7 @@ To find the mRNA sequence and the corresponding anticodons from the given DNA se
 Therefore, the mRNA sequence is 5' UACGUAAACCGAAAG 3', and the corresponding anticodons are UAC, GUU, and UUG. These anticodons would be found on tRNA molecules that carry methionine, glutamine, and proline, respectively, during protein synthesis.
 
 ## 26. How are structural genes inactivated in lac-operon in e-coli? 
-In the lac operon of E. coli, the structural genes (lacZ, lacY, and lacA) are inactivated under normal conditions, where the lac repressor protein binds to the operator region. This binding prevents RNA polymerase from transcribing the genes involved in lactose metabolism.
-
-When lactose is present as an inducer:
-1. Lactose molecules enter the cell and are converted into allolactose.
-2. Allolactose binds to the lac repressor protein, causing a conformational change that reduces its affinity for the operator site.
-3. The lac repressor protein releases from the operator.
-4. RNA polymerase can now bind to the promoter region of the lac operon.
-5. Transcription of the structural genes (lacZ, lacY, and lacA) occurs, leading to the synthesis of β-galactosidase, lactose permease, and thiogalactoside transacetylase.
-  
-This mechanism allows E. coli to efficiently metabolize lactose when it is available in the environment.
+In lac-operon of e-coli, in absence of lactose, the repressor protein that get produces by the mRNA binds with the operator region of the mRNA and stops the translation of structural genes lac Z, Y and A. Thus, the structural gene gets inactivated. 
 
 ## 27. State the differences between the structural genes in a transcription unit of prokaryotes and eukaryotes. 
 | Feature                   | Prokaryotes                                      | Eukaryotes                                     |
@@ -174,7 +159,7 @@ This mechanism allows E. coli to efficiently metabolize lactose when it is avail
 In **DNA fingerprinting**, these sequences' variability among individuals is utilized for forensic identification and genetic relationship testing. PCR amplification and gel electrophoresis of satellite DNA generate unique genetic profiles.
 
 ## 29. What are SNPs? State its importance. 
-**SNPs (Single Nucleotide Polymorphisms)** are variations in a single nucleotide base at a specific position in the genome among individuals of a species. They are the most common type of genetic variation found in the human genome and other organisms.
+**SNPs (Single Nucleotide Polymorphisms)** are variations in a single nucleotide base at a specific position in the genome among individuals of a species. They are the most common type of genetic variation found in the human genome and other organisms.:
 
 **Importance of SNPs:**
 - **Genetic Variation**: SNPs contribute to genetic diversity among individuals.
@@ -186,24 +171,15 @@ In **DNA fingerprinting**, these sequences' variability among individuals is uti
 ## 30. What are the two approaches or methodologies of HGP? 
 The two main approaches or methodologies of the Human Genome Project (HGP) were:
 
-1. **Mapping**: This involved creating maps that showed the locations of genes and other DNA features on chromosomes. Genetic and physical mapping techniques were used to identify the positions of genes and markers along the chromosomes.
+1. **Expressed Gene Tags:** to identify all genes that are expressed as RNA (mapping). 
 
-2. **Sequencing**: This involved determining the exact order of the nucleotide bases (A, T, C, G) in the DNA sequences of the chromosomes. Automated sequencing methods were developed to read and assemble the entire human genome sequence.
+2. **Sequence annotation:** Blindly approach sequencing whole set of genome that contained all coding and non-coding sequences and later assigning different regions in the sequence with functions. 
 
-These approaches were complementary, with mapping providing the framework and sequencing providing the detailed nucleotide sequences, leading to the successful completion of the Human Genome Project.
+These approaches were complementary, with mapping providing the framework and sequence annotation providing the detailed nucleotide sequences, leading to the successful completion of the Human Genome Project.
 
 ## 31. Microscopic pollen of the past are obtained as fossils. Mention the characteristics of the pollen grain that make it happen. 
-The characteristics of pollen grains that enable them to be preserved as fossils include:
+Pollen grains are preserved as fossils due to their decay-resistant exine, small size, and sporopollenin composition. Their abundance and widespread distribution enhance fossilization, making them excellent indicators of past vegetation and environmental conditions.
 
-1. **Durable Outer Wall**: Pollen grains have a tough outer wall, known as the exine, which is resistant to decay and can endure environmental conditions over long periods.
-
-2. **Small Size**: Pollen grains are typically very small, ranging from a few micrometers to tens of micrometers in diameter. Their small size allows them to be easily transported and preserved in sedimentary layers.
-
-3. **Chemical Composition**: The exine of pollen grains contains sporopollenin, a chemically resistant biopolymer. Sporopollenin protects pollen from environmental degradation, contributing to its longevity.
-
-4. **Abundance**: Pollen grains are produced in large quantities by plants, contributing to their widespread distribution and increased likelihood of fossilization when conditions are favorable.
-
-These characteristics collectively make pollen grains excellent indicators of past vegetation and environmental conditions when preserved as fossils in sedimentary deposits.
 
 ## 32. State the function of the Filliform Apparatus. 
 The term "filiform apparatus" refers to a structure found in the embryo sac (female gametophyte) of flowering plants. Its function is to guide the pollen tube to the embryo sac during fertilization. The filiform apparatus consists of specialized cells that help direct the pollen tube towards the micropyle of the ovule, facilitating successful fertilization and seed development in flowering plants.
@@ -211,13 +187,13 @@ The term "filiform apparatus" refers to a structure found in the embryo sac (fem
 ## 33. Papaver and Michelia both have multi-carpellary ovaries. How do they differ from each other? 
 Papaver (poppy) and Michelia are both plants with multi-carpellary ovaries, but they differ in several aspects:
 
-1. **Flower Structure**: Papaver flowers typically have multiple pistils (each derived from a single carpel), often arranged in a whorl or cluster. In contrast, Michelia flowers generally have a single compound pistil with multiple carpels fused together.
+1. **Flower Structure**: Papaver has multiple pistils arranged in a whorl or cluster, while Michelia has a single compound pistil with fused carpels.
 
-2. **Ovary Arrangement**: In Papaver, each pistil (and hence each carpel) is separate or partially fused. Michelia, on the other hand, has carpels fused into a single ovary structure.
+2. **Ovary Arrangement**: Papaver's pistils are separate or partially fused; Michelia's carpels are fused into a single ovary.
 
-3. **Fruit Type**: The fruit of Papaver is typically a capsule, derived from the multi-carpellary ovaries. Michelia's fruit can vary but often develops into a berry-like structure or a multiple fruit cluster.
+3. **Fruit Type**: Papaver produces a capsule, whereas Michelia often develops a berry-like or multiple fruit cluster.
 
-These differences reflect variations in floral morphology and reproductive structures between the two genera despite both having multi-carpellary ovaries.
+These differences highlight variations in floral morphology and reproductive structures between the two genera despite both having multi-carpellary ovaries.
 
 ## 34. A bilobed dithaceous anther has 100 microspore mother cells per microsporangium. How many male gametes can this anther produce? 
 A bilobed dithaceous anther typically consists of two lobes, each containing microsporangia where microspore mother cells undergo meiosis to produce microspores. Given that each microsporangium has 100 microspore mother cells, we can calculate the total number of male gametes produced as follows:
@@ -263,35 +239,23 @@ In rice (Oryza sativa), the endosperm typically contains a different chromosome 
    - The endosperm in rice is triploid, meaning it contains three sets of chromosomes.
    - The endosperm results from the fusion of one sperm nucleus (from pollen) with two polar nuclei (in the embryo sac).
    - Therefore, the chromosome number in the endosperm is typically 3 times the haploid number of chromosomes in the microspore, which is 12.
-   - So, the endosperm of rice generally contains \( 3 \times 12 = 36 \) chromosomes.
+   - So, the endosperm of rice generally contains $( 3 \times 12 = 36 )$ chromosomes.
 
 Therefore, while the meiocyte of rice has 24 chromosomes, the endosperm typically contains 36 chromosomes due to its triploid nature resulting from double fertilization.
 
 ## 38. Write any two advantages and disadvantages of cleistogamous flowers. 
 **Advantages of Cleistogamous Flowers:**
-1. **Assured Seed Production**: Cleistogamous flowers ensure seed production even in adverse conditions or when pollinators are scarce, contributing to reproductive success and maintaining population stability.
-   
-2. **Protection from Pollinator Dependence**: By self-pollinating within closed flowers, cleistogamous plants reduce reliance on external pollinators, which can be unpredictable or absent in certain environments.
+
+1. **Assured Seed Production**: Ensure seeds even in adverse conditions or without pollinators.
+2. **Pollinator Independence**: Reduce reliance on unpredictable or absent pollinators.
 
 **Disadvantages of Cleistogamous Flowers:**
-1. **Reduced Genetic Diversity**: Self-pollination within cleistogamous flowers can lead to reduced genetic diversity within populations over time, potentially limiting adaptation to changing environmental conditions.
-   
-2. **Limited Outcrossing**: Cleistogamous flowers may restrict outcrossing opportunities, which could reduce opportunities for beneficial genetic recombination and adaptation through hybridization with other individuals or species.
+
+1. **Reduced Genetic Diversity**: Lead to lower genetic diversity over time.
+2. **Limited Outcrossing**: Restrict opportunities for beneficial genetic recombination.
 
 ## 39. What is pollen-pistil interaction? 
-Pollen-pistil interaction refers to the biochemical and physiological interactions that occur between the pollen grains (male gametophyte) and the pistil (female reproductive structure) of flowering plants during the process of fertilization. Key aspects of pollen-pistil interaction include:
-
-1. **Pollen Adhesion and Recognition**: Pollen grains must adhere to the stigma, the receptive surface of the pistil, through specific adhesion molecules and recognition processes. This ensures pollen grains land on compatible pistils of the same species.
-
-2. **Pollen Germination**: Once adhered, pollen grains germinate and develop pollen tubes, which grow through the pistil tissues towards the ovule where fertilization will occur.
-
-3. **Pollen Tube Guidance**: The pistil guides the pollen tube towards the ovule through chemical signals and physical cues, ensuring precise delivery of male gametes (sperm cells) to the embryo sac.
-
-4. **Sperm Cell Release and Fertilization**: Upon reaching the ovule, the pollen tube releases sperm cells, which fertilize the egg cell and central cell (in double fertilization) within the embryo sac, resulting in the formation of a zygote and endosperm.
-
-5. **Post-Fertilization Interactions**: After fertilization, the pistil supports the development of seeds by providing nutrients and protection to the developing embryo.
-
-Pollen-pistil interactions are crucial for successful sexual reproduction in flowering plants, ensuring the transfer and fusion of genetic material between male and female reproductive structures.
+Pollen-pistil interaction in flowering plants involves biochemical and physiological processes during fertilization, including pollen adhesion to the stigma, germination, and tube guidance towards the ovule, where sperm cells are released for fertilization. These interactions ensure the transfer and fusion of genetic material, leading to seed development, while incompatible pollen is recognized and rejected to prevent unsuccessful fertilization.
 
 ## 40. Give an example of cellular and free nuclear endosperm.
 
@@ -303,47 +267,35 @@ Pollen-pistil interactions are crucial for successful sexual reproduction in flo
 In self-incompatible plants, the type of pollination that typically occurs is **cross-pollination**. This is because self-incompatible plants have mechanisms to prevent self-pollination or self-fertilization to maintain genetic diversity and avoid inbreeding depression. These plants often rely on pollinators or other external agents to transfer pollen between different individuals of the same species, ensuring successful fertilization.
 
 ## 42. How does polyembryony arise in citrus plants? 
-Polyembryony in citrus plants arises through a process where multiple embryos develop from a single fertilized ovule or through the formation of adventitious embryos from nucellar cells. Here's how each mechanism contributes to polyembryony in citrus:
+Polyembryony in citrus plants occurs through two main mechanisms:
 
-1. **Nucellar Embryony**: In many citrus species, such as oranges and lemons, polyembryony is primarily due to nucellar embryony. Here, cells from the nucellus (tissue surrounding the embryo sac) undergo embryogenesis, giving rise to multiple embryos alongside the zygotic embryo resulting from fertilization. These embryos are genetically identical to the mother plant (clones).
+1. **Nucellar Embryony**: Common in oranges and lemons, where cells from the nucellus form multiple embryos alongside the zygotic embryo, resulting in clones of the mother plant.
 
-2. **Adventitious Embryony**: In some cases, adventitious embryos can form from cells other than the fertilized egg cell. This can occur through spontaneous development of embryos from somatic cells within the ovule or surrounding tissues. These adventitious embryos can also contribute to polyembryony in citrus.
+2. **Adventitious Embryony**: Involves the development of embryos from somatic cells within the ovule or surrounding tissues, contributing additional embryos.
 
-Polyembryony in citrus is advantageous because it allows for the production of multiple offspring from a single seed, ensuring genetic uniformity and potentially enhancing reproductive success.
+These mechanisms ensure genetic uniformity and enhance reproductive success by producing multiple offspring from a single seed.
 
 ## 43. What are tassels of corn-cob? 
-In maize (corn), the tassel refers to the male inflorescence or flower cluster located at the top of the plant. Here's more detail about the tassels of a corn cob:
-
-1. **Structure**: The tassel consists of a central stalk (main axis) with numerous branches, each bearing spikelets that contain the male flowers (florets).
-   
-2. **Function**: The primary function of the tassel is to produce and release pollen. Each spikelet on the tassel contains anthers, which are the structures where pollen grains develop. Wind and gravity help disperse the pollen from the tassel to the silks (female flowers) located on the ear or cob of the corn plant.
-
-3. **Development**: Tassels typically develop and mature before the ears. This timing ensures that the pollen is shed when the silks are receptive, facilitating pollination and fertilization.
-
-4. **Role in Pollination**: Corn plants are primarily wind-pollinated. When the tassel releases pollen, the wind carries it to neighboring plants, ensuring cross-pollination and the development of kernels on the cob.
-
-In summary, the tassels of a corn cob are the male inflorescences responsible for producing and dispersing pollen, which is essential for pollination and subsequent seed development in maize plants.
+In maize (corn), the tassel is the male inflorescence at the top of the plant, consisting of a central stalk with branches bearing spikelets that contain male flowers. Its primary function is to produce and release pollen, which is dispersed by wind and gravity to the silks (female flowers) on the ear of the plant. Tassels develop and mature before the ears, ensuring timely pollination and fertilization. This process is crucial for the development of kernels on the cob.
 
 ## 44. What is common in apomixis and parthenocarpic fruits? 
-Apomixis and parthenocarpic fruits share the common feature of reproduction or fruit development occurring without fertilization:
+Apomixis and parthenocarpic fruits both involve reproduction or fruit development without fertilization:
 
-1. **Apomixis**: Apomixis refers to a form of asexual reproduction in plants where embryos develop from unfertilized cells within the ovule. This results in the production of seeds that are genetically identical to the parent plant.
+1. **Apomixis**: Asexual reproduction where embryos develop from unfertilized ovule cells, resulting in seeds genetically identical to the parent plant.
 
-2. **Parthenocarpic Fruits**: Parthenocarpic fruits develop from ovules without fertilization of the egg cell. This can occur naturally or through artificial means such as hormone treatments. Parthenocarpic fruits are often seedless or contain underdeveloped seeds.
+2. **Parthenocarpic Fruits**: Fruits develop from ovules without fertilization, often resulting in seedless or underdeveloped seeds.
 
-In both apomixis and parthenocarpic fruits, the absence of fertilization allows for the development of offspring or fruit without the fusion of male and female gametes. This feature is advantageous in agriculture and horticulture for producing crops with specific traits, such as seedless fruits or maintaining genetic uniformity.
+Both processes avoid fertilization, leading to offspring or fruit without male-female gamete fusion, benefiting agriculture with seedless fruits and genetic uniformity.
 
 ## 45. Mention the location and function of the Leydig cell. 
-**Location**: Leydig cells, also known as interstitial cells of Leydig, are found in the connective tissue surrounding the seminiferous tubules within the testes of males.
-
-**Function**: Leydig cells play a crucial role in the production of testosterone, the primary male sex hormone. They respond to luteinizing hormone (LH) released from the pituitary gland by synthesizing and secreting testosterone. Testosterone is essential for the development and maintenance of male reproductive tissues and secondary sexual characteristics, such as facial hair growth, deepening of the voice, and muscle development.
+Leydig cells, located in the connective tissue around the seminiferous tubules in the testes, produce testosterone in response to luteinizing hormone (LH) from the pituitary gland. This testosterone is crucial for male reproductive tissue development, maintenance, and secondary sexual characteristics such as facial hair, deep voice, and muscle growth.
 
 ## 46. Write any two functions performed by Sertoli cells. 
 Sertoli cells, also known as sustentacular cells, perform several important functions in the testes:
 
-1. **Nurturing Spermatogenesis**: Sertoli cells provide physical and nutritional support to developing sperm cells (spermatogenesis) within the seminiferous tubules. They create a microenvironment conducive to spermatogenesis by supplying nutrients, growth factors, and hormones necessary for sperm maturation.
+1. **Nurturing Spermatogenesis**: Sertoli cells support spermatogenesis by providing nutrients, growth factors, and hormones to developing sperm within the seminiferous tubules.
 
-2. **Barrier Function**: Sertoli cells form tight junctions that create a blood-testis barrier, isolating developing sperm cells from the bloodstream. This barrier protects developing sperm from immune attacks and prevents antibodies and toxins from entering the seminiferous tubules, maintaining the immune privilege of sperm cells.
+2. **Barrier Function**: Sertoli cells form tight junctions, creating a blood-testis barrier that protects developing sperm from immune attacks and prevents antibodies and toxins from entering the seminiferous tubules.
 
 ## 47. Name the embryonic stage that gets implanted in the uterine wall. 
 The embryonic stage that gets implanted in the uterine wall is called the **blastocyst**. The blastocyst is an early stage of embryonic development characterized by a hollow ball of cells with an inner cell mass (embryoblast) that will develop into the embryo itself, and an outer layer of cells called the trophoblast, which plays a role in implantation and later forms part of the placenta.
@@ -354,23 +306,7 @@ The corpus luteum is a temporary endocrine structure that forms in the ovary aft
 - **Function**: The corpus luteum primarily produces progesterone, which is crucial for preparing and maintaining the uterine lining (endometrium) for implantation of a fertilized egg.
 
 ## 49. Mention the importance of LH-surge. 
-The LH (luteinizing hormone) surge is crucial for several reproductive processes, particularly in females:
-
-1. **Ovulation**: In females, the LH surge triggers ovulation, which is the release of a mature egg (ovum) from the ovarian follicle into the fallopian tube. This surge is essential for the timing and release of the egg, allowing for the potential fertilization by sperm.
-
-2. **Corpus Luteum Formation**: The LH surge also stimulates the ruptured ovarian follicle to develop into the corpus luteum. The corpus luteum then produces progesterone, which prepares the uterine lining (endometrium) for implantation of a fertilized egg and helps maintain early pregnancy if fertilization occurs.
-
-3. **Regulation of Hormonal Cycles**: LH, along with other hormones like FSH (follicle-stimulating hormone), plays a critical role in regulating the menstrual cycle and maintaining reproductive health in females.
-
-Overall, the LH surge is essential for ovulation, corpus luteum formation, and the preparation of the uterus for potential pregnancy, highlighting its importance in the reproductive cycle.
+The LH (luteinizing hormone) surge is crucial in females for triggering ovulation, forming the corpus luteum, and producing progesterone to prepare the uterus for potential pregnancy. It also plays a vital role in regulating the menstrual cycle and maintaining reproductive health.
 
 ## 50. Why are the human testis located outside the abdominal cavity? Mention the pouch in which they are present.
-The human testes are located outside the abdominal cavity in a structure called the **scrotum**. There are several reasons why the testes are positioned outside the abdominal cavity:
-
-1. **Temperature Regulation**: Spermatogenesis (the production of sperm) requires a lower temperature than the core body temperature. The scrotum allows the testes to be situated outside the body, where they can maintain a temperature slightly lower than the rest of the body. This cooler environment is essential for optimal sperm production and viability.
-
-2. **Protection**: While outside the body, the testes are still protected within the scrotum, which provides a layer of muscle and skin that helps shield them from external trauma.
-
-3. **Sperm Maturation**: The cooler environment provided by the scrotum supports the maturation of sperm cells, facilitating their development into mature sperm capable of fertilization.
-
-In summary, the scrotum serves as a protective and temperature-regulating structure that optimizes conditions for spermatogenesis, ensuring the production of viable sperm for reproduction.
+The human testes are located in the scrotum outside the abdominal cavity to maintain a cooler temperature essential for spermatogenesis, protect the testes, and support sperm maturation, ensuring the production of viable sperm for reproduction.

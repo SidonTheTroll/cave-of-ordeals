@@ -26,7 +26,7 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
     - [ ] Chemistry 
     - [ ] Physical Education
 - [ ] Complete SVHW
-    - [ ] Biology
+    - [x] Biology
     - [ ] Chemistry 
     - [ ] Physics 
     - [ ] IP 
