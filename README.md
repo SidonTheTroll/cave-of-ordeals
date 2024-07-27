@@ -29,7 +29,7 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
     - [x] Biology
     - [ ] Chemistry 
     - [ ] Physics 
-    - [ ] IP 
+    - [x] IP 
     - [ ] Physical Education
 
 ![Alt](https://repobeats.axiom.co/api/embed/1b422b156464b5933d1d95ef0a73581cef09d113.svg "Repobeats analytics image")
