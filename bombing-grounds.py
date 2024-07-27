@@ -1,8 +1,8 @@
-import matplotlib.pyplot as pp 
+import matplotlib.pyplot as plt
 
-w = [1,2,3,4]
-p = [25,35,20,30]
+# Data
+x = [10, 20, 30, 40, 50]
 
-pp.plot(w,p,'r',ls=':')
+plt.hist(x)
 
-pp.show()
+plt.show()
