@@ -1,0 +1,1 @@
+# This section will be filled later as readings must be taken from outside 3rd party sources due to faulty machines. 
