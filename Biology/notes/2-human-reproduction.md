@@ -182,3 +182,178 @@ Also, body homeostasis disruptions.
 
 Behavior also changes. 
 
+# Pregnancy and Embryonic Development 
+## Placenta Formation and Function
+### Chorionic Villi and Placenta Development
+
+<img align=right width=400 src="../diagram/ch2/foetus-in-uterus.png">
+
+- **Chorionic Villi:**
+  - After implantation, finger-like projections called **chorionic villi** appear on the trophoblast.
+  - These villi are surrounded by uterine tissue and maternal blood.
+  - Chorionic villi and uterine tissue interdigitate, forming the **placenta**.
+
+### Functions of the Placenta
+- **Supply and Removal:**
+  - Facilitates the supply of oxygen and nutrients to the embryo.
+  - Removes carbon dioxide and excretory/waste materials produced by the embryo.
+- **Connection:**
+  - Connected to the embryo through the **umbilical cord**, aiding in the transport of substances.
+- **Endocrine Functions:**
+  - Acts as an endocrine tissue, producing several hormones:
+    - **Human Chorionic Gonadotropin (hCG)**
+    - **Human Placental Lactogen (hPL)**
+    - **Estrogens**
+    - **Progestogens**
+  - Later in pregnancy, the **ovary** secretes the hormone **relaxin**.
+  - **hCG, hPL, and relaxin** are produced only during pregnancy.
+
+### Hormonal Changes During Pregnancy
+- Increased levels of:
+  - **Estrogens**
+  - **Progestogens**
+  - **Cortisol**
+  - **Prolactin**
+  - **Thyroxine**
+- These increased hormone levels support:
+  - Fetal growth
+  - Metabolic changes in the mother
+  - Maintenance of pregnancy
+
+## Embryonic Development
+### Differentiation of the Inner Cell Mass
+- After implantation:
+  - The inner cell mass (embryo) differentiates into:
+    - **Ectoderm** (outer layer)
+    - **Endoderm** (inner layer)
+  - A **mesoderm** appears between the ectoderm and the endoderm.
+  - These three layers give rise to all adult tissues and organs.
+
+### Stem Cells
+- The inner cell mass contains **stem cells**:
+  - These cells have the potency to give rise to all tissues and organs.
+
+> [!IMPORTANT]
+> ## Different Stages during Embryonic Development
+> 1. 4 weeks = development of heart 
+> 2. 8 weeks = limbs and digits 
+> 3. 12 weeks = major organ system (limbs and external genital organs)
+> 4. 20 weeks = movements of foetus and development of hair on head 
+
+## Gestation Period of Different Animals 
+
+| <center> Animal | <center> Time | 
+|:-:|:-:|
+Elephant | 22 months 
+Blue Whales | 12 months 
+Horses | 11 months 
+Cows | 9 months 
+Deer | 6.5 months 
+Lions | 3.5 months 
+Dogs | 2 months 
+Cats | 2 months 
+Rats and Mice | 3 weeks 
+Chicken | 21 days 
+Ducks | 28 days 
+Turtles | 60-120 days 
+Snakes | 2-3 months 
+Frogs | 6-21 days 
+
+
+# Parturition and Lactation
+## Parturition (Childbirth)
+- **Duration**: Human pregnancy lasts about 9 months (gestation period).
+- **Process of Childbirth**:
+  - Induced by a complex neuroendocrine mechanism.
+  - Signals originate from the fully developed foetus and the placenta.
+  - These signals induce mild uterine contractions known as the foetal ejection reflex.
+  - This reflex triggers the release of oxytocin from the maternal pituitary gland.
+  - **Oxytocin**:
+    - Acts on the uterine muscle, causing stronger contractions.
+    - Stronger contractions stimulate further secretion of oxytocin.
+    - This creates a positive feedback loop, leading to increasingly stronger contractions.
+  - Result: Expulsion of the baby through the birth canal (parturition).
+  - Post-delivery: The placenta is expelled from the uterus.
+
+- **Medical Induction**: 
+  - **Oxytocin** is commonly injected by doctors to induce or augment labor.
+
+## Lactation
+- **Mammary Glands**: Undergo differentiation during pregnancy.
+- **Milk Production**:
+  - Begins towards the end of pregnancy.
+  - The initial milk is called **colostrum** which contains antibodies that help the fetus to develop immunity.
+  - **Colostrum**:
+    - Contains several antibodies.
+    - Essential for developing resistance in newborn babies.
+- **Breastfeeding**:
+  - Recommended during the initial period of infant growth.
+  - Important for nurturing a healthy baby.
+
+# Summary 
+## Human Reproductive System
+### General Characteristics
+- **Reproduction**: Humans are sexually reproducing and viviparous.
+
+### Male Reproductive System
+- **Components**:
+  - Pair of testes
+  - Male sex accessory ducts
+  - Accessory glands
+  - External genitalia
+- **Testes**:
+  - Contains about 250 compartments called testicular lobules.
+  - Each lobule contains 1-3 highly coiled seminiferous tubules.
+  - **Seminiferous Tubules**:
+    - Lined by spermatogonia and Sertoli cells.
+    - **Spermatogonia**: Undergo meiotic divisions to form sperm.
+    - **Sertoli Cells**: Provide nutrition to the dividing germ cells.
+  - **Leydig Cells**: Located outside the seminiferous tubules, secrete testicular hormones called androgens.
+- **External Genitalia**: Penis
+
+### Female Reproductive System
+- **Components**:
+  - Pair of ovaries
+  - Pair of oviducts
+  - Uterus
+  - Vagina
+  - External genitalia
+  - Pair of mammary glands
+- **Ovaries**:
+  - Produce female gamete (ovum) and steroid hormones (ovarian hormones).
+  - Ovarian follicles at different development stages are embedded in the stroma.
+- **Female Accessory Ducts**:
+  - Oviducts, uterus, and vagina.
+  - **Uterus**: Three layers - perimetrium, myometrium, endometrium.
+- **External Genitalia**:
+  - Mons pubis, labia majora, labia minora, hymen, and clitoris.
+- **Mammary Glands**: Secondary sexual characteristics.
+
+### Spermatogenesis
+- Formation of sperms transported by male sex accessory ducts.
+- **Sperm Structure**: Head, neck, middle piece, and tail.
+
+### Oogenesis
+- Formation of mature female gametes.
+- **Menstrual Cycle**:
+  - Reproductive cycle of female primates.
+  - Begins after attaining sexual maturity (puberty).
+  - One ovum released per cycle during ovulation.
+  - Cyclical changes in ovary and uterus induced by pituitary and ovarian hormones.
+
+### Fertilization and Pregnancy
+- **Post-Coitus**:
+  - Sperms transported to ampulla, fertilize the ovum, forming a diploid zygote.
+  - Sperm's X or Y chromosome determines embryo's sex.
+- **Zygote Development**:
+  - Undergoes mitotic division to form a blastocyst.
+  - Blastocyst implantation in the uterus results in pregnancy.
+- **Parturition (Childbirth)**:
+  - Induced by neuroendocrine mechanism involving cortisol, estrogens, and oxytocin.
+  - Occurs after nine months of pregnancy.
+
+### Lactation
+- **Mammary Glands**:
+  - Differentiate during pregnancy.
+  - Secrete milk post-childbirth.
+- **Feeding**: New-born is fed milk by the mother during initial months of growth. 
