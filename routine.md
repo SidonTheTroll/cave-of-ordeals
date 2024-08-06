@@ -7,5 +7,5 @@
 | **TUE**    | Bio | Phy | IP | Chem |   | PEdu | PEdu | Eng  | 
 | **WED**    | Bio | Phy | IP | Chem |   | PEdu | Eng | Games |
 | **THURS**  | Bio | Phy | IP | Chem |   | Eng  | PhyPrac | PhyPrac |
-| **FRI**    | Bio | Phy | IP | Chem |   | Eng  | ChemPrac |ChemPrac       |
-| **SAT**    | Bio | Phy | IP | Chem |   | Eng  |BioPrac|BioPrac       |
+| **FRI**    | Bio | Phy | IP | Chem |   | Eng  | ChemPrac | ChemPrac |
+| **SAT**    | Bio | Phy | IP | Chem |   | Eng  | BioPrac | BioPrac  |
