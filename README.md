@@ -28,9 +28,9 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 - [ ] Complete SVHW
     - [x] Biology
     - [ ] Chemistry 
-    - [ ] Physics 
     - [x] IP 
-    - [ ] Physical Education
+    - [x] Physical Education
+    - [ ] English
 - [ ] Complete writing the documentation of chem practical
 
 ![Alt](https://repobeats.axiom.co/api/embed/1b422b156464b5933d1d95ef0a73581cef09d113.svg "Repobeats analytics image")
