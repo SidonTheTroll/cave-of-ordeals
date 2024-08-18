@@ -1,10 +1,22 @@
-# Topics 
+> [!IMPORTANT]
+> After 6th point, include Lenz's law topic 
+> 1. 
 
-1. **Introduction to Magnetism**:
-   - Definition of magnetism.
-   - Types of magnets: permanent and temporary.
-   - Magnetic fields and magnetic domains.
 
+1. Cover 
+2. Certificate 
+3. Acknowledgment 
+4. Abstract 
+5. Content (Index)
+6. Introduction 
+7. Aim of the experiments
+
+--- 
+
+1. **Introduction to Magnetism** 
+    1. Definition of magnetism 
+    2. Types of magnets: permanent and temporary.
+    3. Magnetic fields and magnetic domains.
 2. **Magnetic Induction Basics**:
    - Definition of magnetic induction.
    - How magnetic induction occurs.
@@ -31,23 +43,25 @@
    - How changing magnetic fields induce electric currents.
    - Basic principles of transformers and generators.
 
-7. **Applications of Magnetic Induction**:
+> [!CAUTION]
+> Include Lenz's law from here. 
+
+1. **Applications of Magnetic Induction**:
    - Everyday applications: electric motors, transformers, magnetic storage.
    - Industrial applications: induction heating, maglev trains.
    - Medical applications: MRI machines.
 
-8. **Historical Context and Key Figures**:
+2. **Historical Context and Key Figures**:
    - Michael Faraday and his contributions.
    - Joseph Henry and his work on electromagnetic induction.
    - Timeline of key discoveries and developments.
 
-9. **Safety Considerations**:
+3. **Safety Considerations**:
    - Safe handling of magnets.
    - Precautions when working with electricity and electromagnets.
 
-10. **Conclusion and Future Directions**:
+4. **Conclusion and Future Directions**:
     - Summary of findings from experiments.
     - Potential future advancements in the field of magnetic induction.
     - Questions for further research and exploration.
 
-Including these topics will provide a comprehensive understanding of magnetic induction and its significance, making the project informative and engaging.
