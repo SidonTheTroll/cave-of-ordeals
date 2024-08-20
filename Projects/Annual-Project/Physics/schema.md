@@ -11,8 +11,7 @@
    - Difference between temporary and permanent magnetization.
 
 3. **Materials and Magnetism**:
-   - Types of materials: ferromagnetic, paramagnetic, and diamagnetic.
-   - Examples of ferromagnetic materials.
+   - Types of materials: ferromagnetic, paramagnetic, and diamagnetic. (include example)
    - How different materials respond to magnetic fields.
 
 4. **Experimental Demonstrations**:
