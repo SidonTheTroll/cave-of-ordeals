@@ -57,3 +57,26 @@ The pattern of interconnection of nodes in a network is called topology. Many to
 4. **Tree**: The shape of this network is that of an inverted tree with the central root branching and sub-branching to the extremes of the network. Transmission in this topology takes place in same way as in the bus topology. 
 5. **Mesh**: In this topology each node is connected to more than one node to provide an alternative route in the case the host is either down or too busy. It is an extension to P-P network. 
 6. **Fully-Connected**: When in a network, each host is connected to other directly. If there is a direct link between each host, then the network is said to be fully connected. 
+
+### 4. Discuss the factors that govern the selection of a topology of a network. 
+There are a number of factors to consider while deciding to select a proper topology. The most important of which are set out below: 
+- **Cost**: For a network to be cost effective, one would try to minimize installation cost. 
+- **Flexibility**: Because the arrangement of furniture, internal walls, etc. in offices is often subject to change, the topology should allow for easy reconfiguration of network. 
+- **Reliability**: Failure in a network can take two forms. Firstly, an individual node can malfunction. This is not nearly as serious as the second type of fault where the network itself fails to operate. 
+
+### 5. Which of the following is not a network topology: Star, mesh, tree, bug, bus. 
+Bug 
+
+### 6. Compare and contrast 
+1. Star and bus topology. 
+
+| Star Topology | Bus Topology | 
+|:-:|:-:|
+| This topology consists of a central node to which all other nodes are connected by a single path. | This topology consists of single length of the transmission medium onto which the various nodes are attached. 
+| The addition of a new node to a star network involves a connection all the way to the central node which is expensive. | Addition nodes can be connected at any point along in its length. | 
+
+2. Star and tree 
+
+| Star Topology | Tree Topology | 
+|:-:|:-:|
+| This topology consists of a central node to which all other nodes are connected by a single path. | Transmission in this topology takes place in the same way as in the bus topology. | 
