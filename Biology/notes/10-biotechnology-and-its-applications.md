@@ -60,3 +60,7 @@ Then the cells are used for making new plants as each cell has totipotency.
 4. Take the cultured cells and transfer to a sterile growth media (test tube) with suitable temperature, pH level, nutrients and hormones.
 5. Plug with cotton for exchange of gases without introducing unwanted agents.
 6. After the sapling grows, transfer to sterile soil under shade to let the plant grow. 
+
+> [!NOTE]
+> Other success of BT plant include BT-rice, BT-corn.  
+> Note that the BT's CRY gene is expressed in the leaves which make them toxic. So the same method cannot be applied for every plant as we consume the leaves too. 
