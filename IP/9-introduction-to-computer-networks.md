@@ -80,3 +80,4 @@ Bug
 | Star Topology | Tree Topology | 
 |:-:|:-:|
 | This topology consists of a central node to which all other nodes are connected by a single path. | Transmission in this topology takes place in the same way as in the bus topology. | 
+| Star topology is one of the easiest topology design. | Tree topology is more difficult to configure and wire than other topology. | 
