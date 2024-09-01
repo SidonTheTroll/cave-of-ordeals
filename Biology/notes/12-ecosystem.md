@@ -64,3 +64,8 @@ Be it terrestrial or aquatic, the Law applies to all of them, also evident by ho
 > 7. **No Insight Into Species Interactions**: While ecological pyramids show the number, biomass, or energy at each level, they do not provide information on the interactions between species, such as competition, predation, or symbiosis.
 > 
 > 8. **Assumes Simple Linear Flow**: Ecological pyramids are based on the assumption of a linear flow of energy and nutrients, which does not account for the recycling of nutrients and energy that occurs in ecosystems.
+
+> [!CAUTION]
+> **Q/ Pyramid of energy is always upright. Explain with reason.**
+>
+> The pyramid of energy is always upright because it represents the flow of energy through different trophic levels in an ecosystem. At each successive level, energy is lost primarily as heat due to metabolic processes, making the energy available to the next level lower than the one before. This continual loss of energy ensureGs that the base (producers) has the most energy, and it decreases as you move up to consumers, making the pyramid shape always upright.
