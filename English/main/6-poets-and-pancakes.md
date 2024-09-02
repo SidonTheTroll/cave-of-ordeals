@@ -1,12 +1,12 @@
-# Poets and Pancakes 
+ Poets and Pancakes 
 ### 1. What does the writer mean by 'the fiery misery' of those subjected to make-up? 
 The heat from the lights in the make-up room caused a lot of discomfort for the actors, leading the writer to describe it as "fiery misery."
 
 ### 2. What is the example of national integration that the author refers to? 
 The make-up division at Gemini Studios exemplified national integration, as people from diverse regions and religions worked together. It was led by a Bengali, who was later succeeded by a Maharashtrian.
 
-### 3. What work did the 'office boy do in the Gemini studios? Why? 
-The Gemini Studios' make-up "office guy" handled crowd makeup, mixing paints and applying them thickly on extras to seal their pores for filming.
+### 3. What work did the office boy do in the Gemini studios? Why did he join the studios? Why was he disappointed?
+The office assistant applies makeup to the extras who portray the crowd. On crowd shooting days, he mixes his paint in a large container and applies it swiftly and noisily to the faces of the extras. He had joined the studio with dreams of becoming a leading actor, screenwriter, director, or lyricist. However, he was disheartened when he failed and remained just an 'assistant'.
 
 ### 4. Why did the author appear to be doing nothing at the studios? 
 The author’s job was to cut out and file newspaper clippings on various subjects, often handwritten. Onlookers saw him just tearing up newspapers, making it seem like he was doing almost nothing.
@@ -43,7 +43,7 @@ Madras and Tamil drama often featured 'sunset and sunrise in the style of Jotham
 Mr. S.S. Vasan was The Boss of Gemini Studios.
 
 ### 14. What caused the lack of communication between the Englishman and the people at Gemini Studios? 
-Stephen Spender's English accent caused communication issues with the Gemini Studios staff, who also had little understanding of what he was saying.
+Stephen Spender's English accent caused communication issues with the Gemini Studio's staff, who also had little understanding of what he was saying.
 
 ### 15. Why is the Englishman's visit referred to as unexplained mystery? 
 The Englishman's visit to Gemini Studios remains a mystery because no one could determine if he was a poet or an editor. Additionally, his accent was so unclear that no one could understand him.
