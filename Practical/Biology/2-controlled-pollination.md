@@ -36,3 +36,6 @@ To study controlled pollination, emasculation, tagging and bagging through model
 2. During bagging process, the polythene bags must be made aerated.
 3. An individual has to make sure that during the covering the emasculated flower, it must not get pollinated with undesired pollens. 
 4. A care has to be taken that anthers (pollens) should be dusted only on selected female parent flowers where emasculation was done and not on anywhere else. 
+
+# Conclusion
+This experiment demonstrates the essential techniques for controlled pollination, emphasizing the importance of emasculation, bagging, and tagging in preventing unwanted pollination and ensuring accurate breeding outcomes.
