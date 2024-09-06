@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Github's markdown preview is trash. Use **vscode.markdown-language-features**, bundled with [VSCode](https://code.visualstudio.com/) or **[VSCodium](https://vscodium.com/)** to see code in desired rendering. 
+
 <h1 align=center>Cave of Ordeals</h1>
 
 <div align='center'>
