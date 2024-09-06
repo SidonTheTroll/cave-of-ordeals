@@ -1,6 +1,5 @@
 ## Aim of the Experiment 
-To study the pollen germination in the stigma of a flower. ## Aim of the Experiment
-To study pollen germination on the stigma of a flower.
+To study the pollen germination in the stigma of a flower. 
 
 ## Materials Required
 - Fresh flower with a mature stigma
