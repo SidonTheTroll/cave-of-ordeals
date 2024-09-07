@@ -339,3 +339,110 @@
   - Irregular menstrual bleeding
   - Breast cancer (though not very significant)
 
+# Medical Termination of Pregnancy 
+- E.g., if mother is suffering from cancer, the treatments can harm the child. So she has the option of abortion. 
+
+Abortion is safe until the first trimester. 
+
+Amniocentesis can help to detect birth defects but misused to conduct foetus gender detection. 
+
+# STI 
+- STI spread because sex organs have delicate skin which is easily permeable by body fluid containing infection. 
+
+## List of STD
+- 1. **Chlamydia**
+   - **Symptoms:**
+     - Often asymptomatic, but can include:
+     - Painful urination
+     - Abnormal genital discharge
+     - Pain during intercourse (women)
+     - Testicular pain (men)
+   - **Treatment:** 
+     - Antibiotics (e.g., Azithromycin or Doxycycline)
+
+- 2. **Gonorrhea**
+   - **Symptoms:**
+     - Painful urination
+     - Pus-like discharge from the penis or vagina
+     - Pelvic or testicular pain
+     - Sore throat (if oral gonorrhea)
+   - **Treatment:** 
+     - Dual antibiotic therapy (e.g., Ceftriaxone with Azithromycin)
+
+- 3. **Syphilis**
+   - **Symptoms:**
+     - **Primary stage**: Painless sores (chancres) at the infection site
+     - **Secondary stage**: Skin rashes, mucous membrane lesions, swollen lymph nodes
+     - **Tertiary stage**: Can affect heart, brain, and other organs
+   - **Treatment:** 
+     - Penicillin injections (Benzathine Penicillin G)
+
+- 4. **Genital Herpes (HSV)**
+   - **Symptoms:**
+     - Painful blisters or sores on the genital area or mouth
+     - Itching or burning sensation before the sores appear
+   - **Treatment:** 
+     - Antiviral medications (e.g., Acyclovir, Valacyclovir) to manage outbreaks
+
+- 5. **Human Papillomavirus (HPV)**
+   - **Symptoms:**
+     - Often asymptomatic
+     - Genital warts
+     - In some cases, can lead to cervical cancer (in women) or other cancers
+   - **Treatment:** 
+     - No cure, but warts can be removed (e.g., cryotherapy, topical treatments)
+     - HPV vaccines can prevent infection
+
+- 6. **HIV/AIDS**
+   - **Symptoms:**
+     - Flu-like symptoms in the early stage
+     - Chronic weight loss, fever, fatigue, and infections in later stages
+   - **Treatment:** 
+     - Antiretroviral therapy (ART) to control the virus and prevent progression
+
+- 7. **Trichomoniasis**
+   - **Symptoms:**
+     - Genital itching or irritation
+     - Painful urination
+     - Discharge from the vagina or penis
+   - **Treatment:** 
+     - Antibiotics (e.g., Metronidazole or Tinidazole)
+
+- 8. **Hepatitis B**
+   - **Symptoms:**
+     - Fatigue, jaundice (yellowing of the skin/eyes)
+     - Dark urine, abdominal pain
+     - Nausea and vomiting
+   - **Treatment:** 
+     - Acute infection: Supportive care (rest, fluids)
+     - Chronic infection: Antiviral medications (e.g., Tenofovir, Entecavir)
+
+- 9. **Mycoplasma genitalium**
+   - **Symptoms:**
+     - Often asymptomatic
+     - Painful urination, genital discharge
+     - Pelvic pain (in women)
+   - **Treatment:** 
+     - Antibiotics (e.g., Azithromycin, Moxifloxacin)
+
+- 10. **Pubic Lice (Crabs)**
+   - **Symptoms:**
+     - Intense itching in the genital area
+     - Visible lice or nits (eggs) in pubic hair
+   - **Treatment:** 
+     - Topical insecticidal lotions or shampoos (e.g., Permethrin)
+
+> [!NOTE]
+> - Intraveinous blood contact is a common vector of HIV. 
+> - 15-24 age group is most vulnerable to STD. 
+
+# Infertility 
+- **Definition**: inability to conceive or produce children even after 2 years of unprotected sexual cohabitation is called infertility. 
+- Major problem among the youth. 
+- **IVF**: fertilization outside the body. 
+
+> [!NOTE]
+> IVF is expensive and malpracticed to earn money.
+
+- **Oligosperma**: condition when sperm count is reduced. 
+- **ART**: Assisted Reproductive Technologies 
