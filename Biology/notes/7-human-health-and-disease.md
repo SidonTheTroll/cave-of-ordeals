@@ -143,3 +143,41 @@ The ability of the body to defend itself from most foreign agents, especially fr
 - It has 2 types 
     - **Innate immunity**: The immunity that is present since birth.  
     - **Acquired immunity**: It is the immunity that is acquired after the body is introduced with the pathogen and it develops antibodies against it to prevent it next time. 
+
+## Innate Immunity 
+It is the immunity that is present in the time of birth by providing different types of barriers to the entry of foreign agents into our body. 
+
+- It consists of 4 barriers: 
+    1. **Physical barriers**: the barrier that is provided by the skin and mucus coating on epithelium lining of respiratory, gastrointestinal and urogenital tracts prevent microbes from entering. 
+    2. **Physiological barriers**: These include stomach acid, saliva in mouth and tears from eyes that prevent microbial growth. 
+    3. **Cellular barriers**: certain leukocyte (WBC) like polymorpho-nuclear leukocyte (PMNL-neutrophils), monocytes and natural killer in the blood and macrophages in tissues can phagocytose and destroy the microbes. 
+    4. **Cytokine barriers**: virus-infected cells secrete proteins called interferons which protect non-infected cells from further viral infection. 
+
+## Acquired Immunity 
+- 2 response of acquired immunity
+    - CMI 
+    - HIR 
+
+T-Lymphocyte tells B-Lymphocytes produce antibodies. 
+
+- **Immunoglobulin** 
+    - **IgA**: Found in mucosal areas (e.g., gut, respiratory tract) and body fluids like saliva, tears and **mother's milk**. It protects against infections by preventing pathogen attachment to cells. 
+    - **IgG**: Provides long-term immunity by neutralizing pathogens and toxins. It's the most abundant and can cross the placenta to protect the fetus.
+    - **IgE**: Involved in allergic reactions and protects against parasitic infections. It triggers histamine release from mast cells and basophils.
+    - **IgM**: The first antibody produced in response to an infection. It helps activate the complement system and is mainly involved in early-stage immune responses. 
+
+### Structure of Antibody 
+> [!IMPORTANT]
+> Antibodies are antigen specific. 
+
+- $H_2L_2$ antibody 
+    - Consists of 2 heavy and 2 light chains. 
+
+- Types of T-cell 
+    - **T-Helper (CD4+ T-cells)**: Coordinate the immune response by activating other immune cells like B-cells, cytotoxic T-cells, and macrophages. They also secrete cytokines to regulate immune reactions.
+    - **T-Cytotoxic (CD8+ T-cells)**: Destroy infected or cancerous cells by recognizing and inducing apoptosis (cell death) in cells presenting foreign antigens.
+    - **T-Suppressor (Tregs/Regulatory T-Cells)**: Maintain immune system balance by suppressing excessive immune responses, preventing autoimmune diseases and excessive inflammation.
+    - **T-Memory**: Provide long-term immunity by remembering past infections, allowing for a faster and more effective response if the pathogen reappears.
+
+> [!NOTE]
+> During HIV, the virus attacks the T-helper cells and antibodies aren't produced which leads to drop in immunity from even the simplest microbes. 
