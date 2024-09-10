@@ -8,7 +8,9 @@
     3. **Scatter plot**: `scatter()`
     4. **Pie chart**: `pie()`
     5. **Histogram**: `hist()`
-    6. **Boxplot chart**: `boxplot()`
+        - **Orientation**: `orientation= "<value>0"`, horizontal/vertical. Default=vertical
+        - **Histtype**: `histtype="step"`, renders only outlines for the graph.
+    1. **Boxplot chart**: `boxplot()`
 
 ```py 
 import matplotlib.pyplot as pp 
@@ -46,7 +48,7 @@ pp.show()
 | `-` | Solid | 
 
 ## Changing Marker Style 
-`matplotlib.pytplot.plot(<data1>,<data2>,<colorcode>,marker='<markercode>',markersize=<num_value>,markeredgecolor='<colorcode>')`
+`matplotlib.pyplot.plot(<data1>,<data2>,<colorcode>,marker='<markercode>',markersize=<num_value>,markeredgecolor='<colorcode>')`
 
 | <center> **Marker** | <center> **Description** | 
 |-|-|
