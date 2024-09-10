@@ -72,5 +72,5 @@ pp.show()
 | `^` | Triangle-up marker | 
 | `<` | Triangle-left marker | 
 | `>` | Triangle-right marker | 
-| `\|` | Vertile-line marker | 
+| `\|` | Vertical-line marker | 
 | `-` | Horizontal-line marker | 
