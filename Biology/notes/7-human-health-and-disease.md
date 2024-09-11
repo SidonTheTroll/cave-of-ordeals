@@ -181,3 +181,30 @@ T-Lymphocyte tells B-Lymphocytes produce antibodies.
 
 > [!NOTE]
 > During HIV, the virus attacks the T-helper cells and antibodies aren't produced which leads to drop in immunity from even the simplest microbes. 
+
+# Allergy 
+- Allergy is the exaggerated response of immune response 
+- Mast cell produces histamine and serotonin which regulates foreign agents.
+    - During allergy, these are excreted in excess and anti-histamine pills are taken to suppress the effects. 
+- Antigen IgE is released during allergy.
+
+# Auto Immune Disorder
+- Sometimes the property of distinguishing cells is lost and the body destroys its own cells. 
+- Eg., rheumatoid arthritis 
+
+# Replication of Retrovirus 
+<img align=right src="../diagram/ch7/virus-replication.png" width=500>
+
+- Retrovirus is the type of virus that contains only RNA. 
+
+HIV attacks **macrophages** and makes them its replication sites and attacks T-helper cells and B-lymphocyte can't produce antibodies and opportunistic microbes such as mycobacterium and toxoplasma infect the body. 
+
+- When incorporating with the host DNA, it may sleep for a long time. 
+- ELISA test is used to find the presence of viruses. 
+- PCR test more accurate but takes time. 
+
+- Ways of transfer of HIV 
+    1. Unprotected sexual contact 
+    2. Infected needles 
+    3. Infected blood transfusion 
+    4. From mother's body to fetus
