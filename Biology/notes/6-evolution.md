@@ -62,8 +62,67 @@ First life originated via chemical evolution from inanimate matter and by the pr
    - This process leads to the emergence of new forms and species over time.
 
 # Mechanism of Evolution 
-> [!IMPORTANT]
-> **To be filled later**
+1. **Mendel's Inheritable 'Factors'**:
+   - Mendel talked about inheritable factors (now known as genes) that influence phenotype.
+   - Darwin did not address or acknowledge these factors directly in his work.
+
+2. **Hugo de Vries and Mutation Theory**:
+   - Early 20th century: Hugo de Vries proposed the idea of **mutations** based on his work with the evening primrose.
+   - He suggested that **mutations**, large and sudden changes in a population, drive evolution.
+   - He contrasted this with Darwin's idea of small, gradual variations.
+
+3. **Mutations vs Darwinian Variations**:
+   - **Mutations**: Random and directionless; large differences appear suddenly.
+   - **Darwinian Variations**: Small, heritable, and directional changes that accumulate gradually.
+
+4. **Speciation Theories**:
+   - Darwin believed evolution was **gradual**, with speciation occurring through small variations over time.
+   - De Vries believed in **saltation**, where speciation occurs due to a **single large mutation** (sudden).
+
+5. **Population Genetics**:
+   - Later studies in population genetics clarified the processes of evolution and speciation, incorporating both gradualism and mutation-driven changes.
+
+# Hardy-Weinberg Principle 
+<img align=right src="../diagram/ch6/natural-selection-graph.webp">
+
+This principle states that **allele frequencies in a population are stable** and is **constant from generation to generation** and the **gene pool remains constant**. **This is called genetic equilibrium** and the **sum of total of all the allelic frequencies is 1**.
+
+During normal conditions, the variation in the population can be represented by the green line. Due to environmental requirements, it may shift either towards the right or left end. And in certain cases, if the environment demands the extremes, there will be two peaks in the graph.
+
+## Binomial Expression of Hardy-Weinberg Principle
+The **Hardy-Weinberg Principle** is a fundamental concept in population genetics that describes the genetic variation in a population under ideal conditions. It states that allele and genotype frequencies will remain constant from generation to generation in the absence of evolutionary influences (e.g., mutation, selection, gene flow, genetic drift, and non-random mating).
+
+For a gene with two alleles, $A$ (dominant) and $a$ (recessive), the Hardy-Weinberg principle is expressed as:
+
+$(p + q)^2 = p^2 + q^2 + 2pq = 1$
+
+Where:
+- $p$ = frequency of allele $A$
+- $(q)$ = frequency of allele $a$
+- $(p^2)$ = frequency of homozygous dominant $(AA)$
+- $(q^2)$ = frequency of homozygous recessive $(aa)$
+- $(2pq)$ = frequency of heterozygous $(Aa)$
+
+Even though the homozygous and heterozygous have different frequencies, the overall alleles remain the same and is present in 100% of the population; so the result it 1. 
+
+## Factors that affect Hardy-Weinberg Equilibrium 
+1. **Gene flow/migration**: Movement of allele between population/place, introducing genetic diversity. 
+2. **Genetic drift**: Random changes in allele frequencies, especially in small population, leading to a variation loss. 
+3. **Mutation**: Permanent change in DNA sequence, creating new alleles and genetic diversity. 
+4. **Genetic recombination**: The reshuffling of genetic material during sexual reproduction, increasing variation in offspring.
+5. **Natural selection**: Process where advantageous traits increase in frequency because they improve survival or reproduction.
+
+> [!NOTE]
+> When a population migrates into a new region and reproduces with the natives, it leads to new combination and eventually become different species. In this, the migrators become the founder and its called the **Founder Effect**. 
+
+## Short Topics 
+- Microbial research show that pre-existing advantageous mutations when selected will result in new phenotypes. Over time, this leads to **speciation**. 
+- **Speciation**: an evolutionary process by which a population evolves into a new species. 
+- Critical thinking shows that variation due to mutation or due to recombination during gametogenesis, or due to **gene flow** or **genetic drift** results in **changed frequencies of genes and alleles in future generation**.
+- Natural selection leads to stabilization, directional change or disruption. 
+   - **Stabilization**: more individuals acquire mean character value. 
+   - **Directional change**: more individuals acquire value other than mean character value.
+   - **Disruption**: natural selection prefers both extremes of a trait distribution, rather than favoring intermediate or average traits. 
 
 # Species struggles 
 - **Interspecific struggle**: competition among individuals of the same species. 

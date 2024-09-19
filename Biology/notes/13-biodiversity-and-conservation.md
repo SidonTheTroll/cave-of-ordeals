@@ -17,3 +17,17 @@
 > [!NOTE]
 > **Q/ Why is biodiversity required in an ecosystem?**
 > > Communities with more species tend to be more stable than that with less species that was confirmed by Davis Tilman. 
+
+- Characteristics of a stable community: 
+    1. Productivity should not vary too much year to year. 
+    2. In should be resistant to occasional natural and man-made disturbances. 
+    3. It should be resistant to invasion by foreign species.
+
+### Rivet Popper Hypothesis by Paul Ehrlich 
+1. Assumes the ecosystem to be an airplane and the species to the rivets joining all parts together. 
+2. If every passenger pops a rivet to take home (resulting species extinction), it may not effect the flight safety initially (proper ecosystem functioning).
+3. When with time as more rivets are removed the plane becomes dangerously weak and fatal to the life of other species. 
+
+### Loss of Biodiversity 
+- The colonization of tropical pacific island by humans has led to extinction of more than 2000 native bird species. 
+- IUCN RED List (2004) enlists the extinction of 784 species in the last 500 years. 
