@@ -1,6 +1,15 @@
-# Functions of Sports Events Management
+# Management of Sporting Events 
+- **Management**: involves responsibility for economical and effective planning and regulation of operation of an enterprise in the fulfillment of given purposes. 
 
-# Functions
+## Definitions of Management and Sports Management 
+- **MC Farland**: Management is the process by which managers create, direct, maintain and operate purposive organizations through systematic, coordinated and cooperative human effort.
+- **George Terry**: Management is a process as planning, organizing, actualizing and controlling to determine and accomplish the objectives of the use of people and resources. 
+
+# Functioning of Sports Events Management
+- **Luther Gullick**: Planning, Organizing, Staffing, Directing, Coordination, Reporting, Budgeting are the main functions of management. 
+- **George R. Terry**: There are four basic functions of management, i.e., Planning, Organizing, Staffing, Directing and Controlling. 
+
+Therefore, these definitions give us **5 responsibilities of Sports Event Management**
 
 1. **Planning**: Process of creating a comprehensive action plan to achieve organizational goals.
 2. **Organizing**: Process of bringing physical, financial, and human resources and good relationships for the achievement of organization goals.
@@ -92,6 +101,8 @@ These activities are performed by officials after the tournament.
 3. Committee on Entries and Programs
 4. Announcement Committee
 5. Finance Committee
+
+---
 
 # Procedure to Draw Fixtures: Knock-out and League
 - Knock-out
@@ -192,3 +203,124 @@ The number of boxes gives how wide the boxes should be made to set the numbers f
 
 - If even, `N+1` gives the number of boxes where 'N' is the number of terms. 
 - And `N+2` gives the number of boxes if number of teams is odd. 
+
+---
+
+# Intramural and Extramural: Meaning, Objectives and their Significance
+## Intramural 
+Derived from Latin word 'intra' and 'muralis' meaning 'within' and 'wall' respectively. It means to organize activities for **students of a school or institution only**. 
+
+- Motto: **"*A game for each and each for a game.*"**
+
+### Origin of Intramurals
+- The first intramural was organized in 1864 in USA for baseball. 
+- Till 1925, every school in USA established intramural department. 
+- India faced difficulties to organize intramurals as Indian parents make children devote maximum of their time to studies and are not concerned with physical or social development of the children. 
+    - Another reason is lack of good programmes of intramurals in schools. 
+
+### Significance of Intramurals 
+1. They are Significant for physical, mental, emotional and social development of the students. 
+2. These programmes lay stress on moral and ethical values of students. 
+3. They are necessary for the development of health of children. 
+4. They note down the fighting instinct of children. 
+5. They refresh the children and make them agile. 
+6. Provide maximum recreation to the students. 
+7. Provide ample opportunities to the students to participate in games and sports. 
+8. Essential for developing leadership qualities among the students. 
+
+### Objectives of Intramurals
+1. Provide opportunity to every students to participate in games and sports.
+2. Develop leadership qualities among students.
+3. Develop cooperation. 
+4. Provide recreation.
+5. Develop feeling of sportsmanship. 
+6. Provide an opportunity to learn a variety of games and skill. 
+7. To provide an opportunity to get an experience of organizing competitions. 
+8. Identify talented sportsperson. 
+9. To provide an opportunity to develop personality.
+
+### Activities for Intramural Competition 
+Due to varying classification, availability of games and interest, the games during intramurals should be classified into these categories: 
+
+1. Major games 
+2. Minor games 
+3. Rhythmics 
+4. Creative activities 
+5. Combative activities 
+
+## Extramural 
+Derived from Latin word 'Extra' and 'muralis' meaning 'outside' and 'wall' respectively. Meaning these games aren't limited to the students of a certain institution as a group of schools or institutions can participate in them or organize collectively. 
+
+### Significance of Extramurals 
+1. Provide opportunities to schools to show their sports capabilities.
+2. Enhance the standard of sport performance. 
+3. Provide appropriate knowledge of sports techniques.
+4. Plan and implement the programmes of physical education more effectively.
+5. Improve the opportunities to participate in sports. 
+
+### Objectives of Extramurals
+1. Improve the standard of sports. 
+2. Provide enriching experience to students.
+3. Develop sportsmanship and feeling of fraternity.
+4. Broaden the base of sports.
+5. Provide knowledge of new rules nad advanced techniques. 
+
+# Community Sports - Purpose and Benefits 
+- **Meaning**: organized physical activities that are based in community, school and local sports organizations. 
+- **Purpose**: build a stronger, healthier, happier and safer community. Also to build character, develop strategic thinking, leadership qualities, good setting, risk taking and shaping personality. 
+
+## Benefits of Community Sports 
+1. Help in improving physical health.
+2. Help in improving mental and emotional health. 
+3. Help in improving social health.
+4. Help in learning to overcome challenges and obstacles. 
+5. Play a vital role in reducing crime rates. 
+6. Help in building stronger communities.
+7. Provide social Benefits. 
+8. Help in making connections. 
+9. Help in developing a sense of belonging. 
+10. Help in economic condition. 
+
+## Community Sports Programmes 
+These programmes are held in cities, schools and colleges or nearby area in villages where maximum numbers of community participate frequently. 
+
+## Sports Day 
+For the holistic develop of the children, educational institutions have to allocate certain fixed dates for their curriculum to organization of intramural sports where every student is provided opportunities to take part in the activities. 
+
+## Procedure of Organizing Sports Day 
+1. **Fix a Specific Day**: Set a particular day for the event.
+2. **Select the Venue**: Choose a suitable location as early as possible.
+3. **Prepare a Proper Plan**: Develop a detailed plan for organizing the sports day.
+4. **Form the Main Administrative/Organizing Committee**: Establish a committee responsible for overseeing the event's organization.
+5. **Delegate Committees**: The main committee forms various sub-committees to ensure smooth execution. These include:
+   - **Decoration Committee**
+   - **Playground Committee**
+   - **Programme Committee**
+   - **Reception Committee**
+   - **Refreshment Committee**
+   - **First Aid Committee**
+   - **Prize Distribution Committee**
+6. **Systematic Coordination**: The main committee ensures that all sub-committees coordinate effectively to run the event smoothly.
+
+## Health Runs 
+These are organized by health department, sports department or social organizations. Usually with the purpose of improving health of people and collecting charity. For health runs, the only requirements are pair of shoes and light clothes. There is no age restriction but everyone has to note if their running experiences are safe. 
+
+- While participating in health runs, make sure of the following: 
+    1. Avoid tension and relax the arms, shoulders, neck and fingers and unclench the hands. 
+    2. Breathing should be controlled and rhythmic without being too shallow.
+    3. Not bending the body above hip level. 
+    4. Consume adequate amount of liquid before and after the run. 
+    5. Consult a doctor as precautionary measure for senior citizens or not exercising regularly. 
+
+## Run for Fun 
+This is a friendly race that involves either road running or cross country running where people take part for enjoyment. 
+
+Generally these are organized to raise funds for charity and runners may include novelty such a wearing costumes or defining age categories for children, teenagers and adults.
+
+## Run for Specific Cause 
+Main purpose is being to raise charity, these are related to a good or noble cause. 
+
+Most of the social NGO organize marathons for helping patients with cancer, mentally or physically challenged people and people suffering for arthritis, AIDS, leukemia, etc. 
+
+## Run for Unity
+These runs are organized to consolidate unity and peace among people of different religions. Its purpose can be national and international and brotherhood. In some countries, it is organized to celebrate independence day. These runs promote harmony, peace and solidarity among people and bring a sense of togetherness. 
