@@ -1,6 +1,6 @@
 # The Interview
 
-### 1. Why Lewis Carroll was said to have a horrors of the interviewers? 
+### 1. Why Lewis Carroll was said to have a horror of the interviewers? 
 Lewis Carroll considers interviews to be immoral and offensive. He had a horror of interviewers and refused to be interviewed knowing they would project him larger than life. 
 
 ### 2. Why Rudyard Kipling had refused to be interviewed? 

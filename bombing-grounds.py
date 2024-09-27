@@ -1,8 +1,8 @@
-import matplotlib.pyplot as plt
+import pandas as pd 
+# import numpy as np 
 
-# Data
-x = [10, 20, 30, 40, 50]
+a = [[7,6,6,8],[8,8,5,6],[7,6,6,9],[7,6,4,6]]
 
-plt.hist(x)
+df = pd.DataFrame(a, index=("Andhra",'Odisha','MP','UP'), columns=('Toys','Books','Uniform','Shoes'))
 
-plt.show()
+print(df.loc['Andhra':'MP',:])
