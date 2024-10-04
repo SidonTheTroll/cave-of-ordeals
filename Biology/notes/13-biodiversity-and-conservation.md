@@ -12,8 +12,6 @@
 > > Biodiversity plays a crucial role in the functioning of an ecosystem by enhancing its stability, productivity, and resilience. A diverse range of species ensures that ecosystems can provide essential services such as nutrient cycling, pollination, water purification, and climate regulation. Greater biodiversity also helps ecosystems adapt to environmental changes and disturbances, ensuring long-term sustainability and balance.
 
 # Biodiversity 
-
-
 > [!NOTE]
 > **Q/ Why is biodiversity required in an ecosystem?**
 > > Communities with more species tend to be more stable than that with less species that was confirmed by Davis Tilman. 
@@ -23,6 +21,17 @@
     2. In should be resistant to occasional natural and man-made disturbances. 
     3. It should be resistant to invasion by foreign species.
 
+## Species-area Relationships 
+<img align=right src="../diagram/ch13/species-area-graph.png" width=400>
+
+- This concept was given by German naturalist and geographer **Alexander von Humboldt** when he explored the South American jungles. 
+
+During his research, he observed that the richness of regional species increases with increasing explored area. 
+
+The graph shows that the richness of a species can only extend to a limit intersected by the log line and depends on the area.
+
+- The angle of Z-line increases the more area we consider. 
+
 ### Rivet Popper Hypothesis by Paul Ehrlich 
 1. Assumes the ecosystem to be an airplane and the species to the rivets joining all parts together. 
 2. If every passenger pops a rivet to take home (resulting species extinction), it may not effect the flight safety initially (proper ecosystem functioning).
@@ -31,3 +40,9 @@
 ### Loss of Biodiversity 
 - The colonization of tropical pacific island by humans has led to extinction of more than 2000 native bird species. 
 - IUCN RED List (2004) enlists the extinction of 784 species in the last 500 years. 
+
+- Evil quartet 
+    - Habitat loss 
+    - Overpopulation 
+    - Alien species invasion 
+    - Co-extinction
