@@ -35,6 +35,9 @@ $$
 ![circuit](./img/4-circuit.jpg)
 
 # Observation 
+- Material: nichrome 
+- Least count of meter scale: 0.1 cm 
+- Length: 30 cm 
 
 ![table](./img/4-table.png)
 
