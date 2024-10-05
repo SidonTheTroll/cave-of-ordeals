@@ -23,7 +23,7 @@ $$
 ## Observations  
 - Material: **nichrome**
 - Least count of meter scale: **0.1 cm** 
-- Length: **30 cm** 
+- Length of wires: **30 cm** 
 
 ![table](./img/5-table.png)
 
