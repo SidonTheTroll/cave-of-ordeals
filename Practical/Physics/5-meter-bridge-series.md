@@ -21,9 +21,9 @@ $$
 2. **Law of Series combination of resistances**: when two resistances $R_1$ and $R_2$ are connected in series, their equivalent resistance $R_S$ is given by: $R_S = R_1 + R_2$
 
 # Observation Table 
-- Material: nichrome
-- Least count of meter scale: 0.1 cm 
-- Length: 30 cm 
+- Material: **nichrome**
+- Least count of meter scale: **0.1 cm** 
+- Length: **30 cm** 
 
 ![table](./img/5-table.png)
 
@@ -33,4 +33,16 @@ $$
 - Difference = $R_S-R_S'$ = 0 $\Omega$
 
 # Result 
-Withing the limits of experimental error, the experimental and theoretical values of the series combination of resistances are equal. So the law of combination of series stands verified.
+Within the limits of experimental error, the experimental and theoretical values of the series combination of resistances are equal. So the law of combination of series stands verified.
+
+# Precautions 
+1. All the connections should be neat and tight. 
+2. The plugs of the resistance box must be kept tight by giving a gentle twist after inserting them.
+3. The jockey should not be pressed too hard on the wire, as otherwise it will damage the uniformity of the meter bridge. 
+4. Move the jockey gently over the bridge wire and do not rub it against the wire. 
+5. Ensure that the same lengths of resistance wires $R_1$ and $R_2$ are used for determining $R_S$ as have been used for determining $R_1$ and $R_2$ individually. 
+
+# Sources of Error
+1. The meter bridge may not be of uniform area of cross-section along its entire length. 
+2. There may be end errors due to resistances of copper strips at the ends of the meter bridge.
+3. The effective lengths of the resistance wire used while measuring $R_S$ may not be exactly same as those used while measuring $R_1$ and $R_2$ respectively.
