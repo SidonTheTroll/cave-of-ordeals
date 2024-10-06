@@ -19,7 +19,7 @@ $$
 
 2. **Law of parallel combination of resistances**: when two resistances $R_1$ and $R_2$ are connected to parallel, their equivalent resistance $R_P$ is given by
 $$
-\frac{1}{R_P} = R_P \frac{R_1R_2}{R_1+R_2}
+\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_3} \text{ or } R_P = \frac{R_1R_2}{R_1+R_2}
 $$
 
 ## Circuit Diagram
