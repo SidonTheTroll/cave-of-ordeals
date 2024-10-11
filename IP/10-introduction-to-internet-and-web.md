@@ -1,5 +1,5 @@
 ### 1. What is WWW? How does it function? 
-The World Wide Web (WWW) is a system of interlinked hypertext documents accessed via the internet. It allows users to view and navigate web pages using browsers like Chrome or Firefox.
+The World Wide Web (WWW) is a system of interlinked hypertext documents accessed via the internet. It allows users to view and navigate web pages using web browsers.
 
 Below are its functioning: 
 
@@ -80,11 +80,12 @@ A **website** is a collection of related web pages that are hosted on a server a
 ### 12. What do you understand by a (a) Web browser (b) Web server ?
 1. **Web Browser**: A web browser is a software application that enables users to access, retrieve, and view content on the internet, such as web pages, images, and videos. Popular examples include Google Chrome, Mozilla Firefox, and Safari.
 
-1. ***Web Server**: A web server is a computer system that stores, processes, and delivers web pages to users upon request. It uses protocols like HTTP or HTTPS to communicate with web browsers and provide the requested content.
-### 13. What is an URL? What are its components? Exemplify. 
-A **URL** (Uniform Resource Locator) is the address used to access a specific resource on the internet. It specifies the location of a resource and the protocol used to retrieve it.
+2. **Web Server**: A web server is a computer system that stores, processes, and delivers web pages to users upon request. It uses protocols like HTTP or HTTPS to communicate with web browsers and provide the requested content.
 
-**Components of a URL**:
+### 13. What is an URL? What are its components? Exemplify. 
+An **URL** (Uniform Resource Locator) is the address used to access a specific resource on the internet. It specifies the location of a resource and the protocol used to retrieve it.
+
+**Components of an URL**:
 
 1. **Protocol**: Indicates the method used to access the resource (e.g., `http://` or `https://`).
 2. **Domain Name**: The address of the server hosting the resource (e.g., `www.example.com`).
@@ -113,7 +114,7 @@ It is essential to the **World Wide Web** because it allows users to request and
 ### 16. What are the two parts of an email address? Which character is used to separate these two parts? 
 An email address consists of two parts: the **local part** (username) and the **domain part**. The character used to separate these two parts is the **at symbol (@)**. 
 
-For example, in the email address **username@example.com**, "username" is the local part, and "example.com" is the domain part where @ symbol is the separator. 
+For example, in the email address **username@example.com**, "username" is the local part, and "example.com" is the domain part where '@' symbol is the separator. 
 
 ### 17. Explain the structure of an email address. 
 The structure of an email address consists of two main parts, separated by the **at symbol (@)**:
@@ -153,12 +154,11 @@ To install a plugin on your web browser, first, launch the browser and navigate 
 ### 20. What are cookies? What is their utility? 
 **Cookies** are small text files stored on a user's device by a web browser while browsing a website. They contain data about the user's interactions with the site, such as preferences, login information, and session identifiers.
 
-### Utility of Cookies:
-
-1. **Personalization**: Cookies enable websites to remember user preferences and settings, providing a customized experience.
-2. **Session Management**: They help maintain user sessions, allowing users to stay logged in and keep track of items in shopping carts.
-3. **Tracking and Analytics**: Cookies are used to gather data on user behavior, helping website owners analyze traffic and improve their services.
-4. **Targeted Advertising**: They allow advertisers to deliver personalized ads based on user behavior and preferences.
+- Utility of Cookies:
+    1. **Personalization**: Cookies remember user preferences for a customized experience.
+    2. **Session Management**: They keep users logged in and track shopping cart items.
+    3. **Tracking and Analytics**: Cookies collect data on user behavior for analysis.
+    4. **Targeted Advertising**: They enable personalized ads based on user activity.
 
 ### 21. What is VoIP? How is it useful? 
 **VoIP** (Voice over Internet Protocol) is a technology that enables voice communication and multimedia sessions over the internet instead of traditional telephone lines. It converts audio signals into digital data packets and transmits them over IP networks.
