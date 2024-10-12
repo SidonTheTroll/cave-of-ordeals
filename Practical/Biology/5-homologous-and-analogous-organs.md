@@ -17,6 +17,9 @@ To study homologous and analogous organs using models/charts/specimens.
 - **Homologous organs**: Found in organisms that share a common ancestor. These organs have similar structural origins but may perform different functions (e.g., human arm and bat wing).
 - **Analogous organs**: Found in organisms that do not share a common ancestor but have evolved similar functions due to environmental pressures (e.g., wings of birds and wings of insects).
 
+| ![img](./img/ex-5/1.jpg) | ![img](./img/ex-5/2.jpg)| 
+|-|-|
+
 ## Examples
 - **Homologous Organs**: The forelimbs of humans, whales, and bats share the same basic skeletal structure but serve different purposes (grasping, swimming, flying).
 - **Analogous Organs**: The wings of birds and insects are functionally similar as both are used for flight, but their anatomical structures are different.
