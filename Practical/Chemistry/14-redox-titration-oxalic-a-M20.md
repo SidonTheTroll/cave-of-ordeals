@@ -26,13 +26,16 @@ Oxalic acid acts as a reducing agent against $KMnO_4$ whereas potassium permanga
 To prepare M/20 solution of oxalic acid, the weight of oxalic acid required can be calculated by using the formula: 
 
 $$
-\text{Molarity} = \frac{W_b \times 1000}{M_b \text{Volume in ml}} \text{ OR } W_b = \frac{\text{Molarity}\times M_b \times \text{volume in ml}}{1000}
+\text{Molarity} = \frac{W_b \times 1000}{M_b \times \text{Volume in ml}} \text{ OR } W_b = \frac{\text{Molarity}\times M_b \times \text{volume in ml}}{1000}
 $$
 
 - $W_b$ = weight of oxalic acid 
 - $M_b$ = molecular mass of oxalic acid = 126 g/mol
+- Molarity = M/20
 
-Molarity = M/20
+$$
+W_b = \frac{126 \times 250}{20 \times 1000} = 1.575 g
+$$
 
 Weight of oxalic acid required = 1.575 g 
 
