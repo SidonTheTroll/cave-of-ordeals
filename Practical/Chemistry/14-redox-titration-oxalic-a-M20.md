@@ -72,7 +72,7 @@ Weight of oxalic acid required = 1.575 g
 - Molarity of Oxalic acid solution = 1/20 mol/liter
 - Weight of oxalic acid dissolved in 250 ml of distilled water = 1.575 g 
 
-|S. No. | Vol. of oxalic acid solution (ml) | Initial burette reading | Final reading | Vol. of $KMnO_4$ solution (ml)| 
+| S. No. | Vol. of oxalic acid solution (ml) | Initial burette reading | Final reading | Vol. of $KMnO_4$ solution (ml)| 
 |-|-|-|-|-|
 | 1. | 20 | 0 | 7.9 | 7.9 |  
 | 2. | 20 | 7.9 | 15.9 | 8.0 |
@@ -84,7 +84,7 @@ Weight of oxalic acid required = 1.575 g
 |-|-|
 | $M_1$ = 1/20 | $M_2$ = ? | 
 | $V_1$ = 8 ml | $V_2$ = 20 ml | 
-| $n_1$ = 2 | $n_2$ 5 | 
+| $n_1$ = 2 | $n_2$ = 5 | 
 
 $$
 \frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}
