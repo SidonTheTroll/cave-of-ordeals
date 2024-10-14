@@ -37,7 +37,9 @@ Molarity = M/20
 Weight of oxalic acid required = 1.575 g 
 
 ### Reaction Involved 
+- Molecular Equation 
 ![img](./img/14-molecular-equation.jpg)
+-Ionic Equation
 ![img](./img/14-ionic-equation.jpg)
 
 ## Procedure 
