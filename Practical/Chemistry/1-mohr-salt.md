@@ -3,7 +3,7 @@ To prepare double salt of Ferrous ammonium sulfate $FeSO_4\cdot (NH_4)_2\cdot H_
 
 # Apparatus & Materials Required 
 
-- **Apparatus**: two beakers (250 ml), china dish, funnel, funnel stand, glass rod, wash bottle, bunsen burner, tripod stand, watch glass, filter papers and wire gauge. 
+- **Apparatus**: two beakers (250 ml), china dish, funnel, funnel stand, glass rod, wash bottle, bunsen burner, tripod stand, watch glass, filter papers and wire gauze. 
 - **Chemicals**: Ferrous sulfate crystals, ammonium sulfate crystals and dilute sulfuric acid. 
 
 # Principle 

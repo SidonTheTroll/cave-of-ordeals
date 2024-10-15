@@ -9,7 +9,7 @@ To study the effect of temperature on the rate of reaction between sodium thiosu
 5. Measuring cylinder/burette 50 ml 
 6. White tile 
 7. Tripod stand 
-8. Wire gauge 
+8. Wire gauze 
 
 ## Chemical Required 
 1. 0.1 M sodium thiosulphate
@@ -29,7 +29,7 @@ IT has been experimentally proved that the rate of reaction for most of the reac
 6. Swirl the contents of the conical flask and keep it on the tile with the X mark as shown in figure.
 7. View the cross mark from top to downwards through the reacting mixture in the conical flask. When the cross mark becomes invisible stop the stopwatch and note down the time taken. 
 8. Empty the conical flask by throwing away the contents and then wash it with concentrated nitric acid so as to remove all the sulphur sticking to the conical flask. There after clean the conical flask with distilled water thoroughly. 
-9. Again add 10 ml of 0.1 M sodium thiosulphate into 150 ml conical flask withe the help of a burette and heat the content keeping over the wire gauge to $10 \degree C$ more than the temperature of the first experiment, i.e., $(t+10)\degree C$. 
+9. Again add 10 ml of 0.1 M sodium thiosulphate into 150 ml conical flask withe the help of a burette and heat the content keeping over the wire gauze to $10 \degree C$ more than the temperature of the first experiment, i.e., $(t+10)\degree C$. 
 10. Stop heating and add 10 ml of $HCl$ into the conical flask. Immediately start the stopwatch. 
 11. Swirl the content of the conical flask and keep it on the tile with an X mark as shown in the figure. 
 12. View the cross mark top to downwards through the reacting mixture in the conical flask. When the cross mark becomes invisible stop the stopwatch and note down the time taken. 

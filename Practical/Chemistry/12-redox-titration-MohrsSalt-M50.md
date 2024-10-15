@@ -11,7 +11,7 @@ To prepare 250 ml of M/50 standard solution of ferrous ammonium sulphate (Mohr's
 7. 10 ml pipette 
 8. Funnel 
 9. White tiles 
-10. Wire gauge 
+10. Wire gauze 
 11. Wash bottle 
 12. Burner 
 
