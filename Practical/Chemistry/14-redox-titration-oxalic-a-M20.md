@@ -10,9 +10,8 @@ To prepare M/20 solution of oxalic acid and with its help, determine the molarit
 6. Two 100 ml beakers 
 7. 20 ml pipette 
 8. Funnel 
-9. White tiles 
-10. Wire gauze 
-11. Wash bottle 
+9. Wire gauze 
+10. Wash bottle 
 
 ## Chemical Required 
 1. Potassium permanganate solution 
@@ -21,7 +20,7 @@ To prepare M/20 solution of oxalic acid and with its help, determine the molarit
 4. Oxalic acid 
 
 ## Theory 
-Oxalic acid acts as a reducing agent against $KMnO_4$ whereas potassium permanganate acts as an oxidizing agent and it oxidizes oxalic acid into carbon dioxide and water. Hence the reaction between the two is a redox reaction therefore the titration is called Redox Titration. The reaction between potassium permanganate and oxalic acid at room temperature is slow due to which oxalic acid after acidification in the conical flask is heated to about $(50-60)\degree C$. Potassium permanganate acts as a self indicator and the color at the end point changes from colorless to pink. 
+Oxalic acid reduces potassium permanganate, while potassium permanganate oxidizes oxalic acid to carbon dioxide and water, making their reaction a redox titration. The reaction is slow at room temperature, so the oxalic acid is heated to 50–60°C after acidification. Potassium permanganate serves as a self-indicator, changing the solution from colorless to pink at the endpoint.
 
 To prepare M/20 solution of oxalic acid, the weight of oxalic acid required can be calculated by using the formula: 
 
@@ -41,20 +40,20 @@ Weight of oxalic acid required = 1.575 g
 
 ### Reaction Involved 
 - Molecular Equation 
-![img](./img/14-molecular-equation.jpg)
--Ionic Equation
-![img](./img/14-ionic-equation.jpg)
+![img](./img/14-15-molecular-equation.jpg)
+- Ionic Equation
+![img](./img/14-15-ionic-equation.jpg)
 
 ## Procedure 
 ### [A] Preparation of 250 m of standard solution of M/20 Oxalic acid: 
-1. With the help of a chemical balance weight 1.575 g of solid oxalic acid to prepare M/20 solution.
+1. With the help of a chemical balance weigh 1.575 g of solid oxalic acid to prepare M/20 solution.
 2. Now take 250 ml of standard flask and transfer the solid oxalic acid into it with the help of a funnel. 
 3. Now add distilled water with the help of a wash bottle into the standard flask with constant stirring to dissolve the salt completely. 
 4. Add distilled water up to the mark of the standard flask carefully so that the lower meniscus of water is in level with the mark. 
 5. Now place the air tight stopper on the mouth of the standard flask and shake it to make a homogeneous solution. 
 
 ### [B] Titration of $KMnO_4$ with Oxalic acid:
-<img align=right src="./img/14-pic.jpg" width=350>
+<img align=right src="./img/14-15-pic.jpg" width=350>
 
 1. Take a 50 ml burette and wash it thoroughly with distilled water and then rinse it with few ml of given $KMnO_4$ solution. 
 2. Now take a burette stand and clamp the burette vertically over it.
@@ -72,7 +71,7 @@ Weight of oxalic acid required = 1.575 g
 - Molarity of Oxalic acid solution = 1/20 mol/liter
 - Weight of oxalic acid dissolved in 250 ml of distilled water = 1.575 g 
 
-| S. No. | Vol. of oxalic acid solution (ml) | Initial burette reading | Final reading | Vol. of $KMnO_4$ solution (ml)| 
+| S. No. | Vol. of oxalic acid solution (ml) | Initial burette reading | Final reading | Vol. of $KMnO_4$ solution used (ml)| 
 |-|-|-|-|-|
 | 1. | 20 | 0 | 7.9 | 7.9 |  
 | 2. | 20 | 7.9 | 15.9 | 8.0 |
@@ -82,32 +81,29 @@ Weight of oxalic acid required = 1.575 g
 ## Calculations 
 | $KMnO_4$ | Oxalic acid | 
 |-|-|
-| $M_1$ = 1/20 | $M_2$ = ? | 
+| $M_1$ = ? | $M_2$ = 1/20 | 
 | $V_1$ = 8 ml | $V_2$ = 20 ml | 
+| From ionic equation, ||
 | $n_1$ = 2 | $n_2$ = 5 | 
 
 $$
 \frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}
 \\
-\frac{1}{20} \times \frac{8}{2} = \frac{M_2 \times 20}{5}
+M_1 = \frac{M_2V_2}{n_2}\times \frac{n_1}{V_1}
 \\
-\implies M_2 = 0.05 M
+\implies M_1 = 0.05 M
 $$
 
-The molarity of oxalic acid solution is 0.05 M. 
+The molarity of $KMnO_4$ solution is 0.05 M. 
 
-Strength of oxalic acid = $\text{Molarity} \times \text{Molecular mass}$
-
-$\implies 0.05 \times 126 = 6.3\ gl^{-1}$
-
-% purity of oxalic acid = $\frac{6.3}{6.5}\times 100 = 96.92$
+Strength of $KMnO_4$ = $\text{Molarity} \times \text{Molecular mass}$ $\implies 0.05 \times 158 = 7.9\ gL^{-1}$
 
 ## Result 
-The molarity and percentage of purity of supplied oxalic acid solution is found to be 0.05 M and 96.92% respectively. 
+The molarity and strength of supplied $KMnO_4$ solution is found to be 0.05 M and 7.9 g/L respectively. 
 
 ## Precautions 
 1. Burette, pipette and conical flask should be washed before use. 
-2. Always add $KMnO_4$ solution drop wise or otherwise the solution will become brown due to $MnO_2$ formation. 
+2. Always add $KMnO_4$ solution drop wise else the solution will become brown due to $MnO_2$ formation. 
 3. Always heat the conical flask with its content about $(50-60)\degree C$.
 4. Always take the reading of $KMnO_4$ solution in the burette from the lower meniscus.
 5. Always use distilled water for preparing the solution. 
