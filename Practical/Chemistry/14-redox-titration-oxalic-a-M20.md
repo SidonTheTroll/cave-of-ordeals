@@ -84,19 +84,18 @@ Weight of oxalic acid required = 1.575 g
 | $M_1$ = ? | $M_2$ = 1/20 | 
 | $V_1$ = 8 ml | $V_2$ = 20 ml | 
 | From ionic equation, ||
-| $n_1$ = 2 | $n_2$ = 5 | 
+| $n_1$ = 5 | $n_2$ = 2 | 
 
 $$
-\frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}
+n_1\cdot M_1\cdot V_1 = n_2 \cdot M_2\cdot V_2
 \\
-M_1 = \frac{M_2V_2}{n_2}\times \frac{n_1}{V_1}
+M_1 = 2 \cdot \frac{1}{20}\cdot 20 \cdot \frac{1}{8 \times 5}
 \\
-\implies M_1 = 0.05 M
+M_1 = 0.05\ M
 $$
 
-The molarity of $KMnO_4$ solution is 0.05 M. 
-
-Strength of $KMnO_4$ = $\text{Molarity} \times \text{Molecular mass}$ $\implies 0.05 \times 158 = 7.9\ gL^{-1}$
+- Molarity of $KMnO_4$ solution = $M_1$ = $0.05\ M$
+- Strength of $KMnO_4$ = $M_1 \times 158 = 7.9\ gL^{-1}$
 
 ## Result 
 The molarity and strength of supplied $KMnO_4$ solution is found to be 0.05 M and 7.9 g/L respectively. 
