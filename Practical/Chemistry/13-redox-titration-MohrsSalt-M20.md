@@ -82,24 +82,24 @@ $\therefore$ **Weight of Mohr's salt required**: 4.9 g
 ## Calculations 
 | $KMnO_4$ | Mohr's salt | 
 |-|-|
-| $M_1$ = 1/20 | $M_2$ = ? | 
+| $M_1$ = ? | $M_2$ = 1/20 | 
 | $V_1$ = 1.3 ml | $V_2$ = 10 ml | 
 |From ionic equation,| |
-| $n_1$ = 5 | $n_2$ = 1 |
+| $n_1$ = 1 | $n_2$ = 5 |
 
 $$
-M_2 = \frac{M_1\cdot V_1}{5\cdot V_2}
+n_1\times M_1\times V_1 = n_2\times M_2 \times V_2
 \\
-\implies \frac{1/20\cdot 1.3}{5\cdot 10}
+M_1 = 5 \cdot \frac{1}{20}\cdot 10 \cdot \frac{1}{1.3}
 \\
-M_2 = 0.0013\ M
+M_1 = 1.92\ M
 $$
 
-- Molarity of $KMnO_4$ solution = $M_2$ = 0.0013 $M$
-- Strength of $KMnO_4$ solution = $M_2 \times 158\ g$ = $0.2054\ g/l$
+- Molarity of $KMnO_4$ solution = $M_1$ = $1.92\ M$
+- Strength of $KMnO_4$ solution = $M_1 \times 158\ g$ = $303.36\ g/L$
 
 ## Result 
-The strength and molarity of the given $KMnO_4$ solution are $0.0013\ M$ and $0.2054\ g/l$ respectively. 
+The strength and molarity of the given $KMnO_4$ solution are $1.92\ M$ and $303.36\ g/l$ respectively. 
 
 ## Precautions 
 1. Always add dilute sulphuric acid into Mohr's salt solution while preparing. 
