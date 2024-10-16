@@ -84,21 +84,25 @@ Weight of Mohr's salt solution = 1.96 g
 ## Calculations 
 | $KMnO_4$ | Mohr's salt | 
 |-|-|
-| $M_1$ = 1/50 | $M_2$ = ? | 
+| $M_1$ = ? | $M_2$ = 1/50 | 
 | $V_1$ = 24.2 ml | $V_2$ = 20 ml | 
-| $n_1$ = 5 | $n_2$ = 1 | 
+| From ionic equation, | |
+| $n_1$ = 1 | $n_2$ = 5 | 
 
 $$
-\frac{1}{50}\times \frac{24.2}{5} = \frac{M_2\times 20}{1}
+n_1\times M_1\times V_1 = n_2\times M_2 \times V_2
 \\
-\implies M_2 = 0.0484 M 
+M_1 = 5 \times \frac{1}{50}\times 20 \times \frac{1}{24.2}
+\\
+M_1 = 0.08 M
 $$
 
-- Molarity of $KMnO_4$ solution = $M_2$ = $0.0484\ M$
-- Strength of $KMnO_4$ = $0.0484 \times 158 = 7.64 \ g/l$
+
+- Molarity of $KMnO_4$ solution = $M_2$ = $0.08\ M$
+- Strength of $KMnO_4$ = $0.0484 \times 158 = 12.86 \ g/L$
 
 ## Result 
-The molarity and strength of supplied $KMnO_4$ is found out to be $0.0484 M$, approximately, 0.5 M and $7.64\ g/l$ respectively. 
+The molarity and strength of supplied $KMnO_4$ is found out to be $0.08 M$, approximately, 0.5 M and $12.86\ g/l$ respectively. 
 
 ## Precautions 
 1. Always add one test tube full of 1 M $H_2SO_4$ solution to 20 ml of Mohr's salt solution before titration. 
