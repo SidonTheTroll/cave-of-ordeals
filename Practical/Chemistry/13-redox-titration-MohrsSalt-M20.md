@@ -1,5 +1,5 @@
 ## Aim of the Experiment 
-To prepare 250 ml of M/50 standard solution of ferrous ammonium sulphate (Mohr's salt). With the help of this standard solution determine the concentration/molarity of the given $KMnO_4$ solution.
+To prepare 250 ml of M/20 standard solution of ferrous ammonium sulphate (Mohr's salt). With the help of this standard solution determine the concentration/molarity of the given $KMnO_4$ solution. 
 
 ## Apparatus Required 
 1. Chemical balance 
@@ -10,10 +10,9 @@ To prepare 250 ml of M/50 standard solution of ferrous ammonium sulphate (Mohr's
 6. Two 100 ml beakers 
 7. 10 ml pipette 
 8. Funnel 
-9. White tiles 
-10. Wire gauze 
-11. Wash bottle 
-12. Burner 
+9. Wire gauze 
+10. Wash bottle 
+11. Burner 
 
 ## Chemical Required 
 1. Potassium permanganate solution 
@@ -24,7 +23,7 @@ To prepare 250 ml of M/50 standard solution of ferrous ammonium sulphate (Mohr's
 ## Theory 
 Ferrous ammonium sulphate is a double salt and acts as a reducing agent against $KMnO_4$ whereas Potassium permanganate is an oxidizing agent and it oxidizes iron present in Mohr's salt. Hence the reaction between the two is a redox reaction therefore the titration is called Redox titration. Potassium permanganate acts as a self indicator and the color at the end point changes from colorless to pink. 
 
-To prepare M/50 solution of Mohr's salt, the weight of Mohr's salt required can be calculated by using the formula: 
+To prepare M/20 solution of Mohr's salt, the weight of Mohr's salt required can be calculated by using the formula: 
 
 $$
 \text{Molarity} = \frac{W_b \times 1000}{M_b \times \text{volume in ml}} \text{ OR } W_b = \frac{\text{Molarity} \times M_b \times \text{volume in ml}}{1000}
@@ -32,28 +31,27 @@ $$
 
 - $W_b$ = weight of Mohr's salt
 - $M_b$ = molecular mass of Mohr's salt = 392 g/mol
-
-**Molarity** = M/50
+- **Molarity** = M/20
 
 $$
-W_b = \frac{392 \times 250}{50 \times 1000} = 1.96 g 
+W_b = \frac{392 \times 250}{20 \times 1000} = 4.9\ g 
 $$
 
-Weight of Mohr's salt solution = 1.96 g 
+$\therefore$ **Weight of Mohr's salt required**: 4.9 g 
 
-### Reaction Involved: 
-- Molecular equations: 
+### Reaction involved: 
+1. **Molecular equation:**
 ![img](./img/12-13-molecular.jpg)
 
-- Ionic equation 
+2. **Ionic equation:**
 ![img](./img/12-13-ionic.jpg) 
 
 ## Procedure 
 ### [A] Preparation of 250 m of standard solution of M/50 Mohr's salt: 
-1. With the help of a chemical balance weight 1.96 g of Mohr's salt to prepare M/50 solution. 
-2. Now take 250 ml standard flask and transfer the salt into it with the help of a funnel. 
-3. Add little amount of distilled water followed by 5-10 ml of dilute sulphuric acid to prevent hydrolysis. 
-4. Now add more distilled water with the help of wash bottle into the standard flask with constant stirring to dissolve the salt completely. 
+1. With the help of a chemical balance weigh 4.9 g of Mohr's salt to prepare M/20 solution. 
+2. Take a 250 ml flask and transfer the salt into it using a funnel.
+3. Add a little distilled water, then 5-10 ml of dilute sulfuric acid to prevent hydrolysis.
+4. Add more distilled water to the flask using a wash bottle, stirring constantly to dissolve the salt.
 5. Add distilled water up to the mark of the standard flask carefully so that the lower meniscus of water is in the level of the mark. 
 6. Now place the air tight stopper on the mouth of the standard flask and shake it to make a homogeneous solution. 
 
@@ -70,39 +68,41 @@ Weight of Mohr's salt solution = 1.96 g
 10. Repeat the experiment 3-4 times to obtain three concordant reading.
 
 ## Observation 
-- **Volume of the pipette**: 10 ml
-- **Molarity**: 1/50 mol/liter
-- Weight of Mohr's salt dissolved in 250 ml of distilled water = 1.96 g 
+- Volume of pipette = 10 ml 
+- Concentration = 1/20 mol/liter 
+- Weight of Mohr's salt dissolved in 250 ml of distilled water = 4.9 g 
 
-| S. No. | Vol. of Mohr Salt solution | Initial Reading of Burette | Final Reading of Burette | Vol. of $KMnO_4$ solution used | 
-|:-:|:-:|:-:|:-:|:-:|
-| 1. | 10 | 50 | 25.8 | 24.2 | 
-| 2. | 10 | 50 | 25.6 | 24.4 | 
-| 3. | 10 | 50 | 25.8 | 24.2 | 
-| 4. | 10 | 50 | 25.8 | 24.2 | 
+| S.no. | Mohr's salt vol | Initial Reading | Final Reading | Vol of $KMnO_4$ used | 
+|-|-|-|-|-|
+| 1. | 10 ml | 50 | 48.6 | 1.4 ml | 
+| 2. | 10 ml | 48.6 | 47.3 | 1.3 ml | 
+| 3. | 10 ml | 47.3 | 46.0 | 1.3 ml | 
+| 4. | 10 ml | 46.0 | 44.7 | 1.3 ml | 
 
 ## Calculations 
 | $KMnO_4$ | Mohr's salt | 
 |-|-|
-| $M_1$ = 1/50 | $M_2$ = ? | 
-| $V_1$ = 24.2 ml | $V_2$ = 20 ml | 
-| $n_1$ = 5 | $n_2$ = 1 | 
+| $M_1$ = 1/20 | $M_2$ = ? | 
+| $V_1$ = 1.3 ml | $V_2$ = 10 ml | 
+|From ionic equation,| |
+| $n_1$ = 5 | $n_2$ = 1 |
 
 $$
-\frac{1}{50}\times \frac{24.2}{5} = \frac{M_2\times 20}{1}
+M_2 = \frac{M_1\cdot V_1}{5\cdot V_2}
 \\
-\implies M_2 = 0.0484 M 
+\implies \frac{1/20\cdot 1.3}{5\cdot 10}
+\\
+M_2 = 0.0013\ M
 $$
 
-- Molarity of $KMnO_4$ solution = $M_2$ = $0.0484\ M$
-- Strength of $KMnO_4$ = $0.0484 \times 158 = 7.64 \ g/l$
+- Molarity of $KMnO_4$ solution = $M_2$ = 0.0013 $M$
+- Strength of $KMnO_4$ solution = $M_2 \times 158\ g$ = $0.2054\ g/l$
 
 ## Result 
-The molarity and strength of supplied $KMnO_4$ is found out to be $0.0484 M$, approximately, 0.5 M and $7.64\ g/l$ respectively. 
+The strength and molarity of the given $KMnO_4$ solution are $0.0013\ M$ and $0.2054\ g/l$ respectively. 
 
 ## Precautions 
-1. Always add one test tube full of 1 M $H_2SO_4$ solution to 20 ml of Mohr's salt solution before titration. 
-2. Always add $KMnO_4$ solution drop wise else the solution will become brown due to $MnO_2$ formation. 
-3. Always add dilute sulphuric acid into Mohr's salt solution before preparing. 
-4. Always take the reading of $KMnO_4$ solution in the burette from the lower meniscus. 
-5. Always use distilled water for preparing the solution. 
+1. Always add dilute sulphuric acid into Mohr's salt solution while preparing. 
+2. Always take the reading of $KMnO_4$ solution in the burette from the lower meniscus  
+3. Always add distilled water for preparing the solution. 
+4. Always add $KMnO_4$ solution drop wise else the solution will become brown due to $MnO_2$ formation. 
