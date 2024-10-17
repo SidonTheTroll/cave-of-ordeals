@@ -37,4 +37,4 @@ Press a little of the substance in the folds of a filter paper. The appearance o
 | 5. | Milk | Positive | Greasy spot | Fat present | 
 
 ## Result
-Butter, crushed sunflower seeds, soybean oil and milk contains fats. 
+Butter, crushed sunflower seeds, soybean oil and milk contains fats.
