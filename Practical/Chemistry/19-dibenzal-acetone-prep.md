@@ -16,9 +16,7 @@ To prepare dibenzal acetone
 
 ## Theory 
 - Chemical reaction: 
-
-> [!CAUTION]
-> Add image here
+![img](./img/19-reaction.png) 
 
 ## Procedure 
 1. Take 2 ml of benzalaldehyde in a test tube or conical flask and add 1 ml of acetone to it. Cork the test tube and keep it in the test tube stand. 
