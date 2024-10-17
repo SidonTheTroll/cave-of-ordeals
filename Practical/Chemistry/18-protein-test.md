@@ -20,3 +20,4 @@ Take about 2 ml of egg white in a test tube and add 3-4 drops of Ninhydrin solut
 | 4. | Egg | Blue-violet color | Intense blue color | Protein present | 
 
 ## Result 
+Besan, Dal and egg contains fats. 
