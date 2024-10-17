@@ -18,20 +18,22 @@ All carbohydrates give this test. Take 1-2 ml of aq. solution of carbohydrate an
 ### 2. Fehling's Test 
 Take 2 ml of aq. solution of carbohydrate and add 1-2 ml of both Fehling's solution A and B. Keep the test tube in boiling water bath. 
 - **Chemistry of the test**: 
+![img](./img/16-fehlings-test.png)
 
 ### 3. Benedict's Test 
 Take 1-2 ml of aq. solution of carbohydrates in a test tube. Add 2 ml of Benedict's reagent. Keep the test tube in a boiling water bath. Reddish ppt. indicates the presence of reducing sugar. 
 
 ### 4. Tollen's Test 
-Take 2-3 ml of aq. solution of carbohydrates in a test tube. Add to it 2-3 ml of Tollen's reagent. Keep the test tube in a boiling wa ter bath for 10 minutes 
+Take 2-3 ml of aq. solution of carbohydrates in a test tube. Add to it 2-3 ml of Tollen's reagent. Keep the test tube in a boiling water bath for 10 minutes.
 - **Chemistry of the test**: 
+![img](./img/16-tollens-test.png)
 
 ## Observation 
 | S .No. | Sample | Molisch's Test | Fehling's Test | Tollen's Test | Inference | 
 |-|-|-|-|-|-|
 | 1. | Potato | Purple ring | Negative | Negative | Carbohydrate present | 
 | 2. | Rice | Purple ring | Red ppt. | Red ppt. | Carbohydrate present | 
-| 3. | Besan | Negative | Negative | Negative | Absent | 
+| 3. | Besan | Negative | Negative | Negative | Carbohydrate absent | 
 | 4. | Sugar | Purple ring | Negative | Negative| Carbohydrate present | 
 | 5. | Bread | Purple ring | Red ppt. | Red ppt. | Carbohydrate present | 
 
