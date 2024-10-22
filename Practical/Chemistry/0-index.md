@@ -21,3 +21,4 @@
 | 19    | Dibenzal acetone preparation                   | 55-56    | 06-09-24           | 13-09-24           |
 | 20    | Daniel cell setup                              | 57-58    | 13-09-24           | 20-09-24           |
 | 21    | Chemical kinetics for temperature              | 59-61    | 04-10-24           | 18-10-24           |
+| 22 | Salt Analysis | 18-10-24 | 25-10-24 | 
