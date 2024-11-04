@@ -23,13 +23,15 @@ $$
 $$
 
 ## Circuit Diagram
+![diagram](./img/6-diagram.png)
 
 ## Observation table 
+![table](./img/6-table.png)
 
 ## Calculations 
-- Experimental value of parallel combination of resistances, $R_P$ = $\Omega$
-- Theoretical value of parallel combination of resistances, $R_P'$ = $\frac{R_1R_2}{R_1+R_2}$ = $\Omega$
-- Difference = $R_P-R_P'$ = $\Omega$
+- Experimental value of parallel combination of resistances, $R_P$ = 2.16 $\Omega$
+- Theoretical value of parallel combination of resistances, $R_P'$ = $\frac{R_1R_2}{R_1+R_2}$ = 2.10 $\Omega$
+- Difference = $R_P-R_P'$ = 0.06 $\Omega$
 
 ## Result 
 Within the limits of the experimental error, the experimental and the theoretical values of the parallel combination of the resistances are equal. So the law of parallel combination of the resistances stands verified. 
