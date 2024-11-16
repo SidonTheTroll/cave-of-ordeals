@@ -82,6 +82,7 @@
 9. Repeat from step 1. 
 
 ### Amoebiasis (Amoebic dysentery)
+- Caused by *Entamoeba histolytica*
 - Symptoms:
     - Constipation 
     - Abdominal pain 
