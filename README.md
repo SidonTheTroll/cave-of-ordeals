@@ -18,22 +18,19 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 ## TODO
 
 - [ ] Survive
-- [ ] Finish topics for Physical Education
-    - [ ] Knockout fixing 
-        - [ ] Bye calculation, Fixtures on knock-out basis 
-        - [ ] Seeding; general, special (wildcards)
-    - [ ] League matches  
 - [ ] Complete assignments 
     - [x] Biology
     - [ ] Physics
     - [ ] Chemistry 
     - [x] Physical Education
-- [ ] Complete SVHW
+    - [ ] IP
+    - [ ] English
+- [x] Complete SVHW
     - [x] Biology
-    - [ ] Chemistry 
+    - [x] Chemistry 
     - [x] IP 
     - [x] Physical Education
     - [x] English
-- [ ] Complete writing the documentation of chem practical
+- [x] Complete writing the documentation of chem practical
 
 ![Alt](https://repobeats.axiom.co/api/embed/1b422b156464b5933d1d95ef0a73581cef09d113.svg "Repobeats analytics image")
