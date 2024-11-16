@@ -1,3 +1,7 @@
+## Aim of the Experiment 
+To study the population density of plants of a given area by the quadrate method. 
+
+
 # Table 
 
 | Quadrat | A | B | C | D | E | F | G | H | 
