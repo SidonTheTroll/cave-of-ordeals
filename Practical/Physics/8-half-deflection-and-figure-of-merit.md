@@ -24,6 +24,8 @@ $$
 where $\theta$ is the deflection produced with series resistance R and $\mathcal{E}$ is the emf of the battery. 
 
 ## Circuit Diagrams 
+|<img src="./img/8-diagram-1.jpg">|<img src="./img/8-diagram-2.jpg">|
+|-|-|
 
 ## Procedure 
 ### [A] Resistance of the galvanometer by half deflection method 
@@ -42,6 +44,20 @@ where $\theta$ is the deflection produced with series resistance R and $\mathcal
 11. Calculate the figure of merit of the galvanometer using the formula, $k = \frac{\mathcal{E}}{(R+G)\theta}$.
 
 ## Observations and Calculations 
+### Resistance of galvanometer by half deflection method 
+|S. No.|High resistance R ($\Omega$)|Deflection $\theta$ (divisions)|Shunt resistance S ($\Omega$)| Half deflection $\theta$/2 (divisions)|Galvanometer resistance $G=\frac{RS}{R-S}\Omega$
+|-|-|-|-|-|-|
+
+- Mean value of G = $\Omega$
+
+<div style="page-break-after: always;"></div>
+
+- Emf of battery, $\mathcal{E}$ = $V$
+- Resistance of the galvanometer, G = $\Omega$
+
+### Figure of merit of the Galvanometer 
+|S.No.|High resistance R ($\Omega$)|Deflection $\theta$ (divisions)|Figure of merit $k = \frac{\mathcal{E}}{(R+G)\theta} A\ div^{-1}$|
+|-|-|-|-|
 
 ## Result 
 1. Resistance of galvanometer by half-deflection method, $G$ = $\Omega$.
