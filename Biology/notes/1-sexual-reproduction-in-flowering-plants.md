@@ -6,10 +6,10 @@
 
 
 > [!IMPORTANT]
-> Progeny of sexual reproduction is not completely silimar to a singular parent because of combination of characters.
+> Progeny of sexual reproduction is not completely similar to a singular parent because of combination of characters.
 
 > [!NOTE]
-> For smoe generation, there's no variation in asexual organisms.  
+> For some generation, there's no variation in asexual organisms.  
 > Sometimes, environmental factors leads to variations.
 
 - Sexual reproduction helps species to adapt. 
