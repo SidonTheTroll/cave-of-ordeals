@@ -22,6 +22,7 @@ $$
 Here $k$ is the potential drop per unit length and is called potential gradient. 
 
 ## Circuit Diagram 
+![diagram](./img/2-diagram.jpg) 
 
 ## Procedure 
 1. Draw a neat circuit diagram and arrange the required apparatus accordingly on the working table. 
