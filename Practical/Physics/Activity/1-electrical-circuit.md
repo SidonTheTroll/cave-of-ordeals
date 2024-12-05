@@ -20,7 +20,7 @@ For assembling the components of any circuit, it is advisable to connect the com
 4. Measuring instruments, ammeter, voltmeter, meter bridge, potentiometer, etc. Ammeter is connected in series and voltmeter in parallel with the load with positive ends of both towards the positive terminal of the battery. 
 
 ## Circuit Diagram 
-
+![diagram](./img/1-diagram.jpg) 
 
 ## Procedure 
 1. Draw the circuit diagram required for the given activity and arrange the components accordingly on the work table. 
