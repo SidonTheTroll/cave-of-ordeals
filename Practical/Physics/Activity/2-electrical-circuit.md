@@ -26,7 +26,7 @@ For assembling the components of any circuit, it is advisable to connect the com
 1. Draw the circuit diagram required for the given activity and arrange the components accordingly on the work table. 
 2. Clean the ends of the connecting wires with a piece of sand paper. 
 3. Connect the battery, ammeter A, resistance R, rheostat Rh and plug key K all in series and voltmeter V in parallel with resistor R. See that the positive ends of ammeter and voltmeter are connected towards the positive terminal of the battery.
-4. Insert the plug in the key K See that the ammeter and voltmeter show deflections on the right hand (positive) side. Adjust the rheostat so that the deflections are within scale.
+4. Insert the plug in the key K. See that the ammeter and voltmeter show deflections on the right hand (positive) side. Adjust the rheostat so that the deflections are within scale.
 5. The deflections in ammeter and voltmeter verify the continuity of the assembled circuit. 
 
 ## Conclusion 
