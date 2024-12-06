@@ -16,7 +16,7 @@ To assemble a household circuit comprising three bulbs, three on/off switches, a
     2. Power line of 15 A for heavy duty appliances like room heater, air conditioner, hot plates, water heater, etc. 
 2. If $P_1, P_2, P_3, ...$ are the powers consumed by different appliances, then the total power consumed in the household circuit is: $P = P_1 + P_2 + P_3 + ....$
 
-Current drawn from hte mains of V volts will be $I = \frac{P}{V}$
+Current drawn from the mains of V volts will be $I = \frac{P}{V}$
 
 To protect the appliances from damage due to excessive currents, a fuse of rating 10 to 20% higher than the normally drawn current is connected in series with the live wire from the source of power. 
 
@@ -37,7 +37,7 @@ To protect the appliances from damage due to excessive currents, a fuse of ratin
 
 ## Conclusions 
 1. Each bulb functions independently of the other through a separate switch. 
-2. The three bulbs can function simultaneously with the installed fuse only. 
+2. The three bulbs can function simultaneously with the installed fuse safely. 
 
 ## Precautions 
 1. The rating of the required fuse must be determined carefully by calculating the maximum current drawn by the circuit. 
