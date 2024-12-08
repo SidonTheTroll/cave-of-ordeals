@@ -6,7 +6,7 @@ The third level of Grand Central Station, taking passengers to Galesburg, Illino
 No, Charley wouldn't go back to the ticket-counter on the third level as he couldn’t find the corridor again, and he stopped searching due to his wife's concern.
 
 ### 3. Do you think that the third level was a medium of escape for Charley? Why?
-For Charlie, the third level was an escape from the harsh realities of life—his refuge from the pressures, tension, and stress of the modern world. He hallucinated a time before the devastating World Wars.
+For Charley, the third level was an escape from the harsh realities of life—his refuge from the pressures, tension, and stress of the modern world. He hallucinated a time before the devastating World Wars.
 
 ### 4. What do you infer from Sam's letter to Charley? 
 On one level, it suggests Sam has reached 1894 Galesburg. But on a deeper level, it could be seen as another of his hallucinations or escapist dreams.
