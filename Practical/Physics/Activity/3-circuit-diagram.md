@@ -15,7 +15,7 @@ To draw the diagram of given open circuit comprising at least a battery, resisto
 Electrical circuits can be either functional or open type. 
 
 - **Functional Electrical circuit**: an electrical circuit is functional only if all the components are connected in proper order, assuming that all circuit components/devices are in working condition and key is closed. With closed key, all components satisfy the property of continuity. 
-- **Open Electrical Circuit**: an open circuit means there is a break in some part of the circuit. This break may be either deliberate such as a key left in open position or a fault such as a broken wire, come burnt out component or a loose connection. This circuit shown discontinuity for one or more components. 
+- **Open Electrical Circuit**: an open circuit means there is a break in some part of the circuit. This break may be either deliberate such as a key left in open position or a fault such as a broken wire, some burnt out component or a loose connection. This circuit shown discontinuity for one or more components. 
 
 ## Circuit Diagrams 
 ![diagram](./img/3-diagram.jpg) 
@@ -30,7 +30,7 @@ Electrical circuits can be either functional or open type.
 
 ## Observations 
 | S. No. | Circuit component | Correct connection | Incorrect connection |  
-|:-:||:-:|:-:|
+|:-:|-|:-:|:-:|
 | 1. | Battery | | |
 | 2. | Resistor | | | 
 | 3. | Rheostat | | | 
