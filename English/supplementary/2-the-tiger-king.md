@@ -6,7 +6,7 @@ Jilani Jung Jung Bahadur, the ruler of Pratibandapuram, was known as the Tiger K
 The royal infant grew up to be the King of Pratibandapuram, obsessed with killing one hundred tigers to disprove the prophecy that his death would come from the hundredth tiger. This led him to hunt down all the tigers in Pratibandapuram.
 
 ### 3. What will the Maharaja do to find the required number of tigers to kill? 
-The Maharaja instructed his dewan to find a suitable bride from a royal family, specifically from a state with a large tiger population, so he could continue his hunt to reach the required number of tiger kills.
+To achieve the goal of killing hundred tigers, he imposed a ban in his province prohibiting tiger hunting by anyone except the Maharaja. And when his state ran out of tigers, he ordered his dewan to find a suitable bride from a royal family, preferably from a state with a large tiger population, so he could continue his hunt to reach the required number of tiger kills.
 
 ### 4. How will the Maharaja prepare himself for the hundredth tiger which was supposed to decide his fate?  
 The Maharaja was extremely cautious when facing the hundredth tiger, believed to be the cause of his death. He carefully aimed and shot the tiger, and when it collapsed, he left the scene quickly, filled with joy.
