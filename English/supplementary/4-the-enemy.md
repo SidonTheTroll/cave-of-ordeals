@@ -8,7 +8,7 @@ Dr. Sadao operated on the wounded white man alone, with Hana assisting him by br
 Dr. Sadao found the American soldier wounded on the seashore. The soldier was weak, pale, with a bullet in his wound, and his back stained with blood.
 
 ## 4. Why did Dr. Sadao treat the American soldier even though it was an anti-patriotic act on his part? 
-Dr. Sadao treated the American prisoner of war because, as a doctor, he was committed to saving lives. Letting the injured soldier die, even though he was an enemy, would have violated his professional ethics.
+Dr. Sadao treated the American POW because, as a doctor, he was committed to saving lives. Letting the injured soldier die, even though he was an enemy, would have violated his professional ethics.
 
 ## 5. In what context does Hana remember the cruel nature of General Takima? 
 Hana remembered General Takima, who was known for cruelly beating his wife, though no one spoke of it after his victory in Manchuria. She realized that if he could be so harsh to a woman under his control, he would likely be even more ruthless toward the wounded American soldier.
