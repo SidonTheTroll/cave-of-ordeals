@@ -28,5 +28,5 @@ When Hana and Dr. Sadao encountered the American soldier, they faced a dilemma. 
 ## 10. How did Dr. Sadao help the American POW to escape? What humanitarian values do you find in his act? 
 Dr. Sadao helped the American POW escape by giving him a boat with food, water, clothing, quilts, and a flashlight. He advised him to signal if he ran out of supplies and not to light fires at night.
 
-## 11. How did the General offer to help Dr. Sadao in getting rid of the Americans? 
+## 11. How did the General offer to help Dr. Sadao in getting rid of the American? 
 The General proposed sending his private assassins to Sadao’s house to deal with the American. He assured Sadao that the assassins could quietly cause internal bleeding to kill him and handle the body discreetly.
