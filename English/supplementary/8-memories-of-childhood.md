@@ -9,7 +9,7 @@ Zitkala-Sa crept up the stairs, wandered through the hall, and entered a large r
 Zitkala-Sa resisted cutting her hair, as her mother taught her that only captured, unskilled warriors or cowards had shingled hair, while short hair was for mourners.
 
 ## 4. Why was Zitkala-Sa's behavior in dining room peculiar to others? 
-Zitkala-Sa’s behavior was peculiar because, unfamiliar with the dining room manners, she sat down before the signal and had to awkwardly stand again, which was different from the other students who followed the bell signals.
+Zitkala-Sa’s behavior was peculiar because she was unfamiliar with the dining room manners. She sat down before the signal and had to awkwardly stand again, which was different from the other students who followed the bell signals.
 
 ## 5. Why did it take Bama an hour to reach home? 
 Bama took much longer to walk home from school because she was captivated by the fun, games, and intriguing sights in the streets, shops, and bazaar along the way.
