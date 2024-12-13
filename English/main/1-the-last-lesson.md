@@ -33,6 +33,6 @@ M. Hamel rose from his chair, looking pale and serious. He attempted to speak bu
 ### 11. Why did M. Hamel say that they all had a great deal to reproach themselves with? 
 M. Hamel conveyed that the responsibility for not learning their native language fell on everyone. He acknowledged his own fault, admitting that he sometimes prioritized leisure activities like fishing over teaching, or sent students away for their own errands instead of teaching them.
 
-### 12. How far had Franz progressed in French?  What factors were responsible for this? 
+### 12. How far had Franz progressed in French? What factors were responsible for this? 
 Overall, Franz had very poor performance in his French lessons which was evident by his hesitation to go to school and fear of being scolded by his teacher. Later that day when the teacher asked him about French participles he got it all mixed up and wasn't able to answer.  
 The reasons for his poor performance were his distractions of playing outside and his parents opting for quick monetary gain instead of his studying. His teacher also blamed himself for giving holidays when he went out fishing and not focusing on him well enough previously. 
