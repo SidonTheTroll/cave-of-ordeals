@@ -12,40 +12,40 @@ Douglas feared water since he was three or four, after his father took him to Ca
 When he swam in the YMCA pool, it revived unpleasant memories in him. But paddling with his water wings by watching and aping others for a few days made him start feeling comfortable. 
 
 ### 4. Describe the boy who was responsible for the author's misadventure.
-The boy who was responsible for the author's misadventure was around eighteen years old and had thick hair on his chest. His arms and legs boasted well-defined muscles that caught everyone's eye. He also liked to joke around teasing younger and smaller boys. 
+The boy behind the author's misadventure was about eighteen, with thick chest hair and well defined muscles on his arms and legs that drew attention. He enjoyed teasing younger, smaller boys.
 
 ### 5. How did the misadventure happen with Douglas? 
-Douglas calls the incident at the Y.M.C.A. pool a 'misadventure'. He was around ten or eleven and just starting to learn to swim by copying others. Someone pushed him into the water unexpectedly and since he couldn't swim, he began to drown. The struggle to stay afloat and avoid drowning left him with a strong fear of water, which stopped him from enjoying water activities for a long time.
+Douglas call the YMCA pol incident 'misadventure'. At ten or eleven, while learning to swim, he was thrown into the water and nearly drowned. This experience left him with a deep fear of water, keeping him from enjoying water activities for years. 
 
 ### 6. What did Douglas experience as he went down to the bottom of the pool for the first time?
 When Douglas plunged into the water, which had a yellowish tint, it was a terrifying ordeal for him. He felt a great force pulling him under. His legs felt almost numb, his lungs hurt, his head throbbed with pain and he was getting dizzy. 
 
 ### 7. What was the result of the 'great spring upwards' that Douglas made on hitting the bottom of the pool? 
-After the 'great spring upwards', Douglas resurfaced slowly as he faced murky yellow water. He attempted to grab a rope but his hands clutched only water. He tried to scream but not sound came out then only his eyes and nose came out of the water but not his mouth. 
+After springing upwards, Douglas surfaced slowly into murky water, grasping only water instead of rope. He tried to scream, but no sound came out as only his eyes and nose emerged, not his mouth. 
 
 ### 8. How did Douglas struggle before hitting the pool the second time? 
-Douglas thrashed his arms and legs uncontrollably, swallowing water and choking. His legs felt like heavy, lifeless weights, paralyzed and stiff. A powerful force dragged him downward and he struck out desperately as he sank. Completely out of breath, his lungs burning and head pounding, dizziness overwhelmed him as he descended into the dark water, consumed by fear.
+Douglas thrashed, choking on water as his heavy legs paralyzed. Pulled downwards, he sank into darkness, lungs hurting and fear consuming him. 
 
 ### 9. "I crossed to oblivion and the curtain of life fell." Explain.
-As Douglas descended into the pool for the third time, he ingested more water. His attempts to resurface ceased, his legs going limp. A darkness enveloped his mind, erasing fear and terror. Panic gave way to tranquility and peace. He felt drowsy, longing for sleep to overtake him.
+As Douglas sank a third time, he swallowed more water, his efforts to resurface stopped, and his legs went limp. Darkness replaced fear, bringing a calm drowsiness and longing for sleep.
 
 ### 10. "This handicap stayed with me as the years rolled by." How did it affect his pursuits of pleasure? 
-Douglas harbored a persistent fear of water, which hindered his enjoyment of fishing expeditions and water-related activities such as canoeing, boating and swimming. Despite this fear, he ventured out on various fishing trips, including those on Maine lakes, New Hampshire for bass fishing and Oregon rivers for trout fishing.
+Douglas's fear of water limited activities like swimming, canoeing, boating, but he still fished in Maine, New Hampshire and Oregon.
 
 ### 11. What efforts did Douglas made to get over his fear of water? 
-Douglas's fear of water, developed in childhood, persisted into adulthood, hindering his enjoyment of activities like canoeing, boating, fishing and swimming. Despite his efforts to overcome it, he ultimately sought out an instructor to learn swimming.
+Douglas's childhood fear of water persisted into adulthood, limiting activities like canoeing, boating and swimming. Despite his efforts, he eventually sought a swimming instructor. 
 
 ### 12. What is the "misadventure" that William Douglas speaks about? 
-The author recalls a 'misadventure' at a swimming pool during childhood. Around the age of ten or eleven, lacking proper swimming skills, he was unexpectedly thrown into the water, leading to a struggle to stay afloat.
+As a child of ten or eleven, the author recalls being unexpectedly thrown into a pool despite not knowing how to swim, leading to a struggle to stay afloat.
 
 ### 13. What were the series of emotions and fears that Douglas experienced when he was thrown into the pool? What plans did he make to come to the surface? 
-Initially, William Douglas felt mild fright as he began sinking, but his anxiety heightened as he took longer to reach the pool's nine-foot depth. To escape, he planned to use all his strength: upon reaching the bottom, he would leap upward to propel himself to the surface.
+William Douglas initially felt mild fright as he sank, but his anxiety grew as he took longer to reach the pool's nine-foot depth. He planned to push off the bottom with all his strength to reach the surface.
 
 ### 14. Why was Douglas determined to get over his fear of water? 
-Douglas lamented missing out on canoeing, boating, swimming and fishing. Eager to regain his confidence and overcome his fear, he pursued every possible avenue to conquer it.
+Douglas regretted missing out on canoeing, boating, swimming, and fishing. Determined to overcome his fear, he explored every way to regain his confidence.
 
 ### 15. How did the instructor "build a swimmer" out of Douglas? 
-The instructor patiently and meticulously taught Douglas to swim, using a rope and pulley system for the first three months without requiring him to submerge his face.
+The instructor patiently taught Douglas to swim, starting with a rope and pulley system for three months without requiring him to submerge his face.
 
 ### 16. Which other exercise did the instructor prescribe Douglas to make him shed the panic caused by water? 
 He showed Douglas how to breathe out underwater, then lift his nose to breathe in. Douglas practiced this many times, slowly shedding the panic caused by water.
