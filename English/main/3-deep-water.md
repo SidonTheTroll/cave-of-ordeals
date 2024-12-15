@@ -3,10 +3,10 @@
 ### 1. When did Douglas decide to learn swimming? What options were available to him? Which one did he choose and why? 
 Douglas decided to learn swimming when he was ten or eleven years old.  
 He had the option between the Yakima river and YMCA pool in Yakima.  
-Douglas decided to choose YMCA pool to learn swimming because the Yakima river was treacherous and his mother kept details of drowning in Yakima river fresh to prevent him from going there. Moreover, the YMCA pool had a gradual drop which helped him learn as an amateur. 
+Douglas chose the YMCA pool to learn swimming because the Yakima River was dangerous, and his mother warned him about drownings. The YMCA pool's gradual slope was also better for beginners. 
 
 ### 2. 'I had an aversion to the water when I was in it,' says Douglas. Explain. 
-Douglas had a fear of water since he was three or four years old when his father took him to California beach where he was buried in water after waves had knocked him down and his breath was gone. Since then, he developed a fear of water whenever he was in it. 
+Douglas feared water since he was three or four, after his father took him to California beach, where waves knocked him down and he couldn’t breathe. Since then, he feared water whenever he was in it.
 
 ### 3. How did Douglas initially feel when he went to the YMCA pool? What made him feel comfortable? 
 When he swam in the YMCA pool, it revived unpleasant memories in him. But paddling with his water wings by watching and aping others for a few days made him start feeling comfortable. 
