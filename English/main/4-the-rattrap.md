@@ -1,65 +1,64 @@
 # The Rattrap 
 
 ## 1. From where did the peddler get the idea of the world being a rattrap? 
-While thinking of his rattraps, the peddler was struck by the idea that the whole world was nothing but a big rattrap. It sets bait for people by offering riches, joys, shelter, food, heat and clothing in the same manner as a rattrap that offers cheese and pork. As soon as someone is tempted to touch the bait, it closes in on him, and then everything comes to an end. 
+The peddler saw the world as a giant rattrap, offering temptations like riches and comforts. Once someone takes the bait, it closes in, bringing an end to everything.
 
 ## 2. Why was he amused by this idea? 
-The peddler's life was sad and monotonous; walking laboriously from place to place and never experiencing kindness. So, during his gloomy ploddings, the idea became his favorite pastime. He was amused by how people let themselves be caught in the snare and how others keep circling the bait. 
+The peddler's monotonous life lacked kindness, and during his travels, he amused himself with the idea of the world as a rattrap, watching people fall for the bait.
 
 ## 3. Did the peddler expect the kind of hospitality that he received from the crofter? 
-The crofter served him porridge for supper and tobacco for his pipe. He also played a game of cards with him till bedtime. This hospitality was unexpected as people usually made sour faces when the peddler asked for shelter. 
+The peddler didn't expect the crofter's kindness, as he was used to harsh and unkind treatment from others when seeking shelter or food.
 
 ## 4. Why was the crofter so talkative and friendly with the peddler? 
 The crofter, lonely without a wife or child, was eager for company and generously shared his confidence, making him talkative and friendly with the peddler.
 
 ## 5. Why did he show the thirty kronor to the peddler? 
-To assure the skeptical peddler, the crofter showed him the thirty kronor he had earned from supplying his cow's milk to the creamery. 
+To reassure the peddler, the crofter showed him the thirty kronor he earned from his cow's milk.
 
 ## 6. Did the peddler respect the confidence reposed in him by the crofter? 
-No, the peddler betrayed the crofter's trust by smashing the window, stealing the money, and then hanging the leather pouch back before leaving. 
+The peddler betrayed the crofter by stealing the money and returning the pouch before leaving.
 
 ## 7. What made the peddler think that he had indeed fallen into a rattrap? 
-Realizing he couldn't walk on the highway with stolen money, the peddler went into the woods. As he wandered endlessly, he understood he had fallen into the rattrap, fooled by the bait and now caught in it.
+Realizing the stolen money was a trap, the peddler wandered in the woods, caught by the bait.
 
 ## 8. Why did the ironmaster speak kindly to the peddler and invite him home? 
-The ironmaster, in the dim light of the furnace, mistook the peddler for his old regimental comrade, Captain von Stahle. Addressing him as Nils Olof, he kindly invited the stranger to his home.
+In the dim light of the furnace, the ironmaster mistook the peddler for his old comrade, Captain von Stahle, and invited him home, calling him Nils Olof.
 
 ## 9. Why did the peddler decline the invitation? 
-The peddler knew the ironmaster had mistaken him for his old regimental comrade and feared being caught with the stolen thirty kronor. Realizing it would be like entering the lion's den, he declined the invitation.
+The peddler, fearing discovery of the stolen money, knew the ironmaster had mistaken him for his comrade. Realizing it would be risky, he declined the invitation.
 
 ## 10. What made the peddler accept Edla Willmansson's invitation? 
-Miss Edla Willmansson noticed the peddler's fear and compassionately assured him he could leave freely. Her kind manner convinced him to accept her invitation to stay over Christmas Eve.
+Miss Edla noticed the peddler's fear and kindly assured him he could leave. Her compassion convinced him to stay for Christmas Eve.
 
 ## 11. What doubts did Edla have about the peddler? 
-When Edla lifted the peddler's hat, he jumped up in fright. Despite her kind expression and explanation of her visit, he remained anxious. His fear led her to suspect he was either a thief or an escaped prisoner.
+When Edla lifted the peddler's hat, he jumped in fear. Despite her kind expression and explanation, his anxiety made her suspect he was either a thief or an escaped prisoner.
 
 ## 12. When did the ironmaster realize his mistake? 
-The next morning, the stranger was clean and well-dressed. The valet had bathed him, cut his hair, and shaved him. He was led to the dining room for breakfast, where the ironmaster saw him clearly in daylight. Realizing his mistake, the ironmaster threatened to call the Sheriff.
+The next morning, the peddler was clean and well-dressed after being bathed, shaved, and groomed. As the ironmaster saw him clearly in daylight, he realized his mistake and threatened to call the Sheriff.
 
 ## 13. How did the peddler define himself against not having revealed his true identity? 
-The peddler clarified he had never pretended to be someone else and had only sought shelter as a poor trader. He assured them he had caused no harm and offered to put on his old clothes and leave peacefully.
+The peddler clarified he was just a poor trader seeking shelter, meant no harm, and offered to leave peacefully in his old clothes.
 
 ## 14. Why did Edla still entertain the peddler even after she knew the truth about him? 
-Edla felt it would be wrong to send away someone they had invited and promised Christmas cheer. Despite learning the truth about the peddler, she decided to continue hosting him, wanting him to enjoy a day of peace with them.
+Edla felt it wrong to send away someone they had invited for Christmas cheer. Despite learning the truth, she decided to continue hosting him, wanting him to have a peaceful day.
 
 ## 15. Why was Edla happy to see the gift left by the peddler? 
-Inside the gift package, Edla found a small rattrap with three wrinkled ten kronor notes and a letter addressed to her. The peddler, appreciative of her kindness, wanted to prevent her from facing embarrassment by returning what he had taken.
+Inside the gift package, Edla found a rattrap, three ten kronor notes, and a letter. The peddler, grateful for her kindness, wanted to spare her the embarrassment of returning what he had taken.
 
 ## 16. Why did the peddler sign himself as Captain von Stahle? 
-Mistaken for Captain von Stahle, the peddler was warmly welcomed and treated with respect by the ironmaster, giving him a chance to redeem himself through honorable behavior.
+Mistaken for Captain von Stahle, the peddler was warmly welcomed by the ironmaster, receiving respect and a chance to redeem himself through honorable behavior.
 
 ## 17. How does the peddler interpret the acts of kindness and hospitality shown by the crofter, the ironmaster and his daughter? 
-The peddler deceives the crofter by taking advantage of his loneliness for company. He aims to gain money from the ironmaster but is struck by the contrasting behaviors of the father and daughter. He is moved by Edla's kindness, care, and intervention on his behalf.
+The peddler deceives the crofter for company and seeks money from the ironmaster but is moved by Edla's kindness and care.
 
 ## 18. What are the instances in the story that show that the character of the ironmaster is different from that of his daughter? 
-The ironmaster acts impulsively, mistaking the stranger for his old comrade in uncertain light and welcoming him warmly. However, upon seeing him clearly, he accuses him of dishonesty and threatens to involve the Sheriff.  
-In contrast, his daughter is observant and suspects the stranger might be a thief or escaped prisoner. Despite this, she remains gentle, kind, and friendly towards him, continuing to treat him with care even after the mistaken identity is revealed. 
+The ironmaster impulsively mistakes the stranger for an old comrade and warmly welcomes him. However, upon realizing the truth, he accuses him of deceit and threatens to call the Sheriff. In contrast, his daughter, though suspecting the stranger’s dishonesty, remains gentle and kind, treating him with care even after the misunderstanding is cleared.
 
 ## 19. What made the peddler finally change his ways? 
-Edla Willmansson treated the peddler kindly, interceding for him and continuing to host him despite learning the truth. Her compassion and generosity eventually inspired the peddler to change for the better.
+Edla's kindness and compassion inspired the peddler to change, as she hosted him and interceded for him despite knowing the truth.
 
 ## 20. How does the metaphor of the rattrap serve to highlight the human predicament? 
-The world tempts people with riches, joy, shelter, and basic needs like baits in a rattrap. The peddler fell for the crofter's thirty kronor, hiding in fear and avoiding the Manor House. His peace returned only after he returned the money, escaping the trap of temptation.
+The world lures people with riches and comforts like a rattrap. The peddler fell for the crofter's money but found peace only after returning it, freeing himself from the trap of temptation.
 
 ## 21. The peddler comes out as a person with a subtle sense of humor. How does this serve to lighten the seriousness of the theme of the store and also endear him to us? 
-The peddler shows a subtle sense of humor with the ironmaster and his daughter after they learn the truth about him. Unconcerned about the consequences, he amuses the ironmaster with his rattrap metaphor and sends a humorous letter with a Christmas present to Edla. This lightens the story's tone and makes him endearing to the reader.
+The peddler's subtle humor emerges after his truth is revealed. He amuses the ironmaster with his rattrap metaphor and sends Edla a witty letter with a Christmas gift, adding charm and lightening the story's tone.
