@@ -55,10 +55,10 @@ The peddler deceives the crofter for company and seeks money from the ironmaster
 The ironmaster impulsively mistakes the stranger for an old comrade and warmly welcomes him. However, upon realizing the truth, he accuses him of deceit and threatens to call the Sheriff. In contrast, his daughter, though suspecting the stranger’s dishonesty, remains gentle and kind, treating him with care even after the misunderstanding is cleared.
 
 ## 19. What made the peddler finally change his ways? 
-Edla's kindness and compassion inspired the peddler to change, as she hosted him and interceded for him despite knowing the truth.
+Edla's kindness and compassion inspired the peddler to change, as she hosted him and defended him despite knowing the truth.
 
 ## 20. How does the metaphor of the rattrap serve to highlight the human predicament? 
 The world lures people with riches and comforts like a rattrap. The peddler fell for the crofter's money but found peace only after returning it, freeing himself from the trap of temptation.
 
-## 21. The peddler comes out as a person with a subtle sense of humor. How does this serve to lighten the seriousness of the theme of the store and also endear him to us? 
+## 21. The peddler comes out as a person with a subtle sense of humor. How does this serve to lighten the seriousness of the theme of the story and also endear him to us? 
 The peddler's subtle humor emerges after his truth is revealed. He amuses the ironmaster with his rattrap metaphor and sends Edla a witty letter with a Christmas gift, adding charm and lightening the story's tone.
