@@ -20,27 +20,18 @@ Electrical circuits can be either functional or open type.
 ## Circuit Diagrams 
 ![diagram](./img/3-diagram.jpg) 
 
-## Procedure 
-1. Draw the given circuit diagram in the notebook. 
-2. In the diagram, mark the components which have not been connected in proper order. 
-3. Make a list of all components in the observation table and mark a tick in appropriate column against each component. 
-4. Now draw the correct circuit diagram. 
-5. Assemble and connect the electrical components in accordance with the corrected circuit diagram.
-6. Insert a plug in the key and note the deflections in ammeter and voltmeter. Deflections in these meters towards right hand side verify that the corrected circuit is functional. 
-
 ## Observations 
 | S. No. | Circuit component | Correct connection | Incorrect connection |  
 |:-:|-|:-:|:-:|
-| 1. | Battery | | |
-| 2. | Resistor | | | 
-| 3. | Rheostat | | | 
-| 4. | Key | | | 
-| 5. | Ammeter | | | 
-| 6. | Voltmeter | | |
+| 1. | Battery | b, c, d | a |
+| 2. | Resistor | a, b | c, d | 
+| 3. | Rheostat | a, b, d | c | 
+| 4. | Key | b, c, d | a | 
+| 5. | Ammeter | a, b, c, d| | 
+| 6. | Voltmeter | | a, b, c, d |
 
 ## Corrected Circuit Diagram 
-> [!CAUTION]
-> To be fill on the day of activity.
+![correct diagram](./img/3-correct-diagram.jpg)
 
 ## Result 
 The circuit assembled by connecting components in proper order is functionally correct as verified by passing current through it. 
