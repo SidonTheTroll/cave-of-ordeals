@@ -18,6 +18,8 @@ To prepare a temporary mount of the given root tip to study different stages of 
 
 ## Procedure 
 ### Growing and Preservation of Onion Roots 
+<img align=right src="./img/ex-7/onion-root-growth.jpg" width=300>
+
 1. Take an onion bulb of medium size and remove its old roots from its base with the help of scissor. 
 2. Place this onion bulb on a conical flask filled with water. Make it ensure that base of the onion is in touch with water. Keep it for 5 to 7 days till new roots emerge out.
 3. Cut these fresh roots and fix them in mixture of acetic acid and methyl alcohol (1:3 ratio) for future use. 
@@ -60,6 +62,8 @@ It is indirect nuclear division and is completed under the following phases:
 
 ### 2. Cytokinesis 
 A cell plate is formed at the equatorial plate. This place starts in the center and expands centrifugally until it divides the cell into two parts.
+
+<img src="./img/ex-7/stages.jpg">
 
 ## Precautions 
 1. Use neat and clean slide for preparing a mount of root tip. 
