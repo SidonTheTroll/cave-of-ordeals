@@ -14,16 +14,6 @@ To identify a diode, an LED, a resistor and a capacitor from a mixed collection 
 ## Diagrams 
 ![diagram](./img/4-diagram.jpg) 
 
-## Procedure 
-1. Look at the color bands on the given components. If a component has set of three color bands followed by a silver or gold band, then component is a resistor. 
-2. Insert the black and red leads (or probes) into common and positive terminals of the multimeter. Turn its selector switch to resistance mode - highest range (0-M$\Omega$).
-3. Touch the two probes to the two ends of each component one by one. Note the direction of deflection in the multimeter. Interchange the positions of two probes for each component and again note the deflection. 
-4. If the multimeter shows an equal deflection in both directions, then the component is a resistor. 
-5. If a multimeter shows deflection in one direction without any emission of light from the component and no deflection in the opposite direction, then the component is a diode. 
-6. If the multimeter shows deflection in one direction alongside with the emission of light from the component and no deflection in the opposite direction, then the component is an LED. 
-7. If the multimeter doesn't show any deflection on connecting its probes either way to a component, then the component is a capacitor. But if the capacitance of the capacitor is large, the multimeter will show a large deflection initially which decreases to zero. 
-8. Record all your observations in a tabular form. 
-
 ## Observations 
 | Item Code | State of conduction of a component | Identified component | 
 |:-:|:-|:-:|
