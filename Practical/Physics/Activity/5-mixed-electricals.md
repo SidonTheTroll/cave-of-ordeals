@@ -12,7 +12,7 @@ To identify a diode, an LED, a resistor and a capacitor from a mixed collection 
 - **Capacitor**: a two terminal device which offers infinite resistance to DC but has finite reactance for AC. When connected across a DC source, a multimeter shown a large current initially (for C > $\mu$F) which decreases to zero quickly. This is because the capacitor initially draws a charge. 
 
 ## Diagrams 
-![diagram](./img/4-diagram.jpg) 
+![diagram](./img/5-diagram.jpg) 
 
 ## Observations 
 | Item Code | State of conduction of a component | Identified component | 

@@ -19,7 +19,7 @@ $$
 \text{Angle of incidence } i = \text{Angle of emergence } e 
 $$
 
-![theory](./img/5-theory.jpg) 
+![theory](./img/6-theory.jpg) 
 
 Thus the emergent ray CD is parallel to the incident ray AB. But the emergent ray gets laterally displayed with respect to the incident ray. The perpendicular distance between the incident and emergent rays, when light is incident obliquely on a refracting slab with parallel faces, it is called lateral shift or lateral displacement. 
 
@@ -38,7 +38,7 @@ The lateral shift produced by a glass slab increases with
 3. The increase in refractive index $\mu$ of the glass slab. 
 
 ## Ray Diagrams 
-![diagram](./img/5-diagram.jpg) 
+![diagram](./img/6-diagram.jpg) 
 
 ## Observations 
 - Least count of the protractor = 1 degrees 
@@ -54,7 +54,7 @@ The lateral shift produced by a glass slab increases with
 | 3. | $t_3$ | 40 | 40 | 0 | 0.9 | 0.47 |
 
 ## Experiment Sheet
-![Sheet](./img/5-experiment-sheet.jpg)
+![Sheet](./img/6-experiment-sheet.jpg)
 
 ## Result 
 1. As difference i - e is small, so i = e. When light refracts through a glass slab, the emergent raw is parallel to the direction of the incident ray. 
