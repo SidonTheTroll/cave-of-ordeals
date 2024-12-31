@@ -12,6 +12,8 @@ The following stages of meiosis in grasshopper testis has been observed under hi
 This process of meiosis takes place in two steps namely, Meiosis I and Meiosis II.  
 Meiosis I is completed under Prophase I, Metaphase I, Anaphase I and Telophase I. 
 
+![stages](./img/ex-11/stages.jpg)
+
 ### 1. Prophase I  
 It is very complex and of long duration. It is completed under five sub-stages- leptotene, zygotene, pachytene, diplotene and diakinesis.
 
