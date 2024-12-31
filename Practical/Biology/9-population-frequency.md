@@ -21,7 +21,7 @@ $$
 $$
 
 ## Observations 
-![table](./img/10-frequency-table.png)
+![table](./img/ex-9/frequency-table.png)
 
 ## Discussion 
 Frequency can be expressed in percentage calculated by dividing the number of quadrates in which a species occurs by the total number of quadrates. 
