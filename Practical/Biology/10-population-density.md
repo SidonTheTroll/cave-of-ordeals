@@ -16,6 +16,10 @@ To study the population density of plants of a given area by the quadrate method
 6. Repeat the same procedure till the whole area of 50x50 sq. meter is covered. 
 7. Count and add the total number of plant species of all the squares to get the total number of a particular species of the quadrate. 
 
+![quadrate-method](./img/ex-10/quadrate-method.jpg)
+![graphs](./img/ex-10/graphs.jpg)
+![quadrate](./img/ex-10/quadrate.jpg)
+
 Quadrate can be of any size and to calculate the size of quadrates, the data recorded in observation-I is analyzed by drawing a graph/histogram on two axis- X-axis is taken for number of species and Y-axis for the size of quadrate. When the graph shows flattened or no further gradual increase of species, this point is taken as minimum area of the quadrant required for study of species. In the below mentioned graph, a quadrant is considered for 50x50 cm. 
 
 8. Repeat the same for 3rd, 4th quadrates and so on. 
