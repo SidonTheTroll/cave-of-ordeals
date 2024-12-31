@@ -41,18 +41,20 @@ The lateral shift produced by a glass slab increases with
 ![diagram](./img/5-diagram.jpg) 
 
 ## Observations 
-- Least count of the protractor = degrees 
-- Least count of the ruler = mm = cm 
-- Breadth of the glass slab, $t_2$ = cm 
-- Length of the glass slab, $t_1$ = cm 
-- Thickness of the glass slab, $t_3$ = cm 
+- Least count of the protractor = 1 degrees 
+- Least count of the ruler = 1 mm = 0.1 cm 
+- Breadth of the glass slab, $t_1$ = 6.15 cm 
+- Length of the glass slab, $t_2$ = 10.2 cm 
+- Thickness of the glass slab, $t_3$ = 1.9 cm 
 
 |S.No.|Thickness of glass slab traversed|Angle of incidence i (degrees)|Angle of emergence e (degree)| Difference i - e (degrees)|Lateral displacement d (cm)|Ratio $\frac{d}{t}$|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1. | $t_1$ | 40 | | | $d_1$ | |
-| 2. | $t_2$ | 40 | | | $d_2$ | |
-| 3. | $t_3$ | 40 | | | $d_3$ | |
-| 4. | $t_4$ | 40 | | | $d_4$ | |
+| 1. | $t_1$ | 40 | 39 | 1 | 2.4 | 0.39 |
+| 2. | $t_2$ | 40 | 40 | 0 | 4.6 | 0.45 |
+| 3. | $t_3$ | 40 | 40 | 0 | 0.9 | 0.47 |
+
+## Experiment Sheet
+![Sheet](./img/5-experiment-sheet.jpg)
 
 ## Result 
 1. As difference i - e is small, so i = e. When light refracts through a glass slab, the emergent raw is parallel to the direction of the incident ray. 
