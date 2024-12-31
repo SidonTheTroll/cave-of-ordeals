@@ -26,15 +26,6 @@ To protect the appliances from damage due to excessive currents, a fuse of ratin
 ## Circuit Diagram 
 ![diagram](./img/1-diagram.jpg) 
 
-## Procedure 
-1. As shown in the diagram, connect the three bulbs $B_1, B_2$ and $B_3$ separately in series combinations with on/off switches $S_1, S_2$ and $S_3$ respectively. 
-2. Connect these three bulb-switch combinations in parallel across the live and neutral wires. 
-3. Connect a fuse F of proper rating in the live wire of the circuit. 
-4. Connect a three way socket at the end of live and neutral wires. Connect a wire from its earth pin.
-5. Insert the plug in the socket fitted on the main electric board. 
-6. By pressing the switches $S_1, S_2$ and $S_3$ one by one, check that each bulb is switched on and off independently of each other. 
-7. Press the three switches simultaneously and see what happens. 
-
 ## Conclusions 
 1. Each bulb functions independently of the other through a separate switch. 
 2. The three bulbs can function simultaneously with the installed fuse safely. 
