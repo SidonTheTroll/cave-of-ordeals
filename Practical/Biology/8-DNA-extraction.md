@@ -14,6 +14,7 @@ To extract DNA from spinach leaves.
 10. Strainer 
 
 ## Procedure 
+<img align=right src="./img/ex-8/isolation.jpg" width=400>
 1. Take 1/2 cup of spinach leaves. Put them in a blender with one cup of water and one table spoon of salt. 
 2. Blend it at high speed so that it may become 'soupy' mixture.
 3. Pour the soupy mixture through a strainer into class measuring cup or beaker. Now add 1/6 of liquid detergent to the total volume and swirl to mix for about ten minutes. 
