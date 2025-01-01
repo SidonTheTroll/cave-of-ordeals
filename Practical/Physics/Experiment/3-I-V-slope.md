@@ -1,47 +1,3 @@
-# Readings from Circuit 
-
-## Extremes 
-### Initial 
-mA = 0  
-V = 0 
-
-### Final 
-mA = 500  
-V = 2.5 
-
-## Readings 
-### Case 1 
-mA = 10  
-V = 0.05 
-
-### Case 2 
-mA = 20  
-V = 0.1 
-
-## Case 3 
-mA = 30  
-V = 0.15 
-
-### Case 4 
-mA = 40   
-V = 0.2 
-
-### Case 5 
-mA = 50   
-V = 0.25 
-
-### Case 6 
-mA = 60  
-V = 0.3 
-
-### Case 7 
-mA = 70  
-V = 0.35 
-
-### Case 8 
-mA = 80  
-V = 0.4 
-
 # Aim of the Experiment 
 To determine the resistivity of given wire by plotting a graph of potential difference versus current. 
 
@@ -109,4 +65,4 @@ Resistivity, $\rho = \frac{R\pi r^2}{l}=0.04\ \Omega m$
 # Sources of Error 
 1. The wire used may not be of uniform area of cross section. 
 2. Resistance of wire may change due to excessive heating. 
-3. There may be an error in the measurments of radius of the wire due to backlash error in the screw gauge. 
+3. There may be an error in the measurements of radius of the wire due to backlash error in the screw gauge. 
