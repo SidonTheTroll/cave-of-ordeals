@@ -60,6 +60,8 @@ Where,
 | 9. | 9 | 79.4 | 79.4 | 20.6 | 2.33 | 
 | 10. | 10 | 79.6 | 79.6 | 20.4 | 2.56 | 
 
+- Mean value of S = 2.49 $\Omega$
+
 ## Result 
 Resistance of the given wire = 2.49 $\Omega$
 

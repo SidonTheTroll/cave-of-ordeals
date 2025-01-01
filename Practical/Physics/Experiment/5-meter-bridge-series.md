@@ -20,6 +20,9 @@ $$
 
 2. **Law of Series combination of resistances**: when two resistances $R_1$ and $R_2$ are connected in series, their equivalent resistance $R_S$ is given by: $R_S = R_1 + R_2$
 
+## Circuit Diagram
+![circuit diagram](./img/5-circuit-diagram.jpg) 
+
 ## Observations  
 - Material: **nichrome**
 - Least count of meter scale: **0.1 cm** 
