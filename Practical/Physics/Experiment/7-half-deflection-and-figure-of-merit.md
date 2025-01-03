@@ -24,7 +24,7 @@ $$
 where $\theta$ is the deflection produced with series resistance R and $\mathcal{E}$ is the emf of the battery. 
 
 ## Circuit Diagrams 
-|<img src="./img/8-diagram-1.jpg">|<img src="./img/8-diagram-2.jpg">|
+|<img src="./img/7-diagram-1.jpg">|<img src="./img/7-diagram-2.jpg">|
 |-|-|
 
 ## Observations and Calculations 

@@ -27,7 +27,7 @@ $$
 $$
 
 ## Diagrams 
-![diagram](./img/9-diagram.jpg) 
+![diagram](./img/8-diagram.jpg) 
 
 ## Practical Record 
 ![page1](./img/8-paper-1.jpg) 

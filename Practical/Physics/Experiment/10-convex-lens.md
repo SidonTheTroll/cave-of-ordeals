@@ -10,7 +10,7 @@ To find the focal length of convex lens.
 6. Half meter scale 
 
 ## Theory/Working Formula 
-1. If an object needle is placed between f and 2f of a convex lens, its real, inverted and magnifed image is formed beyond 2f on the other side of the lens. By placing another needle, called image needle there, we can locate the image of the first needle by removing the parallax between the image and the second needle itself. 
+1. If an object needle is placed between f and 2f of a convex lens, its real, inverted and magnified image is formed beyond 2f on the other side of the lens. By placing another needle, called image needle there, we can locate the image of the first needle by removing the parallax between the image and the second needle itself. 
 
 2. The relation between the object distance u, image distance v, and focal length f of a convex lens is given by the thin lens formula, 
 
@@ -28,8 +28,10 @@ According the new Cartesian sign convention, u is negative and v is positive whe
 - Index correction for object distance $u = e_1 = x-y =$
 - Index correction for image distance $v = e_2 = x-z =$
 
+![table](./img/10-table.png)
+
 ## Result 
-Focal length of the convex lens calculated from u and v values of f = $\frac{uv}{u-v}=$ 9.75 cm 
+Focal length of the convex lens calculated from u and v values of $f = \frac{uv}{u-v}=$ 9.75 cm 
 
 ## Precautions 
 1. The uprights should be rigid and vertical. 
