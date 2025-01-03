@@ -20,6 +20,9 @@ $$
 
 According the new Cartesian sign convention, u is negative and v is positive when a convex lens forms a real image. Also, f is positive for a convex lens. 
 
+## Ray Diagram 
+![raydiagram](./img/10-diagram.jpg) 
+
 ## Observations and Calculations 
 - Rough focal length of a convex lens = 10 cm 
 - Actual length of needle, x = 
