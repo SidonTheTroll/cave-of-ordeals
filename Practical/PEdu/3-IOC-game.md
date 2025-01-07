@@ -1,5 +1,5 @@
 # Marathon
-A marathon is a long-distance running event covering a standard distance of **42.195 kilometers (26.2 miles)**. It is considered one of the most grueling endurance sports, requiring physical resilience, stamina, and mental determination.
+A marathon is a long-distance running event covering a standard distance of **42 kilometers (26 miles)**. It is considered one of the most grueling endurance sports, requiring physical resilience, stamina, and mental determination.
 
 ## Field and Equipment
 - **Field**:  
@@ -20,11 +20,11 @@ A marathon is a long-distance running event covering a standard distance of **42
 5. **Number Bibs**: The runner's number bib must be visible on the front of their outfit throughout the event.  
 
 ## Terminologies
-- **Pace**: The time it takes to run a mile or kilometer (e.g., 6 minutes per mile).  
-- **Splits**: Times recorded at specific points along the race, such as each mile or kilometer.  
-- **Hitting the Wall**: A term describing the sudden depletion of energy, often occurring around the 20th mile due to glycogen exhaustion.  
-- **Negative Split**: Running the second half of the race faster than the first.  
-- **Carb-Loading**: Consuming carbohydrate-rich meals in the days leading up to the marathon to maximize muscle glycogen stores.  
+1. **Pace**: The time it takes to run a mile or kilometer (e.g., 6 minutes per mile).  
+2. **Splits**: Times recorded at specific points along the race, such as each mile or kilometer.  
+3. **Hitting the Wall**: A term describing the sudden depletion of energy, often occurring around the 20th mile due to glycogen exhaustion.  
+4. **Negative Split**: Running the second half of the race faster than the first.  
+5. **Carb-Loading**: Consuming carbohydrate-rich meals in the days leading up to the marathon to maximize muscle glycogen stores.  
 
 ## Skills
 1. **Endurance**: Building stamina through months of training is fundamental.  
