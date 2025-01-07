@@ -57,4 +57,7 @@ Back pain and arthritis often occur together, with arthritis causing inflammatio
 ## Ardha Chakrasana 
 - **Procedure:** Stand straight with both feet and hold your hip with your hands. Bent backward without bending your knees with slow inhalation. Repeat for 2 or 3 times. 
 - **Benefits:** Relieves stress and tension, improves digestion, cures leg pain and reduces fat in legs. 
-- **Contraindications:** avoid if suffering from migrane, headache, hypotension and spinal or hip problems and pulvic ulcer and hernia.  
+- **Contraindications:** avoid if suffering from migrane, headache, hypotension and spinal or hip problems and pulvic ulcer and hernia. 
+
+# Conclusion  
+Yoga offers effective relief for lifestyle diseases, improving physical and mental health. Regular practice of specific asanas can enhance well-being and support long-term disease management.

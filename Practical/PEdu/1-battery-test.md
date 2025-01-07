@@ -75,3 +75,6 @@ Normal push-ups (boys) involve lowering and lifting your body with your arms whi
 - **Procedure:** To perform the sit and reach test, sit on the floor with your legs extended straight ahead and feet against the box. Reach slowly forward with both hands as far as possible, keeping your knees straight and your back flat. Hold the stretch briefly, then measure how far your fingertips reach beyond your toes. Repeat the test a few time and record the best results. 
 
 - **Scoring:** The score is recorded to the nearest centimeter or half inch based on the distance reached by the fingertips of both hands.
+
+# Conclusion  
+The SAI Battery of Tests promotes comprehensive physical fitness assessment for students, encouraging healthy habits and holistic development. It helps educators guide students toward active, healthy lifestyles.
