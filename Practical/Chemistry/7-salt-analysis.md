@@ -11,7 +11,7 @@ Solubility: Soluble in water
 | Experiment | Observation | Inference | 
 |-|-|-| 
 | 1. Heat a pinch of the salt in dry test tube | 1. Change in color of residue: | | 
-| | (a) Neither yellow nor white when clold | $Zn^{2+}$ absent | 
+| | (a) Neither yellow nor white when cold | $Zn^{2+}$ absent | 
 | | (b) Yellow in both hot and cold | $Pb^{2+}$ present | 
 | | (c) Neither red when hot or yellow when cold. | $Fe^{3+}$ absent | 
 | | (d) Not black in in both hot & cold conditions | $Cu^{2+},Co^{2+},Mn^{2+}$ absent | 
