@@ -2,7 +2,7 @@
 A marathon is a long-distance running event covering a standard distance of **42 kilometers (26 miles)**. It is considered one of the most grueling endurance sports, requiring physical resilience, stamina, and mental determination.
 
 ## Field and Equipment
-<img src="./img/gps-watch.jpg" width=400><img src="./img/hydration-belt.jpg" width=400>
+<img src="./img/gps-watch.jpg" width=200><img src="./img/hydration-belt.jpg" width=400>
 
 - **Field**:  
   - Marathons are generally run on paved roads but can sometimes include sections of trails or cross-country paths.  
