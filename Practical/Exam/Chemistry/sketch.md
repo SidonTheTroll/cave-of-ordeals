@@ -47,8 +47,8 @@ When writing, show the absence of desired inference once or twice.
 > Titration is only done for M/20 solution.
 
 - Answers to be written: 
-    - **Molarity:** 0.1 M 
-    - **Strength:** 
+    - **Molarity:** 0.05 M 
+    - **Strength:** 7.9 g/L
 
 - Points to be written: 
     - Aim, Theory, Table, Calculation, Conclusion
