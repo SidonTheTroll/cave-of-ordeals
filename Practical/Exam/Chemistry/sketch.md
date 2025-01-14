@@ -16,6 +16,8 @@ When writing, show the absence of desired inference once or twice.
 | -------------- | --------------- |
 | Chloride, sulfate | Ammonium, Aluminum, Barium |
 
+- Write the formula of each radical in the conclusion.
+
 ### Dry Test of Acid Radical
 - Action of dilute $HCl$
     - One or two absent
@@ -31,6 +33,7 @@ When writing, show the absence of desired inference once or twice.
     - **Group 3:** Aluminum 
     - **Group 5:** Barium
 - Then write absent for other groups.
+
 
 > [!IMPORTANT]
 > - All salts are water soluble. 
