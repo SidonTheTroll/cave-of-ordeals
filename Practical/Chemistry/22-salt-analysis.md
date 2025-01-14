@@ -26,7 +26,7 @@ Solubility: soluble in water
 | | (v) No reddish-brown vapors | $Br^-$ absent | 
 | | (vi) No violet vapors | $I^-$ absent | 
 
-## Dry Test for Acid Radical 
+## Wet Test for Acid Radical 
 ### Action of dil. $HCl$: 
 
 | Experiment | Observation | Inference | 
@@ -74,7 +74,6 @@ We have used water extract by dissolving the salt in water.
 | Extract + dil. Acetic acid + $CaCl_2$ solution | No white PPT | $C_2O_4^{2-}$ |
 | | | |
 | Extract + $FeCl_3$ solution | No blood red coloration | $CH_3COO^-$ absent |
-
 
 ### Wet Test for Basic Radical 
 | Group | Reagent | Basic Radical | Acid Radical | 
