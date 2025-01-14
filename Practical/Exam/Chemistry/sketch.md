@@ -46,3 +46,9 @@ When writing, show the absence of desired inference once or twice.
 > **Procedure isn't required for this experiment.**  
 > Titration is only done for M/20 solution.
 
+- Answers to be written: 
+    - **Molarity:** 0.1 M 
+    - **Strength:** 
+
+- Points to be written: 
+    - Aim, Theory, Table, Calculation, Conclusion
