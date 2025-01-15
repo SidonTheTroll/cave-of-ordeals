@@ -1,5 +1,3 @@
-# Salt Analysis
-
 ## Aim of the Experiment 
 To detect/analyze of one anion and one cation in a given sample. 
 
@@ -23,7 +21,7 @@ To detect/analyze of one anion and one cation in a given sample.
 
 ## Physical Characteristics 
 - **Color:** white 
-- **Appearance:** amorphous 
+- **Appearance:** crystalline 
 - **Odor:** odorless
 - **Solubility:** soluble in water 
 
@@ -36,33 +34,29 @@ To detect/analyze of one anion and one cation in a given sample.
 ## Wet Test for Basic Radical 
 | Experiment | Observation | Inference | 
 |:-|:-|:-:|
-| 1. Salt + conc. $NaOH$ | No white fumes | Group 0 absent | 
-| 2. Salt + dil. $HCl$ | No white ppt. | Group I absent | 
+| 1. Salt + conc. $NaOH$ | No white fumes | Group 0 present | 
+| 2. Salt + dil. $HCl$ | white ppt. | Group I absent | 
 | 3. Salt + dil. $HCl + H_2S$ gas | No black ppt. | Group II absent | 
 | 4. Salt + conc. $HCl + NH_4Cl + NH_4OH$ | No reddish brown ppt | Group III absent | 
 | 5. Salt + $NH_4Cl + NH_4OH + H_2S$ gas | No black/pink/white ppt. | Group IV absent | 
-| 6. Salt + $NH_4Cl + NH_4OH + (NH_4)_2CO_3$ | White ppt. | Group V present | 
+| 6. Salt + $NH_4Cl + NH_4OH + (NH_4)_2CO_3$ | White ppt. | Group V absent | 
 | 7. Salt + $N_2$ | - | Group VI absent | 
 
-## Analysis of Group V 
-Dissolve the ppt. in hot dil. acetic acid. 
-Divide the solution into 3 parts. 
-
+## Analysis of Group I
 | Experiment | Observation | Inference | 
 |:-|:-|:-:|
-| In the first part of the solution, add potassium chromate solution | Yellow salt | $Ba_2^+$ present | 
-| In the second part of the solution, add 1-2 ml of $(NH_4)_2SO_4$ solution | No white ppt. | $Sn^{2+}$ absent | 
-| In the third part of the solution, add 1-2 ml of ammonium oxalate solution and warm it on a water bath | No white ppt. | $Ca^{2+}$ absent | 
+| 1. Heat salt + $NaOH$ + Bring a glass rod dipped in dil. $HCl$ near the mouth of the test tube. | Dense white fumes | $NH_4^+$ present | 
+| Heat salt + $NaOH$ + Nessler reagent (Potassium tetraiodomercurate) | Brown ppt. | $NH_4^+$ confirmed 
 
 ## Chemical Reaction 
 - For acid radical
     - $NaCl + AgNO_3 \rightarrow AgCl + NaNO_2$
     - $AgCl + 2NH_3 \rightarrow [Ag(NH_3)_2]^+ + Cl^-$
 - For basic radical 
-    - $(CH_3COO)_2Ba + K_2CrO_4 \rightarrow BaCrO_4 + 2CH_3COOK$ 
+    - $(NH_4^+ + 2[HgI_4]^{2-} + 4OH^- \rightarrow HgO + Hg(NH_2)I \underset{\text{Brown ppt.}}{\downarrow}) + 7I^- +3H_2O$ 
 
 ## Result 
 - Acid radical: Chloride $(Cl^-)$
-- Basic radical: Barium $(Ba_2^+)$
+- Basic radical: Ammonium $(NH_4^+)$
 
-The given sample is **Barium Chloride** $(BaCl)$
+The given sample is **Barium Chloride** $(NH_4Cl)$
