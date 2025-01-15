@@ -18,6 +18,8 @@ Organic compounds which contain $-COOH$ group are called carboxylic acids
 
 *For example:*
 
+<img src="./img/acetic-acid.png">
+
 These are organic acids and are weaker than mineral acid. The carboxyl group can be detected by litmus and ester test. 
 
 | S. No. | Name of Experiment | Experiment | Observation | Inference | 
