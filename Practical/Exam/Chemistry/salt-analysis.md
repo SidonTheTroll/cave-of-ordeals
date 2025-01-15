@@ -1,106 +1,67 @@
-# Salt Analysis
-
-## Aim of the Experiment 
-To detect/analyse of one anion and one cation in a given sample. 
-
-## Apparatus Required
-1. Test tubes
-2. Boiling tube 
-3. Beakers 
-4. Glass rod 
-5. Burner 
-6. Wire Gauze 
-7. Test tube holder 
-8. Measuring cylinder
-9. Test tube stand 
-10. Corks 
-11. Funnel 
-12. Spatula 
-
-## Chemical Required 
-1. Given salt sample 
-2. Reagents as per requirements of the test 
+## Aim of the experiment 
+To determine the acid and basic radical in the given salt sample. 
 
 ## Physical Characteristics 
-- **Color:** *write from observation* 
-- **Appearance:** *write from observation* 
-- **Odor:** *write from observation* 
-- **Solubility:** Water soluble
+- **Color:** white 
+- **Appearance:** amorphous 
+- **Odor:** odorless
+- **Solubility:** soluble in water 
 
-## Wet Test for Basic Radical 
-1. Distilled water (hot/cold)
-2. Dilute $HCl$ (hot/cold)
-3. Concentrated $HCl$ (hot/cold)
+## Dry Test for Basic Radical 
+### Action of Heat
+| Experiment | Observation | Inference | 
+|:-:|:-|:-:|
+| 1. Heat a pinch of salt in a dry test tube. | Salt fuses | $Ba^{2+}$ present |  
+| | Sublimate formed | $NH_4^+$ absent | 
 
-Solubility of inorganic salt in the above solvents may often help to identify some basic radicals. 
+## Dry Test for Acid Radical 
+### Action of dil. $HCl$
+| Experiment | Observation | Inference |
+|:-:|:-|:-:|
+| Salt + dil. $HCl$ + warmed | No colorless or odorless gas formed | $CO_3^{2-}$, $HCO_3^-$ absent | 
+| | No colorless gas with smell of vinegar formed | $CH_3COO$ absent | 
 
-<div align=center>
-
-| <center> Solvent | <center> Salt | 
-|:-|:-|
-| 1. Cold water | (a) All $NH_4$, $Na$ and $K$ salts. 
-| | (b) All nitrates, nitrites and acetates | 
-| | (c) Most of the sulfates except those of $Pb,\ Ba,\ Ca,\ Sr$
-| | (d) All chlorides exceps that of lead | 
-| 2. Hot water | Lead chloride, lead nitrate 
-| | All carbonates which don't dissolve in water, i.e., carbonates of $Ca,\ Ba,\ Sr,\ Mg,\ Fe,\ etc$ but not of $PbS$
-
-</div>
-
-The usual procedures for analyzing a salt involves the systematic separation of basic radicals into groups. The table given below gives briefly the classification of basic radicals into groups of reagents and the form in which they are precipitated. 
-
-<div align=center>
-
-| <center> Group | <center> Group Reagent | <center> Basic Reagent | <center> Form in which basic radicals are precipitated | 
-|:-:|:-|:-:|:-:|
-| 1. | Dilute $HCl$ | $Pb^{2+},\ Hg^{2+}(\text{ous}),\ Ag^+$ | Chlorides | 
-| 2. | $H_2S$ in presence of dilute $HCl$ | $Pb^{2+},\ Cu^{2+},\ As^{3+},\ Hg^{2+},\ Cd^{2+},\ Bi^{3+},\ Sb^{3+},\ Sn^{2+}$ | Sulfides | 
-| 3. | $NH_4OH$ in presence of $NH_4Cl$ | $Fe^{3+},\ Al^{3+},\ Cr^{3+}$ | Hydroxides | 
-| 4. | $H_2S$ in presence of $NH_4OH$ | $Ni^{2+},\ Mn^{2+},\ Zn^{2+},\ Co^{2+}$ | Sulfides | 
-| 5. | $(NH_4)_2CO_3$ in the presence of $NH_4OH$ | $Ca^{2+},\ SrA^{2+},\ Be^{2+}$ | Carbonates 
-| 6. | --- | $Mg^{2+},\ Na,\ K$ | --- | 
-
-</div>
-
-### Division of the Basic Radicals (cations) in Different Groups (group separation)
-
-<div align=center>
-
-| <center> Experiments | <center> Observation | <center> Inference | 
-|-|-|-|
-| $1.$ Add dilute $HCl$ to the salt solution. | White ppt | Group I present | 
-| $2.$ Add dilute $HCl$ to the salt solution and then pass $H_2S$ gas | Black ppt | Group 2 present | 
-| $3.$ Boil salt solution with salt + $HCl$ and add $NH_4Cl$ and $NH_4OH$ solution in excess | | Group 3 present | 
-| | (a) Reddish-brown ppt | $Fe$ salt | 
-| | (b) White gelatinous ppt | $Al$ salt |
-| $4.$ Add $NH_3Cl$ and $NH_4OH$ to salt solution and pass $H_2S$ gas | | Group 4 present | 
-| | (a) Black ppt | $Co$ salt | 
-| | (b) Pink ppt | $Mn$ salt | 
-| | (c) White ppt | $Zn$ salt | 
-| $5.$ Add $NH_4OH$ and $(NH_4)_2CO_3$ to the salt solution | White ppt | Group 5 present maybe $Ca,\ Ba,\ Sr$ salt | 
-| $6.$ No particular group reagent | --- | Group 6 $Mg$ salt | 
-
-</div>
-
-<div style="page-break-after: always;"></div>
+### Action of conc. $H_2SO_4$
+| Experiment | Observation | Inference |
+|:-:|:-|:-:|
+| 1. Salt + conc. $H_2SO_4$ + heat | Colorless gas with pungent smell formed | $Cl^-$ present | 
 
 ## Wet Test for Acid Radical 
+| Experiment | Observation | Inference |
+|:-:|:-|:-:|
+| Extract + dil. $HNO_3 + AgNO_3$ | White ppt. formed | $Cl^-$ present | 
+| Extract + dil. $HCl + BaCl_2$ | No white ppt. | $SO_4^{2-}$ absent | 
+
+## Wet Test for Basic Radical 
 | Experiment | Observation | Inference | 
-|-|-|-|
-| 1. Extract + dil. $HCl$ + $BaCl_2$ + heat | White ppt. | $SO_4^{2-}$ present | 
-| 2. Extract + dil. $HNO_3$ + $AgNO_3$ | White ppt. | $Cl^-$ present | 
-| 3. Extract + dil. $HCl$ + $BaCl_2$ + $Br_2 (aq)$ + heat | No white ppt. | $SO_3^{2-}$ absent | 
-| 4. Extract + dil. $H_2SO_4$ + $BaCl_2$ + $FeSO_4$ + conc. $H_2SO_4$ | No brown ring | $NO_3^-$ absent | 
+|:-|:-|:-:|
+| 1. Salt + conc. $NaOH$ | No white fumes | Group 0 absent | 
+| 2. Salt + dil. $HCl$ | No white ppt. | Group I absent | 
+| 3. Salt + dil. $HCl + H_2S$ gas | No black ppt. | Group II absent | 
+| 4. Salt + conc. $HCl + NH_4Cl + NH_4OH$ | No reddish brown ppt | Group III absent | 
+| 5. Salt + $NH_4Cl + NH_4OH + H_2S$ gas | No black/pink/white ppt. | Group IV absent | 
+| 6. Salt + $NH_4Cl + NH_4OH + (NH_4)_2CO_3$ | White ppt. | Group V present | 
+| 7. Salt + $N_2$ | - | Group VI absent | 
 
-## Conclusion 
-From the experiments conducted above it is found that the given salt was ***salt name here*** (Ammonium chloride, ammonium sulfate, aluminum sulfate, barium chloride)
+## Analysis of Group V 
+Dissolve the ppt. in hot dil. acetic acid. 
+Divide the solution into 3 parts. 
 
-### Reactions involved: 
-1. **Chloride ions $(Cl^-)$:** 
-    - $Cl^- + H_2SO_4 \rightarrow HSO_4^- + HCl$
-    - $HCl + NH_4OH \rightarrow NH_4Cl + H_2O$
-2. **Sulfate ions?
+| Experiment | Observation | Inference | 
+|:-|:-|:-:|
+| In the first part of the solution, add potassium chromate solution | Yellow salt | $Ba_2^+$ present | 
+| In the second part of the solution, add 1-2 ml of $(NH_4)_2SO_4$ solution | No white ppt. | $Sn^{2+}$ absent | 
+| In the third part of the solution, add 1-2 ml of ammonium oxalate solution and warm it on a water bath | No white ppt. | $Ca^{2+}$ absent | 
 
-<div style="page-break-after: always"></div>
+## Chemical Reaction 
+- For acid radical
+    - $NaCl + AgNO_3 \rightarrow AgCl + NaNO_2$
+    - $AgCl + 2NH_3 \rightarrow [Ag(NH_3)_2]^+ + Cl^-$
+- For basic radical 
+    - $(CH_3COO)_2Ba + K_2CrO_4 \rightarrow BaCrO_4 + 2CH_3COOK$ 
 
-1. 
+## Result 
+- Acid radical: Chloride $(Cl^-)$
+- Basic radical: Barium $(Ba_2^+)$
+
+The given sample is **Barium Chloride** $(BaCl)$
