@@ -25,7 +25,7 @@ These are organic acids and are weaker than mineral acid. The carboxyl group can
 | S. No. | Name of Experiment | Experiment | Observation | Inference | 
 |:-:|:-|:-|:-|:-|
 | 1. | Litmus test | Take a clean and dry test tube and add into litmus paper | Blue litmus paper turns red | Carboxylic group is present | 
-| 2. | Ester test | Take a clean and dry test tue and add into it | Pleasent fruity smell | Carboxylic group confirmed | 
+| 2. | Ester test | Take a clean and dry test tue and add into it | Pleasant fruity smell | Carboxylic group confirmed | 
 
 ### Reaction involved: 
 
