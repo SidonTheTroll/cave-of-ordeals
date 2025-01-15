@@ -27,24 +27,6 @@ To detect/analyze of one anion and one cation in a given sample.
 - **Odor:** odorless
 - **Solubility:** soluble in water 
 
-## Dry Test for Basic Radical 
-### Action of Heat 
-| Experiment | Observation | Inference |
-|-|-|-|
-| 1. Heat a pinch of the salt in a dry test tube | 1. Change in color of the residue: |  |
-| | (i) Neither yellow nor white when cold | $Zn^{2+}$ absent | 
-| | (ii) Yellow in both hot and cold. | $Pb^{2+}$ present | 
-| | (iii) Neither red when hot nor yellow when cold. | $Fe^{2+}$ absent | 
-| | (iv) Not black in both hot and cold. | $Cu^{2+}, Co^{2+}, Mn^{2+}$ absent | 
-| | |
-| 2. Salt + $NaOH$ + warmed | 2. No evolution of gases: | |
-| | (i) No colorless/odorless gas | $Co_3^{2+}, C_2O_4^{2-}$ absent | 
-| | **(ii) Evolution of ammonia** | **$NH_4^+$ present** | 
-| | (iii) No colorless gas with smell of rotten eggs | $S^{2-}$ absent | 
-| | (iv) Neither dark between two reddish fumes | $NO_2^-, NO_3^-$ absent | 
-| | (v) No reddish-brown vapors | $Br^-$ absent | 
-| | (vi) No violet vapors | $I^-$ absent | 
-
 ## Wet Test for Acid Radical 
 | Experiment | Observation | Inference |
 |:-:|:-|:-:|
