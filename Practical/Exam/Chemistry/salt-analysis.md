@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-## Aim of the experiment 
-To determine the acid and basic radical in the given salt sample. 
-=======
 # Salt Analysis
 
 ## Aim of the Experiment 
@@ -24,7 +20,6 @@ To detect/analyze of one anion and one cation in a given sample.
 ## Chemical Required 
 1. Given salt sample 
 2. Reagents as per requirements of the test 
->>>>>>> bcc60816cf855123a3b89591fe2f1824c92c09f8
 
 ## Physical Characteristics 
 - **Color:** white 
@@ -33,25 +28,6 @@ To detect/analyze of one anion and one cation in a given sample.
 - **Solubility:** soluble in water 
 
 ## Dry Test for Basic Radical 
-<<<<<<< HEAD
-### Action of Heat
-| Experiment | Observation | Inference | 
-|:-:|:-|:-:|
-| 1. Heat a pinch of salt in a dry test tube. | Salt fuses | $Ba^{2+}$ present |  
-| | Sublimate formed | $NH_4^+$ absent | 
-
-## Dry Test for Acid Radical 
-### Action of dil. $HCl$
-| Experiment | Observation | Inference |
-|:-:|:-|:-:|
-| Salt + dil. $HCl$ + warmed | No colorless or odorless gas formed | $CO_3^{2-}$, $HCO_3^-$ absent | 
-| | No colorless gas with smell of vinegar formed | $CH_3COO$ absent | 
-
-### Action of conc. $H_2SO_4$
-| Experiment | Observation | Inference |
-|:-:|:-|:-:|
-| 1. Salt + conc. $H_2SO_4$ + heat | Colorless gas with pungent smell formed | $Cl^-$ present | 
-=======
 ### Action of Heat 
 | Experiment | Observation | Inference |
 |-|-|-|
@@ -68,7 +44,6 @@ To detect/analyze of one anion and one cation in a given sample.
 | | (iv) Neither dark between two reddish fumes | $NO_2^-, NO_3^-$ absent | 
 | | (v) No reddish-brown vapors | $Br^-$ absent | 
 | | (vi) No violet vapors | $I^-$ absent | 
->>>>>>> bcc60816cf855123a3b89591fe2f1824c92c09f8
 
 ## Wet Test for Acid Radical 
 | Experiment | Observation | Inference |
