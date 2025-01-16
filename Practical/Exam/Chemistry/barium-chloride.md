@@ -25,6 +25,25 @@ To detect/analyze of one anion and one cation in a given sample.
 - **Odor:** odorless
 - **Solubility:** soluble in water 
 
+## Dry Test for Basic Radical 
+### Action of Heat
+| Experiment | Observation | Inference | 
+|:-:|:-|:-:|
+| 1. Heat a pinch of salt in a dry test tube. | Salt fuses | $Ba^{2+}$ present |  
+| | Sublimate formed | $NH_4^+$ absent | 
+
+## Dry Test for Acid Radical 
+### Action of dil. $HCl$
+| Experiment | Observation | Inference |
+|:-:|:-|:-:|
+| Salt + dil. $HCl$ + warmed | No colorless or odorless gas formed | $CO_3^{2-}$, $HCO_3^-$ absent | 
+| | No colorless gas with smell of vinegar formed | $CH_3COO$ absent | 
+
+### Action of conc. $H_2SO_4$
+| Experiment | Observation | Inference |
+|:-:|:-|:-:|
+| 1. Salt + conc. $H_2SO_4$ + heat | Colorless gas with pungent smell formed | $Cl^-$ present | 
+
 ## Wet Test for Acid Radical 
 | Experiment | Observation | Inference |
 |:-:|:-|:-:|
