@@ -16,15 +16,14 @@ Probably has notes for all the subjects. (lie)
 Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
 
 ## TODO
-
 - [ ] Survive
-- [ ] Complete assignments 
+- [x] Complete assignments 
     - [x] Biology
-    - [ ] Physics
-    - [ ] Chemistry 
+    - [x] Physics
+    - [x] Chemistry 
     - [x] Physical Education
-    - [ ] IP
-    - [ ] English
+    - [x] IP
+    - [x] English
 - [x] Complete SVHW
     - [x] Biology
     - [x] Chemistry 
