@@ -28,6 +28,8 @@ To prepare a temporary mound to observe pollen germination under laboratory cond
 5. Observe the slide under a microscope for pollen germination.
 
 ## Observations
+<img align=right src="./img/ex-4/pollen-grain.jpg" width=400>
+
 - Pollen grains absorb the nutrient solution.
 - The pollen tube emerges from the pollen grain, indicating successful germination.
 - The rate and percentage of pollen germination may vary depending on the species of the flower and the composition of the nutrient medium.

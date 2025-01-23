@@ -26,7 +26,7 @@ To study controlled pollination, emasculation, tagging and bagging through model
 
 ## Tagging
 - Tagging is the process of labeling flowers during cross-pollination experiments to maintain accurate records of the breeding process.
-- After bagging, tags are attached to the flowers to indicate essential information such as the date of emasculation, date of pollination, name of the male and female parents and other relevant experimental data.
+- After bagging, tags are attached to the flowers to indicate essential information such as the **date of emasculation, date of pollination, name of the male and female parents and other relevant experimental data**.
 - The tags are usually made from materials like paper or plastic that can withstand environmental conditions.
 - The information written on the tags ensures that the breeding process is traceable, facilitating proper identification and further research on the resulting seeds or plants.
 - Tagging helps in keeping track of specific crosses and prevents confusion during the harvesting of seeds, ensuring that the desired genetic traits are studied accurately.

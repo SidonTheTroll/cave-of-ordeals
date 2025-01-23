@@ -29,7 +29,7 @@ Microscope, permanent slides of the Testis, Ovary, Plasmodium, Blastocyst, prese
 
 # Blastocyst 
 ## Observations 
-<img align=right src="./img/ex-1/blastula.png">
+<img align=right src="./img/ex-1/blastula.png" width=400>
 
 - It is a spherical mass of cells. 
 - It carries a fluid-filled cavity called blastocoel. 
