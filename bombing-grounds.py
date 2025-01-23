@@ -1,10 +1,10 @@
 import pandas as pd
+numbers = []
 
-ser = pd.Series(range(41, 71, 3))
-for i in range(0, ser. size):
-    if ser[i] % 2 == 0:
-        ser[i] = ser[i]-3
-    elif ser[i] % 2 != 0:
-        ser[i] = ser[i]+7
+for i in range(1, 11):
+    val = int(input("Enter a number: "))
+    numbers.append(val)
+ser = pd.Series(numbers)
 
+ser[ser % 4 == 0] = 0
 print(ser)
