@@ -1,10 +1,9 @@
 import pandas as pd
-numbers = []
 
-for i in range(1, 11):
-    val = int(input("Enter a number: "))
-    numbers.append(val)
-ser = pd.Series(numbers)
+player_data = {"Name": ["A", "B", "C", "D", "E"], "Test": [3543, 2578, 2280, 2158, 1879], "ODI": [2245, 2165, 2080, 1957, 1856], "T20": [1925, 1853, 1522, 1020, 980]}
 
-ser[ser % 4 == 0] = 0
-print(ser)
+data = pd.DataFrame(player_data)
+
+data.index += 1
+
+print(data.loc[:, ("Name", "ODI")])
