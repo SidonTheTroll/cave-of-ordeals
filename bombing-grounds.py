@@ -1,9 +1,10 @@
-import pandas as pd
+import matplotlib.pyplot as pp
 
-player_data = {"Name": ["A", "B", "C", "D", "E"], "Test": [3543, 2578, 2280, 2158, 1879], "ODI": [2245, 2165, 2080, 1957, 1856], "T20": [1925, 1853, 1522, 1020, 980]}
+overs = [1, 2, 3, 4]
+runs = [6, 18, 10, 5]
 
-data = pd.DataFrame(player_data)
-
-data.index += 1
-
-print(data.loc[:, ("Name", "ODI")])
+pp.bar(overs, runs, color="m")
+pp.xlabel("Overs")
+pp.ylabel("Runs")
+pp.title("Bowling Spell Analysis")
+pp.show()
