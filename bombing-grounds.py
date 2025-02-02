@@ -1,10 +1,5 @@
-import matplotlib.pyplot as pp
+import pandas as pd 
+import numpy as np 
 
-overs = [1, 2, 3, 4]
-runs = [6, 18, 10, 5]
-
-pp.bar(overs, runs, color="m")
-pp.xlabel("Overs")
-pp.ylabel("Runs")
-pp.title("Bowling Spell Analysis")
-pp.show()
+s = pd.Series(np.tile([3,5],2))
+print(s)
