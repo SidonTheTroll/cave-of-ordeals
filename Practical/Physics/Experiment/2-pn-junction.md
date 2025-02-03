@@ -10,6 +10,9 @@ A graph showing the variation of current flowing through a p-n junction with the
 - **Forward bias characteristic**: If the positive terminal of a battery is connected to p-side and the negative terminal to the n-side, then the p-n junction is said to be forward biased. With the increase in bias voltage, initially the current increases very slowly almost negligibly, till the voltage across the diode crosses a certain value, called the threshold voltage or cut-in-voltage. After the voltage, the diode current increases rapidly, even for a small increase in the bias voltage. 
 - **Reverse bias characteristic**: If the positive terminal of a battery is connected to the n-side and the negative terminal to the p-side, then the p-n junction is said to be in reverse biased. When the reverse bias voltage increases, initially the current increases but soon becomes constant. This current is very small (a few $\mu A$). It is called reverse saturation current. 
 
+| ![forward bias](./img/2-forward-bias.jpg) | ![reverse bias](./img/2-reverse-bias.jpg) |
+|-|-| 
+
 # Observations 
 Range of voltmeter $\rightarrow$ 0-1 V, LC=0.02  
 Range of ammeter $\rightarrow$ 0-10 mA, LC = 0.4 
