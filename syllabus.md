@@ -21,3 +21,6 @@
     2. 4: Principles of Inheritance and Variation
 6. IP 
     1. 1: Python Pandas - 1 
+
+# Final Term 
+- All books except lab manuals
