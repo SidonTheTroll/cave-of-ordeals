@@ -43,4 +43,29 @@
     2. 2nd bye is given to: Last team of lower half 
     3. 3rd bye is given to: First team of upper half 
     3. 4th bye is given to: Last team of upper half
-17. 
+
+---
+
+20. To purchase sports equipment is the function of **finance** committee.
+21. Responsibilities of committiees are divided into **Pre, During and Post**.
+22. Which committee is responsible for accommodation of the players and officials in a tournament **Boarding and Lodging committee**.
+23. Which one of the following is not the function of sports management? 
+    - **Running**
+24. Which one of the following functions works as a roadmap in attaining the organizational goals? 
+    - **Planning** 
+25. Which one of the following functions as related to the process of inspiring, guiding and instructing all the individuals of sports organization?
+    - **Directing** 
+26. There are **five** basic functions of sports management. 
+27. **Planning** is a process of setting objectives and deciding how to accomplish them. 
+28. Which one of the following the first step in sports management? 
+    = Planning
+29. Pre tournament tasks are done: 
+    - Before the tournament 
+30. Intramurals are significant for: 
+    - Physical, mental and social development 
+31. Which sports competition is organized within the school? 
+    - **Intramuarl**
+32. What is the formula to determine number of matches in League fixture for even number of teams? 
+    - N(N-1)2 
+33. Which type of tournament is organized if event has to be done between schools and with low budget.
+    - **Knockout**
