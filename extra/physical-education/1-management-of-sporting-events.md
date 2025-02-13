@@ -70,3 +70,92 @@ The Organizing Committee is responsible for the successful and smooth conduct of
 11. **First Aid Committee**: headed by a well-qualified doctor, this committee provides first aid to injured or affected athlete/sportspersons immediately. This committee makes all necessary arrangements to be ready all time during the event.
 12. **Finance Committee**: prepares budget and maintains the account of income and expenditure.
 
+# Pre, During and Post Tournament Responsibilities of Committees
+Frequency of sports events are increasing and it is the responsibility of officials to make it unique. Therefore, for smooth conduct, it is important for officials to know the pre, during and post game duties. 
+
+## Pre-Tournament Responsibilities
+1. To prepare budget for the event with the authority.
+2. To prepare the schedule of the event, i.e., dates and venue of the tournament.
+3. To prepare sports ground/track/courts, sports equipment. 
+4. To form various committees for organizing the event. 
+5. Send information to various teams about dates and venues of the event. 
+6. Make necessary arrangement regarding boarding and lodging of sportspersons and officials. 
+7. Arrange prizes and certificates for winners. 
+8. Send entry forms to various institutions early and receive them on time for timely prepararation of fixtures.
+
+## During Tournament Responsibilities
+1. Ensure proper arrangement during inauguration of sports tournament.
+2. Check that the sports ground/fiedl/court and realted sports equipment are in order. 
+3. Ensure that the sports event is being organized as per schedule.
+4. Check the arrangement of refreshments to players and officials. 
+5. Make necessary announcement regarding the progress of the tournament.
+6. Prepare proper scoresheet for record. 
+7. Provide and update information to electonic and print media.
+8. Maintain proper discipline. 
+
+## Post Tournament Responsibilities 
+1. Give away prizes and certificates to winners. 
+2. Provide detailed results and other necessary information to the media. 
+3. Provide security refunds to the departing teams. 
+4. Collect all records/files related to the event. 
+5. Make the payments to officials and other concerned persons. 
+6. Prepare reports related to expenditure of the event. 
+7. Present mementos to chief guest, guest of honor, etc. 
+
+# Procedure to draw Fixtures: Knock-out (Bye and Seeding) and League (Cyclic, Staircase and Tabular)
+## Knock-out Tournament 
+- Essential points for Knock-out Tournament 
+    1. Total number of teams participating in the tournament. 
+    2. Total number of byes.
+    3. Number of teams in each half or quarter.
+    4. Number of byes to be given in each half or quarter.
+    5. Total number of rounds.
+    6. Total number of matches. 
+
+### Method of Preparing Fixture 
+- Finding number of byes:
+    1. Get the nearest exponent of 2 greater than the total number of teams.
+    2. Subtract the total number of teams from the exponent of 2.
+    3. The resulting number will the number of byes. 
+
+<div style="page-break-after: always"></div>
+
+- If the total number of teams can't be divided equally, 
+    - **Teams in upper half**: $\frac{\text{Total number of teams} + 1}{2}$
+    - **Teams in lower half**: $\frac{\text{Total number of teams} - 1}{2}$
+
+<div style="page-break-after: always"></div>
+
+- **Total number of matches**: $\text{Total number of teams} - 1$
+- **Number of rounds**:
+    1. If number of teams is exponent of 2, it is the number of 2 present in LCM of the number of teams. 
+    2. If number of teams isn't an exponent of 2, the number of rounds will be the next larger LCM of the exponent of 2 
+
+<div style="page-break-after: always"></div>
+
+- **Number of byes in upper half**: $\frac{NB-1}{2}$
+- **Number of byes in lower half**: $\frac{NB+1}{2}$
+
+### Method of Fixing Byes 
+1. First bye is given to first team of lower half. 
+2. Second bye is given to the last team of lower half. 
+3. Third bye is give to the first team of upper half. 
+4. Fourth bye is given to the last team of upper half. 
+5. For next byes, repeat in the same order. 
+
+### Number of Teams in Each Quarter 
+If the number of teams is large, then they are divided into quarters. The following steps are taken to divide them, 
+
+1. 4 Quarters are drawn. 
+2. Teams are divided equally into 4 quarters with equal number of teams. 
+3. If remaining team is 1, then it is put to the first quarter. 
+4. If remaining teams is 2, then they are put into quarter I and III respectively. 
+5. If remaining teams is 3, then they are put to quarters I, II, and III respectively. 
+
+## Definitions
+1. **Bye**: it is special privilege given to a team in the initial rounds because of which it gets exempted from playing in the first round and directly enters the second round. 
+2. **Tournament**: a competition involving many competitors in a single sport.
+3. **Fixture**: defined as schedule of teams taking part in the tournament and the methods of deciding the course of competition. 
+4. **Seeding**: given to specific teams or those teams which are winner/runner up team of last year's tournaments. These teams are placed in such a manner that they don't meet another stronger team in the first round. If a bye is not given to them, then it will have to participate in the first round. 
+5. **Special seeding**: in this seeding, the special players are brought straight away to quarterfinals or semifinals.
+6. **Planning**: it is an intellectual process of deciding in advance what is to be done, who is to do it, how it is to be done and when it is to be done?
