@@ -31,5 +31,6 @@ Read [**CONTRIBUTING.md**](./CONTRIBUTING.md) for collaboration.
     - [x] Physical Education
     - [x] English
 - [x] Complete writing the documentation of chem practical
+- [ ] Apply for Permanent Residence Certificate to be added to documents
 
 ![Alt](https://repobeats.axiom.co/api/embed/1b422b156464b5933d1d95ef0a73581cef09d113.svg "Repobeats analytics image")
