@@ -292,14 +292,15 @@ Teams of each zone play on knock-out basis and the winner of the four zones comp
 ## 4. League cum Knock-out
 All teams are divided into four zones and all teams play league matches in their respective zones. And one winner of each zone compete in knock-out tournament. 
 
-# Meaning of Intramural 
+# Intramurals 
+## Meaning of Intramural 
 Derived from Latin words 'Intra' and 'Muralis' meaning 'within' and 'wall' respectively. It refers to the activities held within the campus of an institution, only for the students of the school/institution. It is one of the best way to motivate students to take part in games and sports. 
 
 - ***A game for each and each for a game*** is considered the motto of intramurals. 
 
 Effective programmes of intramurals help to further develop good habits, skills, knowledge and other social qualities in students. These programmes provide ample opportunities for students to participate voluntarily and compete among students of the same institution. 
 
-# Origin of Intramurals 
+## Origin of Intramurals 
 - **Innate Instinct** – Children have a natural tendency to play, engaging in activities even in ancient times during leisure.  
 - **Historical Development** – Systematic intramural activities emerged over time; the first recorded intramural baseball event was organized in the USA in 1864.  
 - **Growth in the USA** – By the early 20th century, physical education teachers recognized intramurals' benefits, leading to the establishment of intramural departments in all high schools by 1925.  
@@ -312,3 +313,37 @@ Effective programmes of intramurals help to further develop good habits, skills,
     2. **Lack of Interest in Schools** – Most schools do not actively organize intramurals for all students.  
     3. **Inclusion of Differently Abled Students** – Intramural programs should be accessible to all, ensuring equal participation in a democratic society.  
     4. **Need for Structured Programs** – Effective planning and execution of intramurals are necessary for holistic student development.
+
+## Significance of Intramurals 
+The following points express the significance of intramurals: 
+
+1. Intramurals are significant for physical, mental, emotional and social development of students. 
+2. These programmes also lay stress on moral and ethical values of students. 
+3. Intramurals are necessary for the development of health of students. 
+4. These programmes are also important to tone down fighting instinct of children. 
+5. These programmes refresh the children and make them agile.
+6. Intramurals provide maximum recreation to the students. 
+7. The provide ample opportunities to the students to participate in games and sports. 
+8. They are also essential for developing leadership qualities among the students. 
+
+## Objective of Intramurals
+1. **Provide opportunity to every student to participate in games and sports**: it isn't possible to train every student for zonal-level and district-level games. So, in intramurals, every student has the opportunity to participate in the game of his/her choice. 
+2. **Develop leadership qualities among students**: even though student do not become leader as soon as they participate in intramurals, it helps in devloping those qualities who have inate qualities of leadership. 
+3. **To develop cooperation**: sports makes it necessary for the students to cooperate and over time, it helps to develop the same among them. 
+4. **To provide recreation**: it is the vital objective of intramurals. It helps the students to participate in the activity of their interest. 
+5. **To develop feeling of sportsmanship**: it is an important purpose of intramurals. Sportsmanship refers to show respect and courtesy to opponents and officials and also be humble in victory and gracious in defeat. 
+6. **Provide an opportunity to get an experience of organizing competitions**: it give the students opportunity in organizing competitions. A number of committees are formed for smooth organization in which students are involved directly and indirectly. Taking up these responsibilities help students to get an experiencee in organizing games and sports.
+7. **Identify talented sportspersons**: intramurals help to identify talented sportspersons due to participation of all students in such competitions. 
+8. **Provide an opportunity to develop personality**: intramurals help students to develop physical, mental, social, and emotional aspects of their personality. 
+
+## Activities for Intramural Competition 
+The activities included in intramural should be selected carefully depending on interests of students and availability of facilities in the institution and along that, it must provide recreational activities to the students. These activities should aid in achieving the goals of education and contribute to general development of the student. 
+
+Therefore, selection should be made in the following aspects, 
+
+1. **Major games**: volleyball, hockey, cricket, basketball, kabaddi, swimming, athletics, cycling, wrestling, lawn tennis, football, softball, badminton, etc. 
+2. **Minor games**: shuttle runs, kho-kho, circle games, tag game, roller skating, potato race, sack race, three-legged race, etc. 
+3. **Rhythmics**: lazium, dumb bell, marching, folk dance, group dance, solo dance, mass PT, rhythmic gymnastics, etc. 
+4. **Creative activities**: painting, drawing, sculpturing, making models, etc. 
+5. **Combative activities**: boxing, judo, taekwondo, karate, etc. 
+
