@@ -199,3 +199,116 @@ In this, the fixture is made in such a way that the teams are represented to cyc
     - If number of teams is even: $\text{Number of teams} - 1$
     - If number of teams is odd: equal to the number of team. 
 - **Number of matches**: $\frac{\text{Number of teams}(\text{Number of teams}-1)}{2}$
+
+- Advantages
+    1. Follows a clear cycle and easy to schedule the matches.
+    2. Every team competes against every other team. 
+    3. Helps complete the tournament in a structured manner with minimal delays.
+- Disadvantages 
+    1. Becomes complex when handling large number of teams. 
+    2. Some teams may get advantage due to better spacing between matches. 
+    3. Fixed cycle format makes it hard for rescheduling.
+
+## 2. Staircase Method 
+In this method, fixture is made like a staircase where no team gets bye and has no problem if the number of teams is odd or even.
+
+The matches are scheduled progressively pairing each team against every other team in a structured manner. 
+
+- Advantages
+    1. Matches are organized in a stepwire structure, make it easy to follow. 
+    2. Every team plays agains every other team exactly once. 
+    3. Ideal for equal participation across all teams. 
+- Disadvantages
+    1. With more teams, the number of rounds and matches become significant. 
+    2. Teams may need byes in odd-numbered tournaments, which can disrupt scheduling. 
+    3. Primarily designed for League tournament, not for knock-out style. 
+
+## 3. Tabular Method 
+This is also called the graph method. 
+
+- Procedure:
+    1. If number of teams is even, then $N+1$ squares are made vertically and horizontally where $N$ is the number of teams participating in the tournament. Else if $N$ is odd, then $N+2$ squares are made in the same manner. 
+    2. Teams are categorized in a table with rows and columns and teams named as A, B, C, and so on.
+        - If number of teams is even, then $N+1$ squares are made vertically and horizontally.
+        - Else if the number of teams is odd, then $N+2$ squares are made vertically and horizontally.
+            - Also add **bye** to the last box as the same will be given to the corresponding team on the row side in the number of round in the box. 
+    3. Then the team alphabets are arranged serially on the table with the name as the row and column heading. 
+    4. Make a diagonal line dividing the table into two right angled triangles. 
+    5. Starting from the second team, serially write natural numbers to the last box of the row side.
+    6. Then switch to next row and do the same for **non-crossed** box but it should be the next number after the one above it till it reaches the same for the last number in the first row. 
+    7. Repeat till the last number is in the first box of the row. 
+    8. Then write sequenced natural numbers downwards below each unfilled box below 7 except the last column. 
+    9. For the last column, first write even numbers till the even number smaller than the greatest number in the first row, then switch to odd numbers. 
+
+This procedure will give the fixture for tabular method with the boxed numbers being the round in which the teams will compete. 
+
+# Method of Deciding the winner in League Tournament 
+The team which gets the most points in a League tournament is declared the winner. Generally points are given in the follow way, 
+
+> Winner of the match = 2 points 
+> Loser of the match = 0 point 
+> Draw = 1 point each 
+
+If the points of two teams are equal, then the match is held again. But if it remains a draw, then the team which won the maximum number of matches is declared the winner. If a draw still remains, the team which scored the most goals is declared the winner. If a draw still remains, then a match is held again. Else if everything fails, the winner is declared by a toss. 
+
+In addition to this, other methods are also used to declare the winner, 
+
+1. British Method 
+2. American Method 
+
+## 1. British Method 
+Divide the total points obtined by total points obtainable, multiplied by 100 to get the score percentage. 
+
+$$
+\frac{\text{Total points obtained}}{\text{Total possible points}} \times 100
+$$
+
+## 2. American Method 
+Divide the total number of games won by total number of games played, multiplied by 100 to get winning percentage. 
+
+$$
+\text{Percentage} = \frac{\text{Matches won}}{Matches played} \times 100
+$$
+
+# Combination Tournaments 
+These type of tournaments are played on group or zonal basis. It also depends on the suitability of the activity, number of teams and areas and distance from which they come to participate. 
+
+Therefore, tournaments are held as zone and the winner of each zone compete against the winning team of other zones. On the basis of this, there are four types of combination tournaments. 
+
+1. Knock-out cum Knock-out 
+2. League cum League
+3. Knock-out cum League 
+4. League cum Knock-out 
+
+## 1. Knock-out cum Knock-out
+The total number of teams is divided into four equal zones. Firstly they play on knock-out basis to decide a winner from each zone. Then the winning teams play against each other in a knock-out tournament. Then one team becomes the winner of the inter-zonal tournament. 
+
+## 2. League cum League 
+All teams are divided equally into four zones and they play on a League basis. The each zonal winner competes against the other in another league tournament. Then one team becomes winner of the inter-zonal or group tournament. 
+
+## 3. Knock-out cum League 
+Teams of each zone play on knock-out basis and the winner of the four zones compete in League tournament. 
+
+## 4. League cum Knock-out
+All teams are divided into four zones and all teams play league matches in their respective zones. And one winner of each zone compete in knock-out tournament. 
+
+# Meaning of Intramural 
+Derived from Latin words 'Intra' and 'Muralis' meaning 'within' and 'wall' respectively. It refers to the activities held within the campus of an institution, only for the students of the school/institution. It is one of the best way to motivate students to take part in games and sports. 
+
+- ***A game for each and each for a game*** is considered the motto of intramurals. 
+
+Effective programmes of intramurals help to further develop good habits, skills, knowledge and other social qualities in students. These programmes provide ample opportunities for students to participate voluntarily and compete among students of the same institution. 
+
+# Origin of Intramurals 
+- **Innate Instinct** – Children have a natural tendency to play, engaging in activities even in ancient times during leisure.  
+- **Historical Development** – Systematic intramural activities emerged over time; the first recorded intramural baseball event was organized in the USA in 1864.  
+- **Growth in the USA** – By the early 20th century, physical education teachers recognized intramurals' benefits, leading to the establishment of intramural departments in all high schools by 1925.  
+- **Essential in Physical Education** – Today, physical education programs are considered incomplete without intramurals in schools.  
+
+<div style="page-break-after: always"></div>
+
+- **Challenges in India**  
+    1. **Materialistic Mindset** – Many parents prioritize academics over physical and social development.  
+    2. **Lack of Interest in Schools** – Most schools do not actively organize intramurals for all students.  
+    3. **Inclusion of Differently Abled Students** – Intramural programs should be accessible to all, ensuring equal participation in a democratic society.  
+    4. **Need for Structured Programs** – Effective planning and execution of intramurals are necessary for holistic student development.
