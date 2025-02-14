@@ -49,7 +49,7 @@ The function of management is to make sure that every process of the event goes 
         - Establishing standards, measurement of actual performance
         - Comparing of actual performance with the standard and taking action
 
-# Varius Committees and their Responsibilities [Pre, During and Post]
+# Various Committees and their Responsibilities [Pre, During and Post]
 Various committees are formed for the systematic and smooth conduct of sports events. Generally, a **Management Committees** exists which consists of one representative from each institution concerned, which takes complete responsibility for the success of an event. It formss various committees and delegates a variety of work among them. 
 
 - The General Committee is headed by an **Administrative Director** under whom **Executive Committee** performs its duties.
@@ -102,8 +102,7 @@ Frequency of sports events are increasing and it is the responsibility of offici
 6. Prepare reports related to expenditure of the event. 
 7. Present mementos to chief guest, guest of honor, etc. 
 
-# Procedure to draw Fixtures: Knock-out (Bye and Seeding) and League (Cyclic, Staircase and Tabular)
-## Knock-out Tournament 
+# Procedure to draw Knock-out Tournament Fixtures
 - Essential points for Knock-out Tournament 
     1. Total number of teams participating in the tournament. 
     2. Total number of byes.
@@ -112,7 +111,7 @@ Frequency of sports events are increasing and it is the responsibility of offici
     5. Total number of rounds.
     6. Total number of matches. 
 
-### Method of Preparing Fixture 
+## Method of Preparing Fixture 
 - Finding number of byes:
     1. Get the nearest exponent of 2 greater than the total number of teams.
     2. Subtract the total number of teams from the exponent of 2.
@@ -140,14 +139,14 @@ Frequency of sports events are increasing and it is the responsibility of offici
 
 - **Number of matches**: $\text{Total number of teams} - 1$
 
-### Method of Fixing Byes 
+## Method of Fixing Byes 
 1. First bye is given to first team of lower half. 
 2. Second bye is given to the last team of lower half. 
 3. Third bye is give to the first team of upper half. 
 4. Fourth bye is given to the last team of upper half. 
 5. For next byes, repeat in the same order. 
 
-### Number of Teams in Each Quarter 
+## Number of Teams in Each Quarter 
 If the number of teams is large, then they are divided into quarters. The following steps are taken to divide them, 
 
 1. 4 Quarters are drawn. 
@@ -156,7 +155,7 @@ If the number of teams is large, then they are divided into quarters. The follow
 4. If remaining teams is 2, then they are put into quarter I and III respectively. 
 5. If remaining teams is 3, then they are put to quarters I, II, and III respectively. 
 
-### Definitions
+## Definitions
 1. **Bye**: it is special privilege given to a team in the initial rounds because of which it gets exempted from playing in the first round and directly enters the second round. 
 2. **Tournament**: a competition involving many competitors in a single sport.
 3. **Fixture**: defined as schedule of teams taking part in the tournament and the methods of deciding the course of competition. 
@@ -164,7 +163,7 @@ If the number of teams is large, then they are divided into quarters. The follow
 5. **Special seeding**: in this seeding, the special players are brought straight away to quarterfinals or semifinals.
 6. **Planning**: it is an intellectual process of deciding in advance what is to be done, who is to do it, how it is to be done and when it is to be done?
 
-### Consolation Tournament 
+## Consolation Tournament 
 - **Requirement**: a good team plays with another good team in the first round and the one that loses get a setback. Therefore, Consolation tournament is held as an additioal chance given to the defeated team, among which, a winner is declared.
 
 A Consolation tournament is of two types: 
@@ -175,9 +174,28 @@ A Consolation tournament is of two types:
 2. **Second type**: in this Consolation tournament, the teams defeated in all the rounds get opportunity to take part in competition.
     - **Consolation Round**: The teams defeated in the first round compete against each other, continued by the team defeated in the second and third round against the winning team. 
 
-### Seeding Method 
+## Seeding Method 
 - **Requirement**: sometimes, all strong teams or all weak teams might be grouped in upper or lower half. This causes the strong teams to be eliminated in the preliminary round. To avoid this, special seeding method is used where strong teams are kept at appropriate place in the fixture. 
 - **Method**: to perform special seeding, the organizers must be aware of the team's previous performance. If two teams are seeded, one is kept in the top of upper half and the other in bottom of lower half. If 4 teams are seeded, first two are in the same way, and the third team is kept on the top of the lower half and the fourth seeded team is kept at the lowest place in the upper half. All the teams except the seeded teams are kept in the fixture by lots. 
 
-### Special Seeding 
+## Special Seeding 
 It is the process by which strongest players or teams are placed at appropriate places in the fixture. To avoid elimination of those teams in previous rounds, the are given opportunity to participate directly in quarter or semi finals.
+
+# Procedure of Fixture in League or Round Robin Tournament 
+- There are three types of fixture for League tournament:
+    1. Cyclic Method 
+    2. Staircase Method 
+    3. Tabular Method 
+
+## 1. Cyclic Method 
+In this, the fixture is made in such a way that the teams are represented to cycle around which indicates the matches in each round. 
+
+- If the number of teams is even, then the first team is fixed in the top right of the cycle and others cycle around it in clockwise direction.
+- If the number of teams is odd, then one bye will be given to the team corresponding to the letter bye in the fixture which is fixed in the top right corner and the other teams cycle it in clockwise direction. 
+
+<div style="page-break-after: always"></div>
+
+- **Number of rounds**
+    - If number of teams is even: $\text{Number of teams} - 1$
+    - If number of teams is odd: equal to the number of team. 
+- **Number of matches**: $\frac{\text{Number of teams}(\text{Number of teams}-1)}{2}$
