@@ -81,7 +81,7 @@ Frequency of sports events are increasing and it is the responsibility of offici
 5. Send information to various teams about dates and venues of the event. 
 6. Make necessary arrangement regarding boarding and lodging of sportspersons and officials. 
 7. Arrange prizes and certificates for winners. 
-8. Send entry forms to various institutions early and receive them on time for timely prepararation of fixtures.
+8. Send entry forms to various institutions early and receive them on time for timely preparation of fixtures.
 
 ## During Tournament Responsibilities
 1. Ensure proper arrangement during inauguration of sports tournament.
@@ -327,14 +327,14 @@ The following points express the significance of intramurals:
 8. They are also essential for developing leadership qualities among the students. 
 
 ## Objective of Intramurals
-1. **Provide opportunity to every student to participate in games and sports**: it isn't possible to train every student for zonal-level and district-level games. So, in intramurals, every student has the opportunity to participate in the game of his/her choice. 
-2. **Develop leadership qualities among students**: even though student do not become leader as soon as they participate in intramurals, it helps in devloping those qualities who have inate qualities of leadership. 
-3. **To develop cooperation**: sports makes it necessary for the students to cooperate and over time, it helps to develop the same among them. 
-4. **To provide recreation**: it is the vital objective of intramurals. It helps the students to participate in the activity of their interest. 
-5. **To develop feeling of sportsmanship**: it is an important purpose of intramurals. Sportsmanship refers to show respect and courtesy to opponents and officials and also be humble in victory and gracious in defeat. 
-6. **Provide an opportunity to get an experience of organizing competitions**: it give the students opportunity in organizing competitions. A number of committees are formed for smooth organization in which students are involved directly and indirectly. Taking up these responsibilities help students to get an experiencee in organizing games and sports.
-7. **Identify talented sportspersons**: intramurals help to identify talented sportspersons due to participation of all students in such competitions. 
-8. **Provide an opportunity to develop personality**: intramurals help students to develop physical, mental, social, and emotional aspects of their personality. 
+1. Provide opportunity to every student to participate in games and sports
+2. Develop leadership qualities among students
+3. To develop cooperation
+4. To provide recreation
+5. To develop feeling of sportsmanship
+6. Provide an opportunity to get an experience of organizing competitions
+7. Identify talented sportspersons
+8. Provide an opportunity to develop personality
 
 ## Activities for Intramural Competition 
 The activities included in intramural should be selected carefully depending on interests of students and availability of facilities in the institution and along that, it must provide recreational activities to the students. These activities should aid in achieving the goals of education and contribute to general development of the student. 
@@ -346,4 +346,62 @@ Therefore, selection should be made in the following aspects,
 3. **Rhythmics**: lazium, dumb bell, marching, folk dance, group dance, solo dance, mass PT, rhythmic gymnastics, etc. 
 4. **Creative activities**: painting, drawing, sculpturing, making models, etc. 
 5. **Combative activities**: boxing, judo, taekwondo, karate, etc. 
+
+# Extramurals 
+## Meaning of Extramurals
+It is derived form latin words 'Extra' and 'Muralis' meaning 'Outside' and 'Wall' respectively. It refers to the activites performed outside the walls of an institution. It means the activities that are organized by one institution and students from 2 or more institution can also participate in them. By its nature, it is also called Inter-Shool competitions. Extramurals are fixed well in advance so that the students of other schools can also prepare in advance for the competition. 
+
+## Significance of Extramural Competitons 
+Without extramurals, the programmes of physical education reamin incomplete. Apart from that, it has more important roles, 
+
+1. Provide opportunities to schools to show their sports capabilities
+2. Enhance the standard of sports performance
+3. Provide appropriate knowledge of sports techniques
+4. Plan and implement programmes of physical education more effectively
+5. Improve the opportunities to participate in sports
+
+## Objectives of Extramurals 
+1. To improve the standard of sports 
+2. To provide enriching experience to students 
+3. To develop sportsmanship and a feeling of fraternity 
+4. To broaden the base of sports 
+5. To provide knowledge of new rules and advanced techniques 
+
+# Community Sports - Purpose and Benefits 
+## Community Sports 
+- **Meaning of Community**: a community can be a group of people who share geographical connections, such as studying in the same school/college, living in the same town or neighborhood and who interact socially. It can also be defined as people who have common characteristics, like shared religious beliefs or something that makes them distinguishable, such as a common disability. 
+- **Meaning of sports**: it means all forms of physical activity, casual or organized which aim at expressing or improving physical fitness, mental well-being, forming social relationships and obtaining results in competitions. 
+
+Therefore, Community sports are those organized physical activities that are based in community that helps to develop strong social bonds. People who take part in community sports are more happier, healthier, making it a significant pillar in well-functioning society. 
+
+- **Purpose**: community sports help to build stronger, healthier, happier, and safer communities. It also helps to develop strategic thinking, leadership qualities, good setting, risk taking, and shaping personality. Conclusively, it can be told that the overall purpose of community sports is the holistic development of children and youth. 
+
+## Benefits of Community Sports 
+1. Helps in improving physical health
+2. Helps in improving mental and physical health 
+3. Helps in improving socaial health 
+4. Help in learning to overcome challenges and obstacles 
+5. Play a vital role in reducing crime rates
+6. Helps in building stronger communities 
+7. Provides social benefits 
+8. Helps in making connections 
+9. Helps in developing a sence of belonging
+10. Helpful in economic condition 
+
+## Community of Sports Programmes 
+These are usually held in cities, schools or colleges or nearby area in villages where maximum number of community participate frequently. Some of these community sports programmes are: 
+
+1. **Sports day**: sports day is organized by every school each year to promote holistic development in children. On this day, ample opportunities are provided to each student to take part in these activities. 
+    - **Procedure on organizing sports day**: a specific day is fixed for organizing sports day along with an appropriate place to hold the event. An Administrative or Organizational Committee is constituted which conducts all the events on the sports day systematically. Various committees such as decoration committee, playground committee, programme committee, reception committee, refreshment committee, first aid committee, prize distribution committee, etc. are formed to organize sports day successfully. 
+2. **Health runs**: these are organized by health department, sports department or social organizations to improve standard of health in a country and raise funds for charity. These provide significant health benefits without any specific preparation. There's no competition but registration is required in advance, with only requirements being a pair of shoes and light clothes. Date, time and course are fixed with no age requirement but one should keep note of following suggestions to make the running experience safe and effective: 
+    1. Avoid tension; make sure arms, shoulders, neck and fingers are relaxed and hands are unclenched. 
+    2. Breathing should be rhythmic and deep with controlled exhalation force. When picking up pace, make sure breathing doesn't get shallow. 
+    3. Don't bend the body from the hip level. 
+    4. Run softly and steps should be normal. 
+    5. Arms should swing equally. 
+    6. Consume adequate amount of water before and after run, especially in heat. 
+    7. Consult a doctor if above 60 years of age and don't exercise regularly. 
+3. **Run for fun**: organized to spread message of remaining healthy and fit among the masses. It can be organized to motivate people to exercise regularly and stay healthy. It is organized the same way as health runs. It is more to have fun and frolick during running. It is a friendly race that involves either road running or cross country running in which people take part for their own enjoyment rather than competition. 
+4. **Run for specific cause**: this event is organized by NGOs for a good and noble cause. Prizes can be given to position holders but the main purpose is to raise funds for a specific noble cause. Most people participate to stay fit but NGOs organize these for helping patients of cancer, mentally and physically challenged people, people suffering from arthritis, AIDS, leukemia, etc. 
+5. **Run for unity**: these are organized to promote unity, peace, harmony and solidarity among people of various groups and religions. Its purpose may be national and international integration and brotherhood. In some countries, these are held to celebrate independence. These type of runs can be long distance relay race or marathons. Prize money is given to first three position holders. 
 
