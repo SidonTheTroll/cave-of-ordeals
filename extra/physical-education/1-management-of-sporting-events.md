@@ -10,7 +10,7 @@
 # Definitions of Management and Sports Management
 1. **MC Farland**: "Management is the process by which managers create, direct, maintain, and operate purposive organizations through systematic, coordinated, and cooperative human effort." 
 2. **George Terry**: "Management is a process as planning, organizing, actualizing, and controlling to determine and accomplish the objectives of the use of people and resources." 
-3. **P. Chelladurai**: "Sports management can be defined as the corrdination of resources, technologies, processes, personal, and situational contingencies for the efficient production and exchange of sports services." 
+3. **P. Chelladurai**: "Sports management can be defined as the coordination of resources, technologies, processes, personal, and situational contingencies for the efficient production and exchange of sports services." 
 
 **Management is the systematic coordination of people, resources, and processes to achieve objectives efficiently. In sports, it ensures the effective organization, planning, and execution of activities for successful events and services.**
 
@@ -23,11 +23,11 @@ The function of management is to make sure that every process of the event goes 
     - Plans in advance what to do and when to do 
     - Evaluate methods and strategies to reach the goal
     - It helps to reduce errors to a large extent
-    - Avoids confusion, uncertainities, wastages and risks 
+    - Avoids confusion, uncertainties, wastages and risks 
 2. **Organizing**: 
     - It is a process of bringing physical, financial, human resources and developing good relationship among them for organizational goal. 
     - Determines how tasks are need to be completed before assigning staff/officials on the duty
-    - It is the process of identifcation of activities, classification of grouping aof activities and assignment of duties. 
+    - It is the process of identification of activities, classification of grouping aof activities and assignment of duties. 
 3. **Staffing**: 
     - One of the most important body in sports event management 
     - Main purpose is to put the right man at the right job at the right time.
@@ -50,23 +50,23 @@ The function of management is to make sure that every process of the event goes 
         - Comparing of actual performance with the standard and taking action
 
 # Various Committees and their Responsibilities [Pre, During and Post]
-Various committees are formed for the systematic and smooth conduct of sports events. Generally, a **Management Committees** exists which consists of one representative from each institution concerned, which takes complete responsibility for the success of an event. It formss various committees and delegates a variety of work among them. 
+Various committees are formed for the systematic and smooth conduct of sports events. Generally, a **Management Committees** exists which consists of one representative from each institution concerned, which takes complete responsibility for the success of an event. It forms various committees and delegates a variety of work among them. 
 
 - The General Committee is headed by an **Administrative Director** under whom **Executive Committee** performs its duties.
     - The **Organizing Committee** for games/sports works under **Executive Committee**.
 
-The Organizing Committee is responsible for the successful and smooth conduct of sports meets/events. Various committies are formed under it:
+The Organizing Committee is responsible for the successful and smooth conduct of sports meets/events. Various committees are formed under it:
 
 1. **Publicity Committee**: Announce date, venues and sports events, provides, advance information to institutions, undertakes printing, advertise sports events, etc. 
 2. **Transportation Committee**: Provides facilities regarding transportation of various teams to venue of sports events or to place of boarding and lodging. 
 3. **Boarding and Lodging Committee**: Responsible for making necessary arrangements for providing accommodation and serving meals to sportspersons and officials. 
-4. **Deccoration and Ceremony Committee**: Responsible for decoration of sports arena or stabium; also responsible for making necessary arrangements for opening ceremony, victory ceremony and closing ceremony. This committee also makes arrangements for trophies, medals and certificates. 
+4. **Decoration and Ceremony Committee**: Responsible for decoration of sports arena or stadium; also responsible for making necessary arrangements for opening ceremony, victory ceremony and closing ceremony. This committee also makes arrangements for trophies, medals and certificates. 
 5. **Grounds and Equipment Committee**: Responsible for preparing the grounds or laying out track and field. Also makes arrangements of equipments related to the game/athletic needs. The also need to provide equipment according to specifications. 
-6. **Committee for Refreshments and Entertainment**: Takes charge for supplying refreshments and drinks to officials, guests, competitiors, etc. They also have to make arrangement for entainment programmes during opening and closing ceremony. 
+6. **Committee for Refreshments and Entertainment**: Takes charge for supplying refreshments and drinks to officials, guests, competitors, etc. They also have to make arrangement for entertainment programmes during opening and closing ceremony. 
 7. **Reception Committee**: Responsible for welcoming chief guests at opening and closing ceremonies and also guests and spectators. 
-8. **Committee on Entries and Programmes**: sends retry forms to various institutions early and receives them on time, alots numbers to the competitors and arranges the seats for guests and spectators. Prepares fixtures for participating teams, and creates complete programme related to games/sports events which gets printed. They also prepare souvenirs and circulates them among guests, managers of teams and officials. 
+8. **Committee on Entries and Programmes**: sends retry forms to various institutions early and receives them on time, allots numbers to the competitors and arranges the seats for guests and spectators. Prepares fixtures for participating teams, and creates complete programme related to games/sports events which gets printed. They also prepare souvenirs and circulates them among guests, managers of teams and officials. 
 9. **Committee for Officials**: This selects various officials such as referees, time keepers, lap scorers for athletic meets and referees, umpires, recorders, judges, etc. 
-10. **Announcement Committee**: Responsible for making various announcements during events, gives information regarding opening and closing ceermonies, even schedule announcement, name of officials, who are conducting the event and running commentary of the event. 
+10. **Announcement Committee**: Responsible for making various announcements during events, gives information regarding opening and closing ceremonies, even schedule announcement, name of officials, who are conducting the event and running commentary of the event. 
 11. **First Aid Committee**: headed by a well-qualified doctor, this committee provides first aid to injured or affected athlete/sportspersons immediately. This committee makes all necessary arrangements to be ready all time during the event.
 12. **Finance Committee**: prepares budget and maintains the account of income and expenditure.
 
@@ -85,12 +85,12 @@ Frequency of sports events are increasing and it is the responsibility of offici
 
 ## During Tournament Responsibilities
 1. Ensure proper arrangement during inauguration of sports tournament.
-2. Check that the sports ground/fiedl/court and realted sports equipment are in order. 
+2. Check that the sports ground/field/court and related sports equipment are in order. 
 3. Ensure that the sports event is being organized as per schedule.
 4. Check the arrangement of refreshments to players and officials. 
 5. Make necessary announcement regarding the progress of the tournament.
 6. Prepare proper scoresheet for record. 
-7. Provide and update information to electonic and print media.
+7. Provide and update information to electronic and print media.
 8. Maintain proper discipline. 
 
 ## Post Tournament Responsibilities 
@@ -164,7 +164,7 @@ If the number of teams is large, then they are divided into quarters. The follow
 6. **Planning**: it is an intellectual process of deciding in advance what is to be done, who is to do it, how it is to be done and when it is to be done?
 
 ## Consolation Tournament 
-- **Requirement**: a good team plays with another good team in the first round and the one that loses get a setback. Therefore, Consolation tournament is held as an additioal chance given to the defeated team, among which, a winner is declared.
+- **Requirement**: a good team plays with another good team in the first round and the one that loses get a setback. Therefore, Consolation tournament is held as an additional chance given to the defeated team, among which, a winner is declared.
 
 A Consolation tournament is of two types: 
 
@@ -215,8 +215,8 @@ In this method, fixture is made like a staircase where no team gets bye and has 
 The matches are scheduled progressively pairing each team against every other team in a structured manner. 
 
 - Advantages
-    1. Matches are organized in a stepwire structure, make it easy to follow. 
-    2. Every team plays agains every other team exactly once. 
+    1. Matches are organized in a stepwise structure, make it easy to follow. 
+    2. Every team plays against every other team exactly once. 
     3. Ideal for equal participation across all teams. 
 - Disadvantages
     1. With more teams, the number of rounds and matches become significant. 
@@ -257,7 +257,7 @@ In addition to this, other methods are also used to declare the winner,
 2. American Method 
 
 ## 1. British Method 
-Divide the total points obtined by total points obtainable, multiplied by 100 to get the score percentage. 
+Divide the total points obtained by total points obtainable, multiplied by 100 to get the score percentage. 
 
 $$
 \frac{\text{Total points obtained}}{\text{Total possible points}} \times 100
@@ -349,10 +349,10 @@ Therefore, selection should be made in the following aspects,
 
 # Extramurals 
 ## Meaning of Extramurals
-It is derived form latin words 'Extra' and 'Muralis' meaning 'Outside' and 'Wall' respectively. It refers to the activites performed outside the walls of an institution. It means the activities that are organized by one institution and students from 2 or more institution can also participate in them. By its nature, it is also called Inter-Shool competitions. Extramurals are fixed well in advance so that the students of other schools can also prepare in advance for the competition. 
+It is derived form latin words 'Extra' and 'Muralis' meaning 'Outside' and 'Wall' respectively. It refers to the activities performed outside the walls of an institution. It means the activities that are organized by one institution and students from 2 or more institution can also participate in them. By its nature, it is also called Inter-Shool competitions. Extramurals are fixed well in advance so that the students of other schools can also prepare in advance for the competition. 
 
-## Significance of Extramural Competitons 
-Without extramurals, the programmes of physical education reamin incomplete. Apart from that, it has more important roles, 
+## Significance of Extramural Competitions  
+Without extramurals, the programmes of physical education remain incomplete. Apart from that, it has more important roles, 
 
 1. Provide opportunities to schools to show their sports capabilities
 2. Enhance the standard of sports performance
@@ -379,13 +379,13 @@ Therefore, Community sports are those organized physical activities that are bas
 ## Benefits of Community Sports 
 1. Helps in improving physical health
 2. Helps in improving mental and physical health 
-3. Helps in improving socaial health 
+3. Helps in improving social health 
 4. Help in learning to overcome challenges and obstacles 
 5. Play a vital role in reducing crime rates
 6. Helps in building stronger communities 
 7. Provides social benefits 
 8. Helps in making connections 
-9. Helps in developing a sence of belonging
+9. Helps in developing a sense of belonging
 10. Helpful in economic condition 
 
 ## Community of Sports Programmes 
@@ -401,7 +401,7 @@ These are usually held in cities, schools or colleges or nearby area in villages
     5. Arms should swing equally. 
     6. Consume adequate amount of water before and after run, especially in heat. 
     7. Consult a doctor if above 60 years of age and don't exercise regularly. 
-3. **Run for fun**: organized to spread message of remaining healthy and fit among the masses. It can be organized to motivate people to exercise regularly and stay healthy. It is organized the same way as health runs. It is more to have fun and frolick during running. It is a friendly race that involves either road running or cross country running in which people take part for their own enjoyment rather than competition. 
+3. **Run for fun**: organized to spread message of remaining healthy and fit among the masses. It can be organized to motivate people to exercise regularly and stay healthy. It is organized the same way as health runs. It is more to have fun and frolic during running. It is a friendly race that involves either road running or cross country running in which people take part for their own enjoyment rather than competition. 
 4. **Run for specific cause**: this event is organized by NGOs for a good and noble cause. Prizes can be given to position holders but the main purpose is to raise funds for a specific noble cause. Most people participate to stay fit but NGOs organize these for helping patients of cancer, mentally and physically challenged people, people suffering from arthritis, AIDS, leukemia, etc. 
 5. **Run for unity**: these are organized to promote unity, peace, harmony and solidarity among people of various groups and religions. Its purpose may be national and international integration and brotherhood. In some countries, these are held to celebrate independence. These type of runs can be long distance relay race or marathons. Prize money is given to first three position holders. 
 
