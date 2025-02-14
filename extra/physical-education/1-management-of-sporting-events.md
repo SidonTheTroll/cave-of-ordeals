@@ -136,6 +136,10 @@ Frequency of sports events are increasing and it is the responsibility of offici
 - **Number of byes in upper half**: $\frac{NB-1}{2}$
 - **Number of byes in lower half**: $\frac{NB+1}{2}$
 
+<div style="page-break-after: always"></div>
+
+- **Number of matches**: $\text{Total number of teams} - 1$
+
 ### Method of Fixing Byes 
 1. First bye is given to first team of lower half. 
 2. Second bye is given to the last team of lower half. 
@@ -152,10 +156,28 @@ If the number of teams is large, then they are divided into quarters. The follow
 4. If remaining teams is 2, then they are put into quarter I and III respectively. 
 5. If remaining teams is 3, then they are put to quarters I, II, and III respectively. 
 
-## Definitions
+### Definitions
 1. **Bye**: it is special privilege given to a team in the initial rounds because of which it gets exempted from playing in the first round and directly enters the second round. 
 2. **Tournament**: a competition involving many competitors in a single sport.
 3. **Fixture**: defined as schedule of teams taking part in the tournament and the methods of deciding the course of competition. 
 4. **Seeding**: given to specific teams or those teams which are winner/runner up team of last year's tournaments. These teams are placed in such a manner that they don't meet another stronger team in the first round. If a bye is not given to them, then it will have to participate in the first round. 
 5. **Special seeding**: in this seeding, the special players are brought straight away to quarterfinals or semifinals.
 6. **Planning**: it is an intellectual process of deciding in advance what is to be done, who is to do it, how it is to be done and when it is to be done?
+
+### Consolation Tournament 
+- **Requirement**: a good team plays with another good team in the first round and the one that loses get a setback. Therefore, Consolation tournament is held as an additioal chance given to the defeated team, among which, a winner is declared.
+
+A Consolation tournament is of two types: 
+
+1. **First Type**: each team gets two opportunities to play matches, one in the actual tournament and the other in the Consolation tournament; only if the team was defeated in the first round. Byes are given to those teams which didn't get bye in regular knock-out tournament. 
+    - **Consolation Round**: In this, the procedure is the same as regular tournament and byes are given to required teams. 
+
+2. **Second type**: in this Consolation tournament, the teams defeated in all the rounds get opportunity to take part in competition.
+    - **Consolation Round**: The teams defeated in the first round compete against each other, continued by the team defeated in the second and third round against the winning team. 
+
+### Seeding Method 
+- **Requirement**: sometimes, all strong teams or all weak teams might be grouped in upper or lower half. This causes the strong teams to be eliminated in the preliminary round. To avoid this, special seeding method is used where strong teams are kept at appropriate place in the fixture. 
+- **Method**: to perform special seeding, the organizers must be aware of the team's previous performance. If two teams are seeded, one is kept in the top of upper half and the other in bottom of lower half. If 4 teams are seeded, first two are in the same way, and the third team is kept on the top of the lower half and the fourth seeded team is kept at the lowest place in the upper half. All the teams except the seeded teams are kept in the fixture by lots. 
+
+### Special Seeding 
+It is the process by which strongest players or teams are placed at appropriate places in the fixture. To avoid elimination of those teams in previous rounds, the are given opportunity to participate directly in quarter or semi finals.
