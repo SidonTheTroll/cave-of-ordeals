@@ -1,3 +1,4 @@
+# Memories of Childhood
 # Short Answer Questions 
 ## 1. "But this eating by formula was not the hardest trial in that first day." What does Zitkala-Sa mean by 'eating by formula'? 
 A large bell summoned students to the dining room, where a small bell signaled them to take their seats. After a man’s brief mutterings, a final bell rang, and everyone began eating.

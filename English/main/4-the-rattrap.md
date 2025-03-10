@@ -1,5 +1,4 @@
 # The Rattrap 
-
 ## 1. From where did the peddler get the idea of the world being a rattrap? 
 The peddler saw the world as a giant rattrap, offering temptations like riches and comforts. Once someone takes the bait, it closes in, bringing an end to everything.
 

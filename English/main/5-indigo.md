@@ -1,5 +1,4 @@
 # Indigo 
-
 ## 1. Why is Rajkumar Shukla described as being 'resolute'? 
 Shukla's resolute dedication is shown by following Gandhi from Champaran to Lucknow and staying with him until meeting in Calcutta.
 

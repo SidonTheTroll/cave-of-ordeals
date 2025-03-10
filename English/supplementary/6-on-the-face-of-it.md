@@ -1,3 +1,4 @@
+# On the Face of it
 ## 1. Who is Mr. Lamb? How does Derry get into his garden?
 Mr. Lamb is an old man who lost his leg in the war and now uses a tin leg. He lives alone near a garden with ripe crab apples. While sitting in the garden, he sees Derry, a boy who climbs over the wall despite the open gate.
 

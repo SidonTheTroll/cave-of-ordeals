@@ -1,3 +1,4 @@
+# Journey to the End of the Earth 
 ## 1. How do geological phenomena help us to know about the history of humankind? 
 The separation of continents from a single landmass reveals Earth's history. About 650 million years ago, humans didn't exist due to an unfavorable environment. After dinosaurs became extinct, mammals emerged, and the human race began flourishing following the landmass separation.
 

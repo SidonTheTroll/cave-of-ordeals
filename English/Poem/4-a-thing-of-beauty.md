@@ -1,5 +1,4 @@
 # A Thing of Beauty
-
 ## 1. According to Keats, what spreads the pall of despondence over our dark spirits? How is it removed?
 In the poem, Keats hints at the things that cause troubles and suffering to human beings. They include the dearth of people with a mobile temperament, the unhealthy, miserable and evil ways of men. These things cause despondence and make us gloomy. 
 

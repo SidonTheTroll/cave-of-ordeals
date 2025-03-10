@@ -1,5 +1,4 @@
 # Aunt Jennifer's Tigers 
-
 ## 1. How do 'denizens' and 'chivalric' add to our understanding of the tiger's attitudes? 
 "Denizens" implies the tigers feel safe, fearless, and proud of their home, while "chivalric" highlights their majestic and dominant presence, akin to knights.
 

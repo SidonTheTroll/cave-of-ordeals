@@ -1,3 +1,4 @@
+# A Roadside Stand
 ## 1. How does the poet highlight the plight of the farmers at their roadside stand? 
 In *A Roadside Stand*, Frost highlights the farmers' plight by showing their desperate attempt to earn a living through the stand, only to be ignored by passing vehicles. This reflects their struggle, poverty, and neglect by wealthier society.
 

@@ -1,5 +1,4 @@
 # Keeping Quiet 
-
 ## 1. What will counting up to twelve and keeping still help us achieve?
 Counting to twelve and staying still helps us pause and reflect on our lives. Much of our suffering stems from haste, while stillness brings peace and clarity.
 

@@ -1,3 +1,4 @@
+# The Enemy
 ## 1. Why did Hana wash the wounded man herself? 
 Hana had to wash the wounded soldier herself because Yumi, the maid, refused, calling him a "dirty white man." Hana felt it was important to help her husband. Her strong mind and compassionate heart allowed her to care for the American soldier despite the circumstances.
 

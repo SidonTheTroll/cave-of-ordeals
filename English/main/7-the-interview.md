@@ -1,12 +1,11 @@
 # The Interview
-
-### 1. Why Lewis Carroll was said to have a horror of the interviewers? 
+## 1. Why Lewis Carroll was said to have a horror of the interviewers? 
 Lewis Carroll found interviews immoral and offensive, avoiding them out of a fear of being exaggerated.
 
-### 2. Why Rudyard Kipling had refused to be interviewed? 
+## 2. Why Rudyard Kipling had refused to be interviewed? 
 Rudyard Kipling disliked interviews, calling them immoral, invasive, and cowardly, unfit for respectable people.
 
-### 3. Did H.G. Wells favor interviews? Explain. 
+## 3. Did H.G. Wells favor interviews? Explain. 
 H.G. Wells valued interviews for sharing ideas, comparing them to thumbprints on his windpipe, and interviewed figures like Joseph Stalin and Saul Bellow.
 
 ## 4. Do you think Umberto Eco likes being interviewed? Give reasons for your opinion.
