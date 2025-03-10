@@ -1,6 +1,6 @@
 # 12/11/24
 
-### Q/ You've received an invitation to be the judge of a literary competition in St. Ann's School. Send a reply in not more than 50 words confirming your acceptance or refusal. You are Mohan/Mohini.
+## Q/ You've received an invitation to be the judge of a literary competition in St. Ann's School. Send a reply in not more than 50 words confirming your acceptance or refusal. You are Mohan/Mohini.
 
 - **Confirmation**
 
@@ -26,7 +26,7 @@ Mr. Mohan Sharma would like to thank the Principal, St. Ann's School for their k
 Regards  
 Mohan Sharma
 
-### Q/ Write a formal invitation acceptance to a 'Musical Nite' organized by Rotary Club, Bengaluru. 
+## Q/ Write a formal invitation acceptance to a 'Musical Nite' organized by Rotary Club, Bengaluru. 
 
 Rotary Club  
 Bengaluru 
@@ -37,3 +37,29 @@ Mr. Rohan Das would like to thank to the Rotary Club of Bengaluru for their invi
 
 Regards  
 Rohan Das
+
+## Q/ You are ABC and have been invited to the Science Exhibition to XYZ school as a Chief Guest. Write a letter of acceptance and refusal for the proposal in first person. 
+
+- Acceptance 
+
+XYZ School  
+\<Location\>
+
+12th February, 2025 
+
+I would like to extend my sincere gratitude to the Principal of XYZ School for the invitation to be the Chief Guest at the Science Exhibition on 20th February, 2025. I am delighted to accept the invitation and will be present at the venue by 10 am. 
+
+Regards  
+ABC
+
+- Refusal 
+
+XYZ School  
+\<Location\>
+
+12th February, 2025 
+
+I sincerely thank the Principal of XYZ School for the kind invitation to be the Chief Guest at the Science Exhibition on 20th February, 2025. However, due to prior commitment, I regret that I will not be able to attend. I extend my best wishes for the success of the event. 
+
+Regards  
+ABC
