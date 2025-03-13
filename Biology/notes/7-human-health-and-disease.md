@@ -209,3 +209,16 @@ HIV attacks **macrophages** and makes them its replication sites and attacks T-h
     2. Infected needles 
     3. Infected blood transfusion 
     4. From mother's body to fetus
+
+---
+
+# Introduction 
+- **Blood circulation** was discovered by **William Harvey**.
+- **William Harvey** also disproved the **'good humor hypothesis'** by demonstrating normal body temperature in a person with blackbile (considered to give hot personality and cause fever).
+
+<div style="page-break-after: always;"></div>
+
+- Health is affected by:
+    1. Genetic disorders 
+    2. Infections 
+    3. Life style (food and water intake, rest, exercise, habits)
