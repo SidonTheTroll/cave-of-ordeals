@@ -154,3 +154,41 @@ Even though the homozygous and heterozygous have different frequencies, the over
     - Agriculture developed 10000 years ago. 
 
 <Fig-6.9>
+
+--- 
+
+# Introduction
+- Why is knowing about Evolution important? 
+    - It helps us inderstand the changes in flora and fauna that have occurred over millions of years. 
+
+# Origin of Life 
+## Big Bang Theory 
+- When we see the stars on a night sky, we are actully seeing their light reach us which is millions of years old. 
+- The universe is about **20 billion years old**. It is found by several methods such as **Hubble's Law**.
+- **Big Bang Theory** attempts to explain the origin of universe in which a huge explosion which spread the the matter in space. Hydrogen and Helium formed sometime later. These gases condensed under gravitation and gave rise to galaxies of present day universe. 
+- **Earth** is supposed to be formed **4.5 billion years** ago. 
+    - Water vapor, methane, carbon dioxine and ammonia released from molten mass that covered the surface. 
+    - UV rays from the sun broke up water into hydrogen and oxygen. 
+    - **Oxygen** combined with **methane and ammonia** to form **water, $CO_2$, etc.**
+    - **Ozone layer** was formed by **photodissociation of Oxygen** by UV rays. 
+    - As Earth cooled, water vapor fell as **rain** that **fell the depressions to form oceans**. 
+
+## Theory of Spontaneous Generation
+- Early Greeks thought units of life called **spores** were transferred to Earth. 
+- It is also thought that life came from decaying matter like straw, mud, etc. 
+- **Louis Pasteur proved this theory wrong** by experimentally demonstrating life comes from pre-existing life. 
+    - He showed sterilized flasks with killed yeast only arose other organisms when it was exposed to outside air. 
+
+Therefore Theory of Spontaneous generation was **dismissed** but it didn't answer how life first came to Earth. 
+
+## Oparin and Haldane's Experiment 
+- **Oparin from Russia and Haldane from England** proposed life came from pre-existing non-living organic molecules and formation of life was preceded by chemical evolution, i.e., formation of diverse organic molecules from inorganic components. 
+
+
+# Evidences for Evolution
+# Adaptive Radiation 
+# Biological Evolution 
+# Mechanism of Evolution 
+# Hardy-Weinberg Principle 
+# Brief Account of Evolution 
+# Origin and Evolution of Man 
