@@ -1,5 +1,6 @@
 # Evolution 
 - Spontaneous generation of life: Louis Pasteur 
+smb://192.168.1.100/Music
     - Louis Pasteur's experiments in the 19th century disproved the theory of spontaneous generation, demonstrating that life does not arise from non-living matter spontaneously but rather from pre-existing life, using sterilized broth and swan-neck flasks to show that microbes come from the air, not the broth itself.
 
 - **Oparin and Haldane** gave the theory that life on Earth arose from non-living matter through a process of gradual chemical evolution
@@ -181,11 +182,51 @@ Even though the homozygous and heterozygous have different frequencies, the over
 
 Therefore Theory of Spontaneous generation was **dismissed** but it didn't answer how life first came to Earth. 
 
-## Oparin and Haldane's Experiment 
+## Oparin and Haldane Hypothesis (Primordial Soup Theory)
 - **Oparin from Russia and Haldane from England** proposed life came from pre-existing non-living organic molecules and formation of life was preceded by chemical evolution, i.e., formation of diverse organic molecules from inorganic components. 
+- As for chemical evolution, the conditions on Earth were - **high temperatures, volcanic storms, reducing atmosphere containing $CH_4, HN_3$, etc**. 
 
+## Miller's Experiment 
+- Done in **1953** by American Scientist, **S.L. Miller**. 
+- Done by creating discharge in a closed flask containing **$CH_4, H_2, NH_3$, and water vapor at $800\degree C$**.
+    - In the observation, he saw the **formation of sugars, nitrogen bases, pigments and fats**.
+- Analysis of meteorite content also shows these chemicals.
+- Therefore this theory is quite accepted. 
+
+## Origin of First Life Forms 
+- It is considered the first self replicating metaboli capsule life form originated 3 million years back. 
+- They would have been giant molecules of **RNA, Protein and Polysaccharides**. 
+- First single-celled life form originated 2000 million years ago. 
+- The first form of life arose slowly through evolutionary forces from non-living molecules is accepted in majority. 
+
+# Evolution of Life Forms - A Theory 
+- Darwin's Experiment and Conclusions 
+    - In **1831**, Charles Darwin did his voyage on H.M.S Beagle around the world. 
+    - He found living beings share similarities to varying degrees with other life forms that existed millions of years ago. 
+    - There were different extinction events that gave chance to other well adapted organisms to thrive. 
+    - Any population has variations in characteristics that allow the to survive better in natural conditions (climate, food, physical factors, etc.).
+    - Darwin referred this fitness to **reproductive fitness** where the organism to survive more is the one that leaves more progeny behind. 
+        - He called it **Natural Selection** and implied it as a **mechanism of evolution**. 
+
+<div style="page-break-after: always"></div>
+
+- Similar experiment was done by naturalist, **Alfred Wallace**, who found similar conclusions on his time in Malay Archipelago. 
+- All the existing organisms share common ancestors that existed at different periods of history of earth. 
+- The Geographical history of the Earth also correlates to the Biological history of the Earth. 
 
 # Evidences for Evolution
+## Role of Fossils 
+- Fossils work as evidence of life forms that existed previously. 
+- Fossils are formed when organism's body gets deposited along with the sediments one over the other during the history of Earth. 
+- Different aged rock sediments contain fossils of life-forms that probably died during the formation of particular sediment. 
+- Study of fossils provide the goelogical period in which they existed. 
+    - Hence, certain life-forms are restricted to certain geological periods that they existed. 
+
+## Embryological Support for Evolution 
+- This was proposed by **Ernst Heckel** based on similar features during embryonic stages common to all vertebrates that are absent in adults.
+    - For example, the **vestigial gill slits** that develop behind the head but is a functional organ only in fishes.
+- But this theory was **disapproved** by **Karl Ernst von Baer**. He noted that embryos never pass through the adult stages of other animals.  
+
 # Adaptive Radiation 
 # Biological Evolution 
 # Mechanism of Evolution 
