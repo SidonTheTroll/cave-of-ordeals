@@ -227,6 +227,28 @@ Therefore Theory of Spontaneous generation was **dismissed** but it didn't answe
     - For example, the **vestigial gill slits** that develop behind the head but is a functional organ only in fishes.
 - But this theory was **disapproved** by **Karl Ernst von Baer**. He noted that embryos never pass through the adult stages of other animals.  
 
+## Homologous and Analogous Organs 
+- Comparative anatomy and morphology shows similarities and differences among organisms of today and those that existed years ago. 
+    - These similarities can be used to trace common ancestors of different organisms 
+- **Homologous organs**: these are the organs that share similar anatomy but differenet functions. Such as, forelimbs of whales, bats, cheetah and humans.
+    - This is called **divergent evolution**.
+    - **Homology** indicates **common ancestry** 
+    - Other examples include vertebrate **hearts** or **brains**. 
+    - This can also be seeen in plants such as the thron and tendrils of *Bougainvillea* and *Cucurbita*.
+
+<div style="page-break-after: always"></div>
+
+- **Analogous organs**: these are the organs that are anatomically different but share the same function. 
+    - This is also called **convergent evolution**.
+    - **Analogy** indicates **similar environmental pressure or functions**.
+    - Other examples include **eye of octopus and mammals, wings of birds and butterfly, flippers of penguins and dolphins and food storage of sweet potato (root modification) and potato (stem modification)**.
+
+## Biochemical Ancestry 
+- As for the case of homologous and analogous organs, 
+    - Similar genes and proteins performing a given function also indicate common ancestry.
+
+## Hybridization
+
 # Adaptive Radiation 
 # Biological Evolution 
 # Mechanism of Evolution 

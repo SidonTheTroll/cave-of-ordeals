@@ -216,3 +216,112 @@ The usual procedures for analyzing a salt involves the systematic separation of 
 </div>
 
 <div style="page-break-after: always;"></div>
+
+# Group Analysis 
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. Heat salt with $NaOH$ and bring glass rod dipped in dil. $HCl$ near the mouth of test tube | Dense white fumes formed | Group 0 present | 
+| 2. Add dil. $HCl$ to the salt solution | White ppt. | Group 1 present | 
+| 3. Add dil. $HCl$ to the salt solution and then pass $H_2S$ gas. | Black ppt. | Group 2 present | 
+| 4. Boil salt soln. with salt + $HCl$ and add $NH_4Cl$ and $NH_4OH$ to the solution in excess. | Reddish-brown or white gelatinous ppt. forms | Group 3 present | 
+| 5. Add $NH_4Cl$ and $NH_4OH$ t osalt solution and pass $H_2S$ gas. | Black, pink or white ppt. forms. | Group 4 present | 
+| 6. Add $NH_4OH$ and $(NH_4)_2CO_3$ to the salt solution. | White ppt. | Group 5 present | 
+| 7. No particular group reagent. | - | Group 6 $Mg$ salt | 
+
+## Analysis of Group 0 
+| Experiment | Observation | Inference | 
+|:-:|:-:|:-:|
+| 1. Heat salt + $NaOH$ and bring a glass rod dipped in dil. $HCl$ near the mouth of the test tube. | Dense white fumes | $NH_4^+$ present | 
+| 2. Heat salt + $NaOH$ + Nessler reagent | Brown ppt. | $NH_4^+$ confirmed | 
+
+### Reaction 
+1. $NH_4^+ + 2[HgI_4]^{2-} + 4OH^- \rightarrow HgO \cdot Hg(NH_2)I \downarrow \text{(Brown ppt.)}+ 7I^- + 3H_2O$
+
+## Analysis of Group 1 
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. Sample + few drops of $K_2CrO_4$ | Yellow ppt. | $Pb^{2+}$ confirmed | 
+
+### Reaction 
+1. $Pb^{2+} + CrO_4^{2-} \rightarrow PbCrO_4 \text{(Yellow ppt.)}$
+
+This yellow ppt. is soluble in hot $NaOH$ solution. 
+
+$$
+PbCrO_4 + 4NaOH \leftrightarrows Na[Pb(OH)_4] + Na_2CrO_4
+$$
+
+## Analysis of Group 2 
+- Dissolve and filter black ppt. 
+
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. Boil the black ppt. + dil. $HNO_3$ + dil. $H_2SO_4$ | White ppt. is formed | $Pb^{2+}$ present |
+| 2. If no white ppt. then add excess of $NH_4OH$ to the solution. | Deep blue color is observed | $Cu^{2+}$ present | 
+
+### Reaction 
+- $Cu^{2+} + SO_4^{2-} + 2NH_3 + 2H_2O \rightarrow Cu(OH)_2 \cdot CuSO_4 + blue ppt. + 2NH_4^+$
+
+## Analysis of Group 3 
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. Filter the brown ppt. and dissolve the ppt. in dil. $HCl$ and add Potassium ferrocyanite | Blue color | $Fe^{3+}$ present | 
+| 2. Dissolve white ppt. in dil. $HCl$ + $NH_4OH$ | Blue ppt. | Al^{3+} present | 
+
+### Reaction 
+1. $4FeCl_3 + 3K_4[Fe(Cr)_6] \rightarrow 12KCl + Fe_4[Fe(CN)_6]_3 \text{(Blue color)}$ 
+2. $Al(OH)_3 + 3HCl \rightarrow AlCl_3 + 3H_2O$
+    - $AlCl_3 + 3NH_4OH \rightarrow 3NH_4Cl + Al(OH)_3 \text{(Blue color)}$
+
+## Analysis of Group 4 
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. Filter the blue ppt. and add $NH_4OH$ and add acetic acid and potassium nitrite | Yellow ppt formed | $Co^{2+}$ present | 
+| 2. Black ppt. + $NH_4OH$ dimethyl/ethyl glycoxane | Rose red ppt. | $Ni^{2+}$ present | 
+| 3. Black ppt. + $NaOH$ (excess) + $Br_2$ water + boil | Black ppt. | $Ni^{2+}$ present | 
+| 4. Flesh colored ppt. + add $NaOH$ + shake + white ppt. is formed + add $Br_2$ water to white ppt. | Turns black or brown | $Mn^{2+}$ present | 
+| 5. Dull white ppt. + $NaOH$ + white ppt is formed + $NaOH$ | White ppt. dissolves | Zn^{2+} present | 
+| 6. Dull white ppt. + potassium ferrocyanide solution | White or bluish white ppt. is formed | $Zn^{2+} present$ | 
+
+### Reaction
+- $O^{2+}$
+    - $COCl_2 + 2 KNO_2 \rightarrow 2KCl + Li(NO_3)_2$
+    - $KNO_2 + CH_3COOH \rightarrow CH_3COOK + HNO_2$
+    - $CO(NO_2)_2 + 2HNO_2 \rightarrow Li(NO_2)_3 + H_2O + NO$
+    - $Co(NO_2)_3 + 3KNO_2 \rightarrow K_3[Li(NO_2)_4]$
+- $Ni^{2+}$
+    - $NiCl_2 + 2NaOH \rightarrow 2NaCl + Ni(OH_2)$
+    - $Br_2 + H_2O \rightarrow 2HBr + [O]$
+    - $2Ni(OH)_2 + H_2O + [O] \rightarrow 2Ni(OH)_3$
+- $Mn^{2+}$
+    - $MnCl_2 + 2NaOH \rightarrow Mn(OH)_2 + 2NaCl$
+- $Zn^{2+}$
+    - $2ZnCl + K_4[Fe(CN)_6] \rightarrow Zn_2 [Fe(CN)_6] + 4KCl$
+
+## Analysis of Group V 
+- White ppt. dissolves the ppt. in hot dil. $CH_3COOH$ and divide the solution into three parts. 
+
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. First part + potassium chromate | Yellow ppt. formed | $Ba^{2+}$ confirmed | 
+| 2. Second part + $(NH_4)_2SO_4$ | White ppt. formed | $Sr^{2+}$ present | 
+| 3. Third part + amonium oxalate + ammonium hydroxide | White ppt. formed | $Ca^{2+}$ present | 
+
+### Reactions 
+- $Ba^{2+}$
+    - $BaCO_3 + 2CH_3COOH \rightarrow (CH_3COO)_2Ba + CO_2 \uparrow + H_2O$
+    - $(CH_3COO)_2Ba + K_2CrO_4 \rightarrow 2CH_3COOK + BaCrO_4$
+- $Sr^{2+}$
+    - $SrCO_3 + 2CH_3COOH \rightarrow (Ch_3COO)_2Sr + CO_2 + H_2O$
+    - $(CH_3COO)_2Sr + (NH_4)_2SO_4 \rightarrow 2CH_2COONH_4 + SrSO_4$
+- $Ca^{2+}$
+    - $CaCO_3 + 2CH_3COOH \rightarrow (Ch_3COO)_2Ca + CO_2 + H_2O$
+    - $(CH_3COO)_2Ca + (NH_4)C_2O_4 \rightarrow 2CH_3COONH_4 + CaC_2O_4$
+
+## Analysis of Group 6 
+| Experiment | Observation | Inference |
+|:-:|:-:|:-:|
+| 1. Sample + $NH_4Cl$ + $NH_4OH$ + ammonium phosplate soln. + rub the sides of the test tube with a glass rod. | White ppt. | Mg^{2+} present | 
+
+### Reaction 
+- $MgCl_2 + NH_4OH + (NH_4)_2HPO_4 \rightarrow + Mg(NH_4)PO_4 + 2NH_4Cl + H_2O$
