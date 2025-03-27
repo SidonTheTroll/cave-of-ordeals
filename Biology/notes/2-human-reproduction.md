@@ -357,3 +357,105 @@ Frogs | 6-21 days
   - Differentiate during pregnancy.
   - Secrete milk post-childbirth.
 - **Feeding**: New-born is fed milk by the mother during initial months of growth. 
+
+--- 
+
+# Introduction 
+Reproductive events in human after puberty: 
+
+1. **Gametogenesis**: formation of gametes, i.e., sperm in males and ovum in females. 
+2. **Insemination:** transfer of sperm into female genital tract
+3. **Fertilization:** fusion of male and female gametes leading to the formation of zygote. 
+4. **Implantation:** formation and development of blastocyst and attachment of blastocyst to uterine wall for nourishment. 
+5. **Gestation:** embryonic development 
+6. **Parturition:** delivery of the baby 
+
+# Male Reproductive System 
+- Consists of: 
+    1. Pair of testis 
+    2. Accessory ducts
+        1. Rete testis 
+        2. Vasa efferentia 
+        3. Epididymis
+        4. Vas deferens
+        5. Ejaculatory ducts 
+        6. Urethra 
+    3. Glands 
+        1. Seminal vesicle 
+        2. Prostate gland 
+        3. Bulbourethral gland 
+    4. External genitalia 
+
+- Located in pelvic region. 
+- Pair of testes along with accessory duct, glands and external genitalia. 
+- **Testis:** primary male sex organ
+    - Situated outside the abdominal cavity in a pouch called **scrotum** 
+        - To maintain low temperature (2-2.5 $\degree C$ lower) for **spermatogenesis** 
+    - Oval in shape 
+        - Length: 4-5 cm 
+        - Width: 2-3 cm 
+    - Each testis has approximately 250 compartments called **testicular lobules** 
+    - Each lobule contain one or three highly coiled **seminiferous tubule** where sperm are produced. 
+    - Each **seminiferous tubule** has two types of cells:
+        1. **Male germ cell (spermatogonia)**: meiosis leads to sperm formation 
+        2. **Sertoli cell**: nourishment to germ cell. 
+    - Region outside seminiferous tubule is called interstitial space which contains interstitial cell or Leydig cell 
+        - Leydig cells synthesize and secrete testicular hormones called **androgens**
+
+## Accessory Ducts 
+- Contains 
+    1. Rete tesits 
+    2. Vasa efferentia 
+    3. Epididymis
+    4. Vas deferens
+
+<div style="page-break-after: always"></div>
+
+- Seminiferous tubules of testis open into **vasa efferentia** though **rete testis** 
+- Vasa efferentia leave testis and opens into **epididymis**, located in **posterior surface** of testis. 
+- Epididymis leads to **vas deferens** and ascends to abdomen and loops over urinary bladder. 
+- It combines with **seminal vesicle** to form **ejaculatory duct**, which **stores and transports sperm**. 
+- Urethra originate from urinary bladder and extend through penis to external opening called **urethral meatus**. 
+
+## Penis 
+- It is the male external genitalia 
+- It has special tissue which helps in erection to faciliate insemination 
+- Enlarged end of penis is called **glans penis** which is covered with loose fold of skin called **foreskin**
+
+## Male Accessory Gland 
+1. Seminal vesicle 
+2. Prostate gland 
+3. Bulbourethral gland 
+
+- Secretion from these combined is called **seminal plasma** which is rich in fructose, calcium and enzymes which helps in the movement of sperm in female reproductive tract. 
+- Secrection of bulbourethral gland helps in lubrication of penis during sexual intercourse. 
+
+# Female Reproductive System 
+- Consists of: 
+    1. Pair of ovaries 
+    2. Oviduct (fallopian tube)
+    3. Uterus 
+    4. Cervix 
+    5. Vagina 
+    6. External genitalia 
+
+<div style="page-break-after: always"></div>
+
+- **Ovary**: 
+    - Primary sex organ 
+    - Produce female gamete and ovarian hormone 
+    - Located at each side of lower abdomen 
+    - Length is about 2-4 cm 
+    - Connected to pelvic wall and uterus by **ligament** 
+    - It is covered by thin epithelium called **germinal epithelium**
+    - Ovarian stroma is present inside it with two parts 
+        1. Peripheral cortex 
+        2. Inner medulla 
+
+## Oviduct (Fallopian Tube)
+- Fallopian tube, uterus and vagina constitute **female accessory duct** 
+- Fallopian tube is about 10-12 cm long 
+- Part closer to ovary is called **infundibulum** 
+    - Has finger-like projections called **fimbriae** which helps in the **collection of ovum** during ovulation.
+- Wider part is called ampulla 
+- Narrow part is referred as **narrow lumen** is called **isthmus** which conncets to the uterus. 
