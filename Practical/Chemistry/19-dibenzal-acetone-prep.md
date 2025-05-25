@@ -15,7 +15,7 @@ To prepare dibenzal acetone
 11. Sodium hydroxide 
 
 ## Theory 
-- Chemical reaction: 
+- Chemical reaction:  
 ![img](./img/19-reaction.png) 
 
 ## Procedure 

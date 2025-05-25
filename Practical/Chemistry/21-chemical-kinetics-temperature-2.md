@@ -11,8 +11,8 @@ To study the effect of change in temperature on the rate of reaction between sod
 7. Burner 
 
 ## Chemical Required 
-1. $\ce{1M Na2S2O3}$ solution
-2. $\ce{1M HCl}$ 
+1. $1M\ Na_2S_2O_3$ solution
+2. $1M\ HCl$ 
 3. Distilled water 
 4. Conc. $HNO_3$
 
@@ -21,12 +21,12 @@ The rate of reaction decrease with time as the concentration of reactants decrea
 
 The reaction can be represented as: 
 
-$\ce{\underset{\text{(Sodium thiosulphate)}}{Na2S2O3} + 2HCl \rightarrow 2NaCl + H2O + S}$
+$\underset{\text{(Sodium thiosulphate)}}{Na_2S_2O_3} + 2HCl \rightarrow 2NaCl + H_2O + S$
 
 The colloidal solution of sulphur so formed during the reaction gives turbidity to the solution which can be utilized to study the rate of reaction as turbidity increases with increase in time. 
 
 ## Procedure 
-1. Take 50 ml of 0.1 M $\ce{Na2S2O3}$ solution in a 100 ml conical flask and note its temperature. 
+1. Take 50 ml of 0.1 M $Na_2S_2O_3$ solution in a 100 ml conical flask and note its temperature. 
 2. Add 100 ml of 1 M $HCl$ to it and start stopwatch immediately when half of the $HCl$ solution has been added. 
 3. Shake the contents of the flask gently and place it on the tile with a cross mark. 
 4. Observe the cross mark formed from the top and note the time taken for the mark to become invisible. 

@@ -17,13 +17,10 @@ To set up simple Daniel cell and determine its EMF.
 
 When a copper electrode is dipped in copper sulphate solution and is connected to a zinc electrode dipped in zinc sulphate solution, then electrons flow from zinc electrode to copper electrode and the following chemical reaction takes place: 
 
-$$
-\ce{Zn(s)\rightarrow Zn^2+(aq) + 2e^-}
-\\
-\ce{Cu^2+ + 2e^- \rightarrow Cu(s)}
-$$
+$Zn(s)\rightarrow Zn^{2+}(aq) + 2e^-$  
+$Cu^{2+} + 2e^- \rightarrow Cu(s)$
 
-Overall reaction: $\ce{Zn(s) + Cu^2+(aq)\rightarrow Zn^2+(aq) + Cu(s)}$
+Overall reaction: $Zn(s) + Cu^{2+} (aq) \rightarrow Zn^{2+} (aq) + Cu(s)$
 
 ## Procedure 
 1. Take $CuSO_4$ solution in a clean beaker. 
