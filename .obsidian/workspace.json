@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "2a3df67179f64c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb50319fb0e58a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7c81d6de0cfbe80",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0aa0a74b414d3b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "8af5fb890b87156d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502f1a5d3aa2c9ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb7e8084a53e1a5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8daf2f38f1880c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07e833e1973feea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82cc34bf5008d01f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eda11222baa8cd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c67c8c6e83fd4936",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dc2edbcbe0e03731",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "138914a6c167d34d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "502f1a5d3aa2c9ce",
+  "lastOpenFiles": [
+    "Practical/PEdu/index.md~",
+    "English/supplementary/0-index.md~",
+    "English/supplementary/0-index.md",
+    "English/main/0-index.md~",
+    "English/Poem/0-index.md",
+    "English/Poem/0-index.md~",
+    "English/main/0-index.md",
+    "Question-Papers/Pre-Mid/IP.md",
+    "Practical/Exam/Chemistry/7-redox-titration.md",
+    "Practical/Exam/Chemistry/6-barium-chloride.md",
+    "Practical/Exam/Chemistry/5-ammonium-sulfate.md",
+    "Practical/Exam/Chemistry/4-ammonium-chloride.md",
+    "Practical/Exam/Chemistry/3-aluminum-sulfate.md",
+    "Practical/Exam/Chemistry/2-alcohol-identification.md",
+    "Practical/Exam/Chemistry/1-acid-identification.md",
+    "Practical/Exam/Chemistry/0-index.md",
+    "Practical/Exam/Chemistry/index.md",
+    "Biology/revision/12-11-24.md",
+    "Practical/Biology/index.md",
+    "Practical/Biology/1-slides-under-microscope.md",
+    "Practical/IP/part3.md",
+    "syllabus.md",
+    "routine.md",
+    "requirements.txt",
+    "README.md",
+    "Question-pattern.md",
+    "LICENSE",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "bombing-grounds.py",
+    "Attendance.md",
+    "assessment-record.md",
+    "SamplePapers/PEdu",
+    "SamplePapers",
+    "Records/Notice_20241230193629.pdf",
+    "Records/20250125100.pdf",
+    "Question-Papers/Pre-Mid/img/phy-9.jpg",
+    "Question-Papers/Pre-Mid/img/phy-7.jpg",
+    "Question-Papers/Pre-Mid/img/phy-10.jpg",
+    "Projects/SVHW/English/cover.png",
+    "Projects/Annual-Project/Biology/cover1.png",
+    "Practical/Physics/Experiment/img/9-table.png",
+    "Practical/Physics/Experiment/img/9-diagram.jpg",
+    "Practical/Physics/Experiment/img/8-paper-2.jpg",
+    "Practical/Physics/Experiment/img/8-paper-1.jpg",
+    "Practical/Physics/Experiment/img/8-graph.jpg"
+  ]
+}
