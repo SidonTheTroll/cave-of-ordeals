@@ -1,3 +1,5 @@
+[Link to Index](./index.md)
+
 ## Practicals to Write 
 1. Pedigree analysis 
     1. Rolling tongue 
