@@ -41,7 +41,7 @@ Quadrate can be of any size and to calculate the size of quadrates, the data rec
 Population density refers to the total numbers of each species for all the same areas and divide the sum by the total area in square meters. 
 
 $$
-\text{Density} = \frac{\text{Total number of each species}}{\text{TOtal sample area in square meters}}
+\text{Density} = \frac{\text{Total number of each species}}{\text{Total sample area in square meters}}
 $$
 
 Abundance indicates to the number of plants belonging to an individual species within a given area. This is important to determine the relative importance of a species in a community. To determine abundance, an estimate is made according to some selected scale. For example, rare = 1 to 4 plants per quadrate, infrequent = 5 to 14, frequent = 15 to 29, abundant = 30 to 99, and very abundant = 100 and over. Average abundance is then calculated for each species by adding the abundance values and dividing the number of quadrates in which the species occurred. For example, a fork may be present in 4 quadrates only, with abundance estimate of I, F and A. By adding the numerical values assigned to each of these letters, according to the scale R=1, I=5, F=14, A=30, and VA=100, a sum of 65 is obtained. Since the forb occurred in four quadrates, average abundance is 65 divided by 4 is 16.2.

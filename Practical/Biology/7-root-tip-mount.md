@@ -46,7 +46,7 @@ It is indirect nuclear division and is completed under the following phases:
     - Nuclear membrane is present. Nucleolus is prominent. 
 3. Metaphase 
     - Nuclear membrane disappears and spindle is formed. Chromosomes are arranged at the equatorial plate and forms a metaphase plate which is at right angles to the pole.
-    - Chromosomes are joined with the spindle fibers by their centromeres and the ir arms face towards the poles.
+    - Chromosomes are joined with the spindle fibers by their centromeres and their arms face towards the poles.
     - Centromeres are thick, short and condensed. 
 4. Anaphase
     - Chromosomes divide at the centromere region and each chromosome forms two daughter chromatids

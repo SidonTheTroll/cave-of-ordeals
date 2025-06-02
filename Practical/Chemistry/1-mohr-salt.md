@@ -1,5 +1,5 @@
 # Aim of the Experiment 
-To prepare double salt of Ferrous ammonium sulfate $FeSO_4\cdot (NH_4)_2\cdot H_2O]$ or Mohr's Salt. 
+To prepare double salt of Ferrous ammonium sulfate $[FeSO_4\cdot (NH_4)_2\cdot H_2O]$ or Mohr's Salt. 
 
 # Apparatus & Materials Required 
 

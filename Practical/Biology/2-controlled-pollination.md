@@ -15,7 +15,7 @@ To study controlled pollination, emasculation, tagging and bagging through model
 
 - It is a technique/process of removing stamens of a flower before they attain reproductive maturity. It is preferably done when the flower is in bud stage. 
 - It is done in bisexual flowers to prevent self-pollination. 
-- The anthers/stamens are remove/cut with the help of sterilized forceps or scissors and needle. 
+- The anthers/stamens are removed/cut with the help of sterilized forceps or scissors and needle. 
 - The anthers/stamens removal or Emasculation is generally performed in large size flower. 
 
 ## Bagging 

@@ -15,11 +15,12 @@ To extract DNA from spinach leaves.
 
 ## Procedure 
 <img align=right src="./img/ex-8/isolation.jpg" width=400>
+
 1. Take 1/2 cup of spinach leaves. Put them in a blender with one cup of water and one table spoon of salt. 
 2. Blend it at high speed so that it may become 'soupy' mixture.
-3. Pour the soupy mixture through a strainer into class measuring cup or beaker. Now add 1/6 of liquid detergent to the total volume and swirl to mix for about ten minutes. 
+3. Pour the soupy mixture through a strainer into glass measuring cup or beaker. Now add 1/6 of liquid detergent to the total volume and swirl to mix for about ten minutes. 
 4. Add a pinch of meat tenderized to the mixture.
-5. Now add rubbing alcohol to it. Alcohol caused the DNA to precipitate.
+5. Now add rubbing alcohol to it. Alcohol causes the DNA to precipitate.
 
 ## Observation
 DNA is spooled on a glass stirring rod or on a wooden stick. It appears as white precipitate of very fine threads on the spool.
