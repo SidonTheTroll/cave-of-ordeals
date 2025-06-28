@@ -1,6 +1,5 @@
 # Evolution 
 - Spontaneous generation of life: Louis Pasteur 
-smb://192.168.1.100/Music
     - Louis Pasteur's experiments in the 19th century disproved the theory of spontaneous generation, demonstrating that life does not arise from non-living matter spontaneously but rather from pre-existing life, using sterilized broth and swan-neck flasks to show that microbes come from the air, not the broth itself.
 
 - **Oparin and Haldane** gave the theory that life on Earth arose from non-living matter through a process of gradual chemical evolution
